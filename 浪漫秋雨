@@ -60,6 +60,7 @@ CCTV-1综合,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/22
 CCTV-1综合,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 CCTV-1综合,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8?icpid=88888888&from=1&hmsdevid=1012&vqe=3
 CCTV-1综合,http://39.135.133.167:80/TVOD/88888888/224/3221225816/main.m3u8
+CCTV-1综合,http://121.33.239.242:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1综合,http://39.135.133.167/wh7f454c46tw2432025760_1329101561/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -97,6 +98,9 @@ CCTV-2财经,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/
 CCTV-2财经,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226540/index.m3u8
 CCTV-2财经,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-2财经,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV-2财经,http://61.138.128.226:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2财经,http://121.33.239.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2财经,http://123.113.187.204:8000/udp/239.3.1.60:8084
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-2财经,http://39.135.133.176/wh7f454c46tw2622471537_2091783107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-2财经,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
@@ -106,6 +110,7 @@ CCTV-2财经,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/
 CCTV-2财经,http://39.135.133.177:80/wh7f454c46tw1338203950_2016505455/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-2财经,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
 CCTV-3综艺,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8
+CCTV-3综艺,http://121.33.239.242:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-3综艺,http://39.135.133.162/wh7f454c46tw2676563180_1030116792/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-3综艺,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
@@ -142,7 +147,10 @@ CCTV-5+赛事,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/
 CCTV-5+赛事,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-5+赛事,http://39.134.65.3:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-5+赛事,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-5+赛事,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.
+CCTV-5+赛事,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
+CCTV-5体育,http://220.249.114.102:9901/tsfile/live/1004_1.m3u8
+CCTV-5体育,http://218.3.138.25:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+赛事,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5+赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-5体育,http://39.135.133.157/wh7f454c46tw2742470901_1583507080/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -172,8 +180,10 @@ CCTV-5体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index
 CCTV-5体育,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
 CCTV-5体育,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 CCTV-6电影,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
+CCTV-6电影,http://123.182.60.29:9002/hls/6/index.m3u8
 CCTV-6电影,http://39.135.133.177:80/TVOD/88888888/224/3221225814/main.m3u8
 CCTV-6电影,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226010/index.m3u8
+CCTV-6电影,http://61.138.128.226:19901/tsfile/live/0006_1.m3u8
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-6电影,http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
 CCTV-6电影,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
@@ -238,10 +248,12 @@ CCTV-8电视,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/2
 CCTV-8电视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
 CCTV-8电视,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226008/index.m3u8
 CCTV-8电视,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
+CCTV-9纪录,http://123.182.60.29:9002/hls/51/index.m3u8
 CCTV-9纪录,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225734/index.m3u8
 CCTV-9纪录,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/1.m3u8?icpid=88888888&from=1&hmsdevid=1012&vqe=3
 CCTV-9纪录,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 CCTV-9纪录,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-9纪录,http://121.33.239.242:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV-9纪录,http://39.135.133.177/wh7f454c46tw2949178150_1539017046/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV-9纪录,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/1.m3u8
@@ -260,6 +272,9 @@ CCTV-10科教,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/2
 CCTV-10科教,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 CCTV-10科教,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV-10科教,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
+CCTV-10科教,http://121.33.239.242:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10科教,http://58.221.214.82:9901/tsfile/live/0010_1.m3u8
+CCTV-10科教,http://61.136.67.238:50085/tsfile/live/0011_1.m3u8
 CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV-10科教,http://39.135.133.179/wh7f454c46tw2978656234_263061604/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV-10科教,http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
@@ -276,10 +291,12 @@ CCTV-10科教,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/22
 CCTV-10科教,http://39.135.135.28:80/TVOD/88888888/224/3221225677/main.m3u8
 CCTV-10科教,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/1.m3u8?
 CCTV-10科教,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/1.m3u8?
+CCTV-10科教,http://110.80.17.38:9901/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV-10科教,http://123.182.60.29:9002/hls/10/index.m3u8
 CCTV-10科教,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225730/index.m3u8
 CCTV-11戏曲,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV-11戏曲,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
+CCTV-11戏曲,http://121.33.239.242:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV-11戏曲,http://39.135.133.174/wh7f454c46tw3025732740_236201208/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV-11戏曲,http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
@@ -330,6 +347,7 @@ CCTV-14少儿,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8
 CCTV-14少儿,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/1.m3u8
 CCTV-14少儿,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-14少儿,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225732/index.m3u8
+CCTV-15音乐,http://121.33.239.242:9901/tsfile/live/0015_1.m3u8
 CCTV-15音乐,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
 CCTV-16奥匹,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
 CCTV-16奥匹,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
@@ -338,6 +356,7 @@ CCTV-16奥匹,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 CCTV-16奥匹,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-16奥匹,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
 CCTV-16奥匹,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
+CCTV-16奥匹,http://59.173.243.210:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16奥匹,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-16奥匹,http://39.135.133.181/wh7f454c46tw3179531539_1574960566/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-16奥匹,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
@@ -347,11 +366,11 @@ CCTV-16奥匹,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 CCTV-16奥匹,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
 CCTV-16奥匹,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8
 CCTV-16奥匹,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-16奥匹,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8
-CCTV-16奥匹,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8
+CCTV-16奥匹,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8?
+CCTV-16奥匹,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8?
 CCTV-16奥匹,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-CCTV-16奥匹,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8
-CCTV-17农村,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
+CCTV-16奥匹,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8?
+CCTV-17农村,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8CCTV1
 CCTV-17农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17农村,http://39.135.133.172/wh7f454c46tw3203531499_171507867/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17农村,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
@@ -369,7 +388,7 @@ CETV4,http://39.134.67.108/PLTV/88888888/224/3221225750/1.m3u8
 南国都市4K,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
-罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8
+罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
 桂林新闻综合,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 罗城综合,http://www.3jlc.cn:80/lctvlive/lcm.m3u8
 罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8
@@ -602,47 +621,33 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 广州法治,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 金鹰纪实,http://116.128.242.83:9901/tsfile/live/1001_1.m3u8
 金鹰卡通,http://116.128.242.83:9901/tsfile/live/1002_1.m3u8
-
+广州综合,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p10.php?id=zhonghe
+广州新闻,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p10.php?id=xinwen
+广州法治,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p10.php?id=fazhi
+广州影视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p10.php?id=jingsai
+南国都市,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p10.php?id=yingshi
+佛山综合,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p9.php?id=fszh
+佛山影视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p9.php?id=fsys
+佛山公共,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p9.php?id=fsgg
+佛山南海,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p9.php?id=fsnh
+佛山顺德,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p9.php?id=fssd
+佛山高明,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p9.php?id=fsgm
+佛山三水,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p9.php?id=fsss
+汕尾新闻综合,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p19.php?id=1
+汕尾文化生活,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p19.php?id=2
+深圳卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p11.php?id=szws
+深圳国际,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p11.php?id=szgj
+深圳都市,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p11.php?id=szds
+深圳电视剧,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p11.php?id=szdsj
+深圳财经生活,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p11.php?id=szcj
+深圳少儿,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p11.php?id=szse
+深圳移动电视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p11.php?id=szyd
 明珠台,http://mzitv.cn:32/tsfile/live/1017_1.m3u8
 广东新闻,http://mzitv.cn:32/tsfile/live/1007_1.m3u8
 广东民生,http://mzitv.cn:32/tsfile/live/1009_1.m3u8
 广东影视,http://mzitv.cn:32/tsfile/live/1010_1.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?
-txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
-内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?
-txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
-内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?
-txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-内蒙文体,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?
-txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
-内蒙农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?
-txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
-蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?
-txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
-蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?
-txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
-呼市新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?
-txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
-包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?
-txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
-鄂尔多斯新闻,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?
-txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
-巴彦淖尔新闻,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?
-txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
-赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?
-txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
-乌兰察布新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?
-txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 📽数字频道,#genre#
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 斗鱼1,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-
@@ -779,122 +784,111 @@ bang派,http://rihou.cc:555/huyad.php?id=11336719
 怪兽,http://rihou.cc:555/huyad.php?id=21059554
 贺岁,http://rihou.cc:555/huyad.php?id=11601971
 玄幻,http://rihou.cc:555/huyad.php?id=11342414
-周星驰,https://v22ok5w0u2l3uzvlfe5v6odmiu82xdqnx.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn6410&ali_302c=701&ali_st=cn6136&ali_ts=1737982747
-林正英,https://v2x9fc5gxpp63btwllu35zy09u9fkclsq.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv?ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn6410&ali_302c=701&ali_st=cn6674&ali_ts=1737982795
-李连杰,https://v2lejsbogpnj28n81p4xc0cynevlzl8de.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.flv?ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn6410&ali_302c=701&ali_st=cn5084&ali_ts=1737982838
-沈腾,https://v23gs17vcb9v679yl04jhgy1innfyjlf4.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.flv?ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn6410&ali_302c=701&ali_st=cn7479&ali_ts=1737982867
-成龙,https://v2x9fc5gxpp63btwllu35zy09u9fkclsq.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.flv?ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn6410&ali_302c=701&ali_st=cn6674&ali_ts=1737982905
-刘德华,https://v229p8m77ulmk0kjyn1ix8v7mps1evleh.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.flv?ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn6410&ali_302c=701&ali_st=cn6027&ali_ts=1737982929
-洪金宝,https://v23gs17vcb9v679yl04jhgy1innfyjlf4.mobgslb.tbcache.com/aldirect.flv.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.flv?ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn6410&ali_302c=701&ali_st=cn7479&ali_ts=1737982950
-周润发,https://v22vgalfx1mc27myzdmkhma0j9l4e6o6n.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.flv?ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn6410&ali_302c=701&ali_st=cn4430&ali_ts=1737982971
-王晶,https://v21iyy0jmmkl7331pqsdyzt3j9igejzeu.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.flv?ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn6410&ali_302c=701&ali_st=cn7112&ali_ts=1737983004
-五福星，https://v2nyalr3bv4fyc6hnaihhbzxl0p30qpw1.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.flv?ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn6410&ali_302c=701&ali_st=cn7191&ali_ts=1737983031
-
-周星驰,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342412
-李连杰,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342390
-甄子丹,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352935
-刘德华,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342424
-邱淑贞,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352949
-女神系列,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11336571
-赌片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342399
-bang派,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11336719
-科幻动作,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352964
-国产喜剧,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11602044
-五福星,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11282233
-古墓系列,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352913
-灾难电影,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352871
-港片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11602043
-灾难片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11602075
-奇幻片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=16149609
-悬疑片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=16099968
-香港贺岁,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11601971
-贺岁合家欢剧场,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11602067
-恐怖片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=16741179
-历年贺岁档,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11601986
-港产搞笑,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342423
-经典女神,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352909
-玄幻剧场,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342414
-联合抗日,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352910
-许冠英合集,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11601972
-经典港剧笑嘻嘻,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352965
-强森,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059581
-怪兽,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id==21059577
-救援,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059594
-盗墓,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059552
-谍战,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059585
-梁家辉,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342429
-斯坦森,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059588
-小鬼头,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352963
-八点档,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=880261
-丧尸片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059578
-战争片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059574
-犯罪片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352974
-古装片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11336590
-国产悬疑,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342395
-喜乐影院,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059580
-蘑菇影厅,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11601981
-死神来了,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352903
-怪兽系列,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059554
-贺岁,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11601971
-玄幻,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342414
-李世民,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11336572
-滇军抗战,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342388
-爱情公寓,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11336726
-士兵突击,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342430
-三国演义,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11602081
-三国,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352944
-新水浒传,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342384
-神探狄仁杰2,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342425
-神雕侠侣,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352964
-笑傲江湖,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=23865142
-埋堆堆布衣神相,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=23865036
-纪晓岚,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342396
-雍正皇帝,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342439
-怪兽,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059577
-梁家辉,hhttp://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342429
-斗鱼电影1,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=2935323
-斗鱼电影2,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=7459925
-斗鱼电影3,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=431460
-斗鱼电影9,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=6566671
-斗鱼电影11,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=338759
-斗鱼电影12,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=2793084
-斗鱼电影20,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=323876
-斗鱼电影HD3,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=122402
-斗鱼电影HD6,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=747764
-斗鱼电影HD12,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=2436390
-斗鱼电影HD23,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=6079455
-斗鱼电影HD40,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=1226741
-斗鱼搞笑HD1,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=9220456
-斗鱼搞笑HD3,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=9067836
-斗鱼搞笑HD4,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=9817729
-鬼片恐怖惊悚,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=2935323
-恐怖故事,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=2337939
-科幻动作,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=4332
-粤语电影http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=6566671
-苹果影院,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=2793084
-译制国语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=2436390
-蚂蚱影院,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=6079455
-贝爷求生,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=454867
-恐怖丧尸鬼片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=263824
-惊悚影院,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=96577
-吃米滴虫,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=315457
-林正英电影2,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=7356023
-冰冰经典电影,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=74374
-华语电影,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=3928
-下饭神剧,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=276200
-科幻影视解说,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=3508304
-开心锤锤,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=9018297
-凛冬之地,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=8945323
-斗鱼电影26,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=8413092
-斗鱼电影113,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=5522351
-斗鱼电影117,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=338759
-斗鱼电影137,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=1274132
-斗鱼电影141,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=7623292
-斗鱼电影169,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=7528160
-冰冰经典,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=74374
-凌儿影院,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=1377142
-恐怖惊悚,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=96577
-小宇60帧,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=323876
+周星驰,http://php.666230.xyz/proxy/虎牙.php?id=11342412
+李连杰,http://php.666230.xyz/proxy/虎牙.php?id=11342390
+甄子丹,http://php.666230.xyz/proxy/虎牙.php?id=11352935
+刘德华,http://php.666230.xyz/proxy/虎牙.php?id=11342424
+邱淑贞,http://php.666230.xyz/proxy/虎牙.php?id=11352949
+女神系列,http://php.666230.xyz/proxy/虎牙.php?id=11336571
+赌片,http://php.666230.xyz/proxy/虎牙.php?id=11342399
+bang派,http://php.666230.xyz/proxy/虎牙.php?id=11336719
+科幻动作,http://php.666230.xyz/proxy/虎牙.php?id=11352964
+国产喜剧,http://php.666230.xyz/proxy/虎牙.php?id=11602044
+五福星,http://php.666230.xyz/proxy/虎牙.php?id=11282233
+古墓系列,http://php.666230.xyz/proxy/虎牙.php?id=11352913
+灾难电影,http://php.666230.xyz/proxy/虎牙.php?id=11352871
+港片,http://php.666230.xyz/proxy/虎牙.php?id=11602043
+灾难片,http://php.666230.xyz/proxy/虎牙.php?id=11602075
+奇幻片,http://php.666230.xyz/proxy/虎牙.php?id=16149609
+悬疑片,http://php.666230.xyz/proxy/虎牙.php?id=16099968
+香港贺岁,http://php.666230.xyz/proxy/虎牙.php?id=11601971
+贺岁合家欢剧场,http://php.666230.xyz/proxy/虎牙.php?id=11602067
+恐怖片,http://php.666230.xyz/proxy/虎牙.php?id=16741179
+历年贺岁档,http://php.666230.xyz/proxy/虎牙.php?id=11601986
+港产搞笑,http://php.666230.xyz/proxy/虎牙.php?id=11342423
+经典女神,http://php.666230.xyz/proxy/虎牙.php?id=11352909
+玄幻剧场,http://php.666230.xyz/proxy/虎牙.php?id=11342414
+联合抗日,http://php.666230.xyz/proxy/虎牙.php?id=11352910
+许冠英合集,http://php.666230.xyz/proxy/虎牙.php?id=11601972
+经典港剧笑嘻嘻,http://php.666230.xyz/proxy/虎牙.php?id=11352965
+强森,http://php.666230.xyz/proxy/虎牙.php?id=21059581
+怪兽,http://php.666230.xyz/proxy/虎牙.php?id==21059577
+救援,http://php.666230.xyz/proxy/虎牙.php?id=21059594
+盗墓,http://php.666230.xyz/proxy/虎牙.php?id=21059552
+谍战,http://php.666230.xyz/proxy/虎牙.php?id=21059585
+梁家辉,http://php.666230.xyz/proxy/虎牙.php?id=11342429
+斯坦森,http://php.666230.xyz/proxy/虎牙.php?id=21059588
+小鬼头,http://php.666230.xyz//proxy/虎牙.php?id=11352963
+八点档,http://php.666230.xyz/proxy/虎牙.php?id=880261
+丧尸片,http://php.666230.xyz/proxy/虎牙.php?id=21059578
+战争片,http://php.666230.xyz/proxy/虎牙.php?id=21059574
+犯罪片,http://php.666230.xyz/proxy/虎牙.php?id=11352974
+古装片,http://php.666230.xyz/proxy/虎牙.php?id=11336590
+国产悬疑,http://php.666230.xyz/proxy/虎牙.php?id=11342395
+喜乐影院,http://php.666230.xyz/proxy/虎牙.php?id=21059580
+蘑菇影厅,http://php.666230.xyz/proxy/虎牙.php?id=11601981
+死神来了,http://php.666230.xyz/proxy/虎牙.php?id=11352903
+怪兽系列,http://php.666230.xyz/proxy/虎牙.php?id=21059554
+贺岁,http://php.666230.xyz/proxy/虎牙.php?id=11601971
+玄幻,http://php.666230.xyz/ proxy/虎牙.php?id=11342414
+李世民,http://php.666230.xyz/proxy/虎牙.php?id=11336572
+滇军抗战,http://php.666230.xyz/proxy/虎牙.php?id=11342388
+爱情公寓,http://php.666230.xyz/proxy/虎牙.php?id=11336726
+士兵突击,http://php.666230.xyz/proxy/虎牙.php?id=11342430
+三国演义,http://php.666230.xyz/proxy/虎牙.php?id=11602081
+三国,http://php.666230.xyz/proxy/虎牙.php?id=11352944
+新水浒传,http://php.666230.xyz/proxy/虎牙.php?id=11342384
+神探狄仁杰2,http://php.666230.xyz/proxy/虎牙.php?id=11342425
+神雕侠侣,http://php.666230.xyz/proxy/虎牙.php?id=11352964
+笑傲江湖,http://php.666230.xyz/proxy/虎牙.php?id=23865142
+埋堆堆布衣神相,http://php.666230.xyz/proxy/虎牙.php?id=23865036
+纪晓岚,http://php.666230.xyz/proxy/虎牙.php?id=11342396
+雍正皇帝,http://php.666230.xyz/proxy/虎牙.php?id=11342439
+怪兽,http://php.666230.xyz/proxy/虎牙.php?id=21059577
+梁家辉,hhttp://php.666230.xyz/proxy/虎牙.php?id=11342429
+斗鱼电影1,http://php.666230.xyz/proxy/斗鱼.php?id=2935323
+斗鱼电影2,http://php.666230.xyz/proxy/斗鱼.php?id=7459925
+斗鱼电影3,http://php.666230.xyz/proxy/斗鱼.php?id=431460
+斗鱼电影9,http://php.666230.xyz/proxy/斗鱼.php?id=6566671
+斗鱼电影11,http://php.666230.xyz/proxy/斗鱼.php?id=338759
+斗鱼电影12,http://php.666230.xyz/proxy/斗鱼.php?id=2793084
+斗鱼电影20,http://php.666230.xyz/proxy/斗鱼.php?id=323876
+斗鱼电影HD3,http://php.666230.xyz/proxy/斗鱼.php?id=122402
+斗鱼电影HD6,http://php.666230.xyz/proxy/斗鱼.php?id=747764
+斗鱼电影HD12,http://php.666230.xyz/proxy/斗鱼.php?id=2436390
+斗鱼电影HD23,http://php.666230.xyz/proxy/斗鱼.php?id=6079455
+斗鱼电影HD40,http://php.666230.xyz/proxy/斗鱼.php?id=1226741
+斗鱼搞笑HD1,http://php.666230.xyz/proxy/斗鱼.php?id=9220456
+斗鱼搞笑HD3,http://php.666230.xyz/proxy/斗鱼.php?id=9067836
+斗鱼搞笑HD4,http://php.666230.xyz/proxy/斗鱼.php?id=9817729
+鬼片恐怖惊悚,http://php.666230.xyz/proxy/斗鱼.php?id=2935323
+恐怖故事,http://php.666230.xyz/proxy/斗鱼.php?id=2337939
+科幻动作,http://php.666230.xyz/proxy/斗鱼.php?id=4332
+粤语电影http://php.666230.xyz/proxy/斗鱼.php?id=6566671
+苹果影院,http://php.666230.xyz/proxy/斗鱼.php?id=2793084
+译制国语,http://php.666230.xyz/proxy/斗鱼.php?id=2436390
+蚂蚱影院,http://php.666230.xyz/proxy/斗鱼.php?id=6079455
+贝爷求生,http://php.666230.xyz/proxy/斗鱼.php?id=454867
+恐怖丧尸鬼片,http://php.666230.xyz/proxy/斗鱼.php?id=263824
+惊悚影院,http://php.666230.xyz/proxy/斗鱼.php?id=96577
+吃米滴虫,http://php.666230.xyz/proxy/斗鱼.php?id=315457
+林正英电影2,http://php.666230.xyz/proxy/斗鱼.php?id=7356023
+冰冰经典电影,http://php.666230.xyz/proxy/斗鱼.php?id=74374
+华语电影,http://php.666230.xyz/proxy/斗鱼.php?id=3928
+下饭神剧,http://php.666230.xyz/proxy/斗鱼.php?id=276200
+科幻影视解说,http://php.666230.xyz/proxy/斗鱼.php?id=3508304
+开心锤锤,http://php.666230.xyz/proxy/斗鱼.php?id=9018297
+凛冬之地,http://php.666230.xyz/proxy/斗鱼.php?id=8945323
+斗鱼电影26,http://php.666230.xyz/proxy/斗鱼.php?id=8413092
+斗鱼电影113,http://php.666230.xyz/proxy/斗鱼.php?id=5522351
+斗鱼电影117,http://php.666230.xyz/proxy/斗鱼.php?id=338759
+斗鱼电影137,http://php.666230.xyz/proxy/斗鱼.php?id=1274132
+斗鱼电影141,http://php.666230.xyz/proxy/斗鱼.php?id=7623292
+斗鱼电影169,http://php.666230.xyz/proxy/斗鱼.php?id=7528160
+冰冰经典,http://php.666230.xyz/proxy/斗鱼.php?id=74374
+凌儿影院,http://php.666230.xyz/proxy/斗鱼.php?id=1377142
+恐怖惊悚,http://php.666230.xyz/proxy/斗鱼.php?id=96577
+小宇60帧,http://php.666230.xyz/proxy/斗鱼.php?id=323876
 【周星星】星爷经典不间断,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 英叔护体 | 林正英搞笑僵尸系列,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 洪金宝·童年回忆杀,http://182.40.120.216/test-txdwk.flv.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8
@@ -1173,61 +1167,61 @@ RM 刘在石李光洙跑男,http://182.40.120.191/test-txdwk.flv.huya.com/src/12
 天赐5, 超多爆火歌曲, 一起来听！,http://182.40.120.171/test-txdwk.flv.huya.com/src/1239543153982-1239543153982-11135015105031307264-2479086431420-
 刘小光·捧腹大笑哈哈哈哈,http://182.40.120.213/test-txdwk.flv.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.m3u8
 [offer1] 我将用毕生捍卫法律的尊严！,http://182.40.120.194/test-txdwk.flv.huya.com/src/1239543153971-1239543153971-11135015057786667008-2479086431398-
-喜剧电影,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=9292492
-粤语电影,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=1226741
-豆瓣高分,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=8770422
-米滴虫,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=315457
-星爷影院,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=508118
-瑶瑶恐怖,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=2935323
-怡寶影原,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=434971
-小黛兮影,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=11553944
-萌小鬼片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=3928
-神乐影剧,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=122402
-可乐影院,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=20415
-電影劇場,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=7575350
-漫威剧情,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=6140589
-霍格沃茨http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=8814650
-鱼宝恐怖,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=1165374
-变种人片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=9651304
-女神电影,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=747764
-贝爷MAX,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=4332
-贝爷影厅,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=252802
-林正英,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342421
-成龙,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342386
-周润发,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342387
-王晶,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11602058
-沈腾,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11601968
-黄渤,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352876
-漫威,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11602034
-宇宙,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342428
-武侠,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342427
-警匪,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352886
-罪犯,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352962
-枪战,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059579
-海盗,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059595
-热血,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352934
-战争,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059592
-喜剧,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352877
-国产,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352973
-周星星,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11336587
-李连杰,hhttp://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342390
-蜘蛛侠,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059599
-贺岁片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11601986
-功夫片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352941
-谍战片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059587
-喜剧专场,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11602044
-欢笑影院,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352894
-不挤影院,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352897
-快意江湖,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342435
-黑帮斗争,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342419
-许氏三杰,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11602033
-镖行天下,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352969
-搞笑恐怖,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11601960
+喜剧电影,http://php.666230.xyz/proxy/斗鱼.php?id=9292492
+粤语电影,http://php.666230.xyz/proxy/斗鱼.php?id=1226741
+豆瓣高分,http://php.666230.xyz/proxy/斗鱼.php?id=8770422
+米滴虫,http://php.666230.xyz/proxy/斗鱼.php?id=315457
+星爷影院,http://php.666230.xyz/proxy/斗鱼.php?id=508118
+瑶瑶恐怖,http://php.666230.xyz/proxy/斗鱼.php?id=2935323
+怡寶影原,http://php.666230.xyz/proxy/斗鱼.php?id=434971
+小黛兮影,http://php.666230.xyz/proxy/斗鱼.php?id=11553944
+萌小鬼片,http://php.666230.xyz/proxy/斗鱼.php?id=3928
+神乐影剧,http://php.666230.xyz/proxy/斗鱼.php?id=122402
+可乐影院,http://php.666230.xyz/proxy/斗鱼.php?id=20415
+電影劇場,http://php.666230.xyz/proxy/斗鱼.php?id=7575350
+漫威剧情,http://php.666230.xyz/proxy/斗鱼.php?id=6140589
+霍格沃茨http://php.666230.xyz/proxy/斗鱼.php?id=8814650
+鱼宝恐怖,http://php.666230.xyz/proxy/斗鱼.php?id=1165374
+变种人片,http://php.666230.xyz/proxy/斗鱼.php?id=9651304
+女神电影,http://php.666230.xyz/proxy/斗鱼.php?id=747764
+贝爷MAX,http://php.666230.xyz/proxy/斗鱼.php?id=4332
+贝爷影厅,http://php.666230.xyz/proxy/斗鱼.php?id=252802
+林正英,http://php.666230.xyz/proxy/虎牙.php?id=11342421
+成龙,http://php.666230.xyz/proxy/虎牙.php?id=11342386
+周润发,http://php.666230.xyz/proxy/虎牙.php?id=11342387
+王晶,http://php.666230.xyz/proxy/虎牙.php?id=11602058
+沈腾,http://php.666230.xyz/proxy/虎牙.php?id=11601968
+黄渤,http://php.666230.xyz/proxy/虎牙.php?id=11352876
+漫威,http://php.666230.xyz/proxy/虎牙.php?id=11602034
+宇宙,http://php.666230.xyz/proxy/虎牙.php?id=11342428
+武侠,http://php.666230.xyz/proxy/虎牙.php?id=11342427
+警匪,http://php.666230.xyz/proxy/虎牙.php?id=11352886
+罪犯,http://php.666230.xyz/proxy/虎牙.php?id=11352962
+枪战,http://php.666230.xyz/proxy/虎牙.php?id=21059579
+海盗,http://php.666230.xyz/proxy/虎牙.php?id=21059595
+热血,http://php.666230.xyz/proxy/虎牙.php?id=11352934
+战争,http://php.666230.xyz/proxy/虎牙.php?id=21059592
+喜剧,http://php.666230.xyz/proxy/虎牙.php?id=11352877
+国产,http://php.666230.xyz/proxy/虎牙.php?id=11352973
+周星星,http://php.666230.xyz/proxy/虎牙.php?id=11336587
+李连杰,hhttp://php.666230.xyz/proxy/虎牙.php?id=11342390
+蜘蛛侠,http://php.666230.xyz/proxy/虎牙.php?id=21059599
+贺岁片,http://php.666230.xyz/proxy/虎牙.php?id=11601986
+功夫片,http://php.666230.xyz/proxy/虎牙.php?id=11352941
+谍战片,http://php.666230.xyz/proxy/虎牙.php?id=21059587
+喜剧专场,http://php.666230.xyz/proxy/虎牙.php?id=11602044
+欢笑影院,http://php.666230.xyz/proxy/虎牙.php?id=11352894
+不挤影院,http://php.666230.xyz/proxy/虎牙.php?id=11352897
+快意江湖,http://php.666230.xyz/proxy/虎牙.php?id=11342435
+黑帮斗争,http://php.666230.xyz/proxy/虎牙.php?id=11342419
+许氏三杰,http://php.666230.xyz/proxy/虎牙.php?id=11602033
+镖行天下,http://php.666230.xyz/proxy/虎牙.php?id=11352969
+搞笑恐怖,http://php.666230.xyz/proxy/虎牙.php?id=11601960
 斗鱼频道,http://zzy789.xyz/douyu1.php?id=2436390
-粤语电影2,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=6566671
-神乐剧场,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=85894
-漫威影片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=6140589
-斗鱼电影HD35,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=1165374
+粤语电影2,http://php.666230.xyz/proxy/斗鱼.php?id=6566671
+神乐剧场,http://php.666230.xyz/proxy/斗鱼.php?id=85894
+漫威影片,http://php.666230.xyz/proxy/斗鱼.php?id=6140589
+斗鱼电影HD35,http://php.666230.xyz/proxy/斗鱼.php?id=1165374
 神乐影院2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 九龙城寨周处除三害,http://182.40.120.241/test-txdwk.flv.huya.com/src/1099531752795-1099531752795-86436298436378624-2199063629046-10057-A-0-1.m3u8
 怪兽宇宙电影！哥斯拉大战金刚,http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543150752-1239543150752-11135001232286941184-2479086424960-10057-A-0-1.m3u8
@@ -1302,6 +1296,43 @@ fan花·王小姐和宝总的爱恨情仇,http://182.40.120.180/test-txdwk.flv.h
 
 
 💝港澳台,#genre#
+TVBS新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亚电影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+千禧经典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+娱乐新闻台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+黄金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+28 AI 智慧赛马,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+TVBS新闻台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+亚洲新闻台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+东方卫视,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
 
 凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -8920,3 +8951,411 @@ playboy+,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
 2600网约极品外围苗条温柔体贴入微 翘臀美乳娇俏脸庞 激情啪啪撸管佳作,https://vip2.slbfsl.com/20230328/vKtRTY8b/index.m3u8
 大屌哥约炮美女空姐 大开叉旗袍 高跟鞋 操的太爽了!,https://vip2.slbfsl.com/20230227/DdS2qHzx/index.m3u8
 JDSY033  近親相奸姐姐破處弟弟,https://vip2.slbfsl.com/20230120/kP3b6GsY/index.m3u8
+岛国🍓01,https://e2fa6.cdnedge.live/file/avple-images/hls/62ad51f94d3db17e320c3cba/playlist.m3u8
+岛国🍓02,https://e2fa6.cdnedge.live/file/avple-images/hls/62ac3896510f2d35a3cbebf8/playlist.m3u8
+岛国🍓04,https://je40u.cdnedge.live/file/avple-images/hls/627ec3e88c37cd1970999c03/playlist.m3u8
+岛国🍓05,https://1xp60.cdnedge.live/file/avple-images/hls/6269e441efdc6c2bd40c3276/playlist.m3u8
+岛国🍓06,https://je40u.cdnedge.live/file/avple-images/hls/625969a2c471482782ec91c7/playlist.m3u8
+岛国🍓07,https://q2cyl7.cdnedge.live/file/avple-images/hls/6259312ec2fab47aefd498fc/playlist.m3u8
+岛国🍓08,https://q2cyl7.cdnedge.live/file/avple-images/hls/624ffde4f0cc4f2b3cb8b9f4/playlist.m3u8
+岛国🍓09,https://d862cp.cdnedge.live/file/avple-images/hls/623db30d5343155f6573b774/playlist.m3u8
+岛国🍓10,https://10j99.cdnedge.live/file/avple-images/hls/622b7c9d92a1597735174eb4/playlist.m3u8
+岛国🍓11,https://w9n76.cdnedge.live/file/avple-images/hls/622b7506e28d0a772e8d987a/playlist.m3u8
+岛国🍓12,https://d862cp.cdnedge.live/file/avple-images/hls/6221ca1772305c30bf33558d/playlist.m3u8
+岛国🍓13,https://je40u.cdnedge.live/file/avple-images/hls/6218a1282766e93bde6539d5/playlist.m3u8
+岛国🍓14,https://u89ey.cdnedge.live/file/avple-images/hls/61f3d928aac06d2ccea2e275/playlist.m3u8
+岛国🍓15,https://10j99.cdnedge.live/file/avple-images/hls/61e168d71f5953710fb3f594/playlist.m3u8
+岛国🍓16,https://10j99.cdnedge.live/file/avple-images/hls/61bbf41fee82d469c8462e74/playlist.m3u8
+岛国🍓17,https://10j99.cdnedge.live/file/avple-images/hls/61816f6bb277fb42ae96f128/playlist.m3u8
+无码中字🍒,https://m3u8.34cdn.com/newhd/202310/652aaf0b37926f1bd8c37ed2/hls/index.m3u8
+安斋,https://siwazywcdn2.com:5278/zhongwenzimu/67nNClKY/index.m3u8
+百永纱理奈,https://siwazywcdn2.com:5278/zhongwenzimu/5PzEAi0h/index.m3u8
+春埼芽衣,https://fc.maa1809.com/m/omsopjnoon/omsopjnoon.m3u8
+春埼芽衣,https://fc.maa1809.com/d/onqiitnimq/onqiitnimq.m3u8
+春埼芽衣,https://fc.maa1809.com/m/iiojdlpnjp/iiojdlpnjp.m3u8
+耳边细语,https://siwazywcdn2.com:5278/zhongwenzimu/07fs3XqF/index.m3u8
+河原枫,https://fc.maa1809.com/f/qcreaitlwz/qcreaitlwz.m3u8
+嘿嘿1768神田,https://fc.maa1808.com/g/mllotqnpol/mllotqnpol.m3u8
+嘿嘿立花琉莉,https://fc.maa1808.com/c/rkxhwovsgf/rkxhwovsgf.m3u8
+花音,https://fc.maa1809.com/e/pjnvmkrplq/pjnvmkrplq.m3u8
+姬野栞,https://fc.maa1809.com/g/rnhlghoqyo/rnhlghoqyo.m3u8
+加勒比001THE4名,https://fc.maa1808.com/m/ajtnayynwz/ajtnayynwz.m3u8
+加勒比206西川,https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
+加勒比350丘笑,https://fc.maa1808.com/f/ocyxhukqvo/ocyxhukqvo.m3u8
+加勒比612希笑,https://fc.maa1808.com/n/kqnjvnpjkm/kqnjvnpjkm.m3u8
+帕科马马希笑,https://fc.maa1808.com/m/rwrhezjunn/rwrhezjunn.m3u8
+晴佳,https://fc.maa1809.com/b/inmkopifvj/inmkopifvj.m3u8
+三原穗花加藤绫野,https://fc.maa1809.com/h/qjotnrtkkh/qjotnrtkkh.m3u8
+松永纱奈1,https://fc.maa1809.com/m/roqelpimmo/roqelpimmo.m3u8
+松永纱奈2,https://fc.maa1809.com/e/ohtlknkomr/ohtlknkomr.m3u8
+松永纱奈5,https://fc.maa1809.com/h/soknsufnkn/soknsufnkn.m3u8
+松永纱奈7,https://fc.maa1809.com/f/knmpkoqmjg/knmpkoqmjg.m3u8
+松永纱奈9,https://fc.maa1809.com/d/kvrynihixm/kvrynihixm.m3u8
+松永纱奈10,https://fc.maa1809.com/c/fkkrigoeyk/fkkrigoeyk.m3u8
+西宫,https://siwazywcdn2.com:5278/zhongwenzimu/1BvNA3kM/index.m3u8
+筱原友香,https://fc.maa1809.com/e/ktpmorpkrk/ktpmorpkrk.m3u8
+筱原友香,https://fc.maa1809.com/d/jnqjlprmom/jnqjlprmom.m3u8
+咲咲原凛星奈爱,https://fc.maa1809.com/d/ojpmkokpmm/ojpmkokpmm.m3u8
+雪音,https://siwazywcdn2.com:5278/zhongwenzimu/23fVU6wT/index.m3u8
+叶月梨乃,https://siwazywcdn2.com:5278/ribenyouma/6F2acdoY/index.m3u8
+伊藤优希,https://fc.maa1809.com/d/hmjfiplneo/hmjfiplneo.m3u8
+永濑唯,https://fc.maa1809.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
+奏美沙,https://fc.maa1809.com/e/chifuosxst/chifuosxst.m3u8
+002姬川,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
+004西川,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
+146西川,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
+182西川,https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
+239西川,https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
+288西川,https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
+311西川,https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
+337西川,https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
+339姬川,https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
+363西川,https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
+375姬川,https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
+375姬川,https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
+420丘笑,https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
+431北川,https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
+433姬川,https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
+449神田,https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
+457北川,https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
+474立花琉莉,https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
+477立花琉莉,https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
+478北川,https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
+495神田,https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
+531立花琉莉,https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
+533丘笑,https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
+541神田,https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
+563七濑,https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
+589立花琉莉,https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
+092皆川优奈,https://siwazywcdn2.com:5278/zhongwenzimu/5JDoELrc/index.m3u8
+829北野未奈,https://siwazywcdn2.com:5278/zhongwenzimu/6MnoNVIC/index.m3u8
+039美乃,https://siwazywcdn2.com:5278/zhongwenzimu/30HRcubp/index.m3u8
+IPX-511,https://siwazywcdn2.com:5278/ribenyouma/NkRh5zW8/index.m3u8
+JUFE-104,https://siwazywcdn2.com:5278/zhongwenzimu/4TrvxJeg/index.m3u8
+JUFE-104,https://siwazywcdn2.com:5278//zhongwenzimu/4TrvxJeg/index.m3u8
+385大岛优香,https://video2.51daao.com/btt1/2021/10/20211017/V7WwMk16/2000kb/hls/index.m3u8
+647川上奈奈美,https://siwazywcdn2.com:5278/zhongwenzimu/3YPtObjx/index.m3u8
+247,https://siwazywcdn2.com:5278/zhongwenzimu/TZb8hicm/index.m3u8
+247,https://siwazywcdn2.com:5278//zhongwenzimu/TZb8hicm/index.m3u8
+320,https://siwazywcdn2.com:5278/zhongwenzimu/4idREMlz/index.m3u8
+MI320,https://siwazywcdn2.com:5278//zhongwenzimu/4idREMlz/index.m3u8
+117,https://siwazywcdn2.com:5278/zhongwenzimu/2imBA5or/index.m3u8
+SCOP-697,https://siwazywcdn2.com:5278/zhongwenzimu/59LHYbi4/index.m3u8
+1481夏川,https://siwazywcdn2.com:5278/zhongwenzimu/1Wc2gtfN/index.m3u8
+096乙白沙也,https://siwazywcdn2.com:5278/zhongwenzimu/0GbVxCsv/index.m3u8
+118梦乃,https://siwazywcdn2.com:5278/zhongwenzimu/5yvSxVeg/index.m3u8
+SSNI-658A,https://siwazywcdn2.com:5278/zhongkouwei/nwba4LUx/index.m3u8
+SSNI-658B,https://siwazywcdn2.com:5278/zhongkouwei/WBdOE3qp/index.m3u8
+ssni-778儿玉玲奈,https://siwazywcdn2.com:5278/zhongwenzimu/6Lwmk5xH/index.m3u8
+737奏音花音,https://video2.51daao.com/btt1/2021/10/20211019/wO9PIxFb/2000kb/hls/index.m3u8
+087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3u8
+鬼逝125回,https://vip2.slbfsl.com/20230309/MSVdCsi0/index.m3u8
+欧美双飞2,https://video2.51daao.com/btt1/2022/02/20220228/pqaA1UjM/index.m3u8
+日韩无码4,https://m3u8.41cdn.com/videos/201910/0y7WTW0v/hls/0y7WTW0v.m3u8
+无码💫,https://videos3.m8t9ew.com/20220418/220327a0805/index.m3u8
+KpopGirlDoesPorn,http://60106.vod.redtraffic.xyz/ph568fdb5194a8b/play.m3u8
+东京热04,https://vip5.3sybf.com/20210502/0T9XpSwR/2000kb/hls/index.m3u8
+淫亂_吳芳宜,https://47b61.cdnedge.live/file/avple-images/hls/61efa0b25d579208810784f6/playlist.m3u8
+加勒比_音羽,https://fc.maa1804.com/f/rnczxtyxch/rnczxtyxch.m3u8
+加勒比_美月,https://fc.maa1804.com/g/ijttkoqump/ijttkoqump.m3u8
+加勒比_七濑,https://fc.maa1804.com/h/evzmbhpmfo/evzmbhpmfo.m3u8
+加勒比_羽田真裡,https://fc.maa1804.com/f/jlntoqhqui/jlntoqhqui.m3u8
+加勒比_中野,https://fc.maa1804.com/n/paeuhdhlfl/paeuhdhlfl.m3u8
+加勒比_樱井,https://fc.maa1804.com/f/stasfhodif/stasfhodif.m3u8
+加勒比_樱井,https://fc.maa1804.com/c/yrjzwhdfnl/yrjzwhdfnl.m3u8
+加勒比_铃木,https://fc.maa1804.com/f/znyfifzqip/znyfifzqip.m3u8
+加勒比_双叶,https://fc.maa1804.com/h/xtnyuspejl/xtnyuspejl.m3u8
+加勒比_梢,https://fc.maa1804.com/b/dcopzmdvne/dcopzmdvne.m3u8
+加勒比_白砂,https://fc.maa1804.com/n/hnalcnmzly/hnalcnmzly.m3u8
+加勒比_椎名华,https://fc.maa1804.com/f/mkumllunom/mkumllunom.m3u8
+加勒比_神田,https://fc.maa1804.com/c/rhmiiydppe/rhmiiydppe.m3u8
+加勒比_百多,https://fc.maa1804.com/h/lpktlslmoe/lpktlslmoe.m3u8
+加勒比_小早川怜子,https://fc.maa1804.com/m/mqqqmnhwon/mqqqmnhwon.m3u8
+加勒比_美月,https://fc.maa1804.com/e/orwgpqkpnv/orwgpqkpnv.m3u8
+563爱莉,https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
+665姬川,https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
+东热02,https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
+东热03,https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
+东热04,https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
+阳光海滩电视,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+潘朵拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+大屁股,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+口交,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+大奶,http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
+异类,http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
+偷情,http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
+电影18+,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/18075/index.m3u8
+电影18+,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18075/index.m3u8
+花花公子+,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
+花花公子+,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
+花花公子+,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6242/index.m3u8
+花花公子+,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/6242/index.m3u8
+欧美频道1,http://cdn.adultiptv.net/bigass.m3u8
+欧美频道2,http://cdn.adultiptv.net/blowjob.m3u8
+欧美频道3,http://cdn.adultiptv.net/latina.m3u8
+欧美频道4,http://cdn.adultiptv.net/fetish.m3u8
+欧美频道5,http://cdn.adultiptv.net/gay.m3u8
+欧美频道6,http://cdn.adultiptv.net/interracial.m3u8
+欧美频道7,http://cdn.adultiptv.net/threesome.m3u8
+欧美频道8,http://cdn.adultiptv.net/pornstar.m3u8
+欧美频道9,http://cdn.adultiptv.net/milf.m3u8
+欧美频道10,http://cdn.adultiptv.net/teen.m3u8
+欧美频道11,http://cdn.adultiptv.net/anal.m3u8
+欧美频道12,http://cdn.adultiptv.net/asian.m3u8
+欧美频道14,http://cdn.adultiptv.net/bigtits.m3u8
+欧美频道15,http://cdn.adultiptv.net/blonde.m3u8
+欧美频道17,http://cdn.adultiptv.net/brunette.m3u8
+欧美频道18,http://cdn.adultiptv.net/compilation.m3u8
+欧美频道19,http://cdn.adultiptv.net/cuckold.m3u8
+欧美频道21,http://cdn.adultiptv.net/gangbang.m3u8
+欧美频道23,http://cdn.adultiptv.net/hardcore.m3u8
+欧美频道26,http://cdn.adultiptv.net/lesbian.m3u8
+欧美频道27,http://cdn.adultiptv.net/livecams.m3u8
+欧美频道30,http://cdn.adultiptv.net/pov.m3u8
+欧美频道31,http://cdn.adultiptv.net/rough.m3u8
+欧美频道32,http://cdn.adultiptv.net/russian.m3u8
+午夜3,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+午夜5,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+福利16,https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
+BCUCharmHD,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/18053/index.m3u8
+BCUCharmHD,http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/18053/index.m3u8
+BCUCharmHD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18053/index.m3u8
+MSYoungBlood,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/16147/index.m3u8
+MSYoungBlood,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/16147/index.m3u8
+MSYoungBlood,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/16147/index.m3u8
+二本04,http://live.redtraffic.xyz:80/blowjob.m3u8
+松视1,http://live.redtraffic.xyz:80/fetish.m3u8
+松视2,http://live.redtraffic.xyz:80/bigdick.m3u8
+玩美台,http://live.redtraffic.xyz:80/pov.m3u8
+Кино18+HD,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18075/index.m3u8
+BCUCharmHD,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18053/index.m3u8
+Babestation24,http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+欧美1台,http://live.adultiptv.net/asian.m3u8
+欧美2台,http://live.adultiptv.net/blonde.m3u8
+欧美3台,http://live.adultiptv.net/brunette.m3u8
+欧美4台,http://live.adultiptv.net/compilation.m3u8
+欧美5台,http://live.adultiptv.net/anal.m3u8
+欧美6台,http://live.adultiptv.net/gangbang.m3u8
+欧美7台,http://live.adultiptv.net/rough.m3u8
+欧美9台,http://live.adultiptv.net/russian.m3u8
+欧美10台,http://live.adultiptv.net/threesome.m3u8
+欧美22台,http://live.adultiptv.net/bigdick.m3u8
+HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
+限制级电影,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+迈阿密电台,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
+playboy+,http://rhsbjv7k.tvclub.xyz/iptv/7XBZV8CQEYWT3U/6242/index.m3u8
+playboy+,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
+playboy+,http://4os6vafy.ottclub.xyz/iptv/GW6RW5TY9TAR8L/6242/index.m3u8
+JAPNHD,http://4os6vafy.ottclub.xyz/iptv/GW6RW5TY9TAR8L/6225/index.m3u8
+JAPNHD,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/6225/index.m3u8
+电影cHARM,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/18053/index.m3u8
+电影xxx,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/11052/index.m3u8
+Babestation24,https://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+RougeTV(Switzerland),https://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+AdultTime,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6166/index.m3u8
+AnalizedHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6168/index.m3u8
+丝袜资源,https://siwazywcdn2.com:5278//yazhouwuma/tHC3xmBl/index.m3u8
+成人2,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+过年不更新,https://vd3.bdstatic.com:443/mda-me57bm308iu6stcz/1080p/cae_h264/1620279663855106642/mda-me57bm308iu6stcz.mp4
+模特身材漂亮女友和帅哥啪啪把被子都弄到床下了,https://vip2.slbfsl.com/20230315/tniWdAOj/index.m3u8
+青蛇之勾引姐夫,https://vip2.slbfsl.com/20230315/iDabtvQ8/index.m3u8
+双飞名场面清纯甜美00后美少女扒掉内裤就是操先旁边自慰等下再干你轮流抽插雨露均沾_1,https://vip2.slbfsl.com/20230315/7nLtFVT1/index.m3u8
+更多视频请在tg收藏夹输入@AnchorPorn,https://vip2.slbfsl.com/20230314/WOEuF65V/index.m3u8
+和闺蜜双飞伺候纹身男友,https://vip2.slbfsl.com/20230309/Dw9shkUF/index.m3u8
+探花系列-约操KTV美女吊带睡衣69姿势舔逼翘起大屁股边自摸边舔屌,https://vip2.slbfsl.com/20230307/G8msJSHs/index.m3u8
+阴蒂与G点初次潮吹怼操大量喷水失禁!,https://vip2.slbfsl.com/20230305/MPNbuDEj/index.m3u8
+淫荡性感车模的线下初体验-叫床声刺激大脑!,https://vip2.slbfsl.com/20230305/55Ea1Yna/index.m3u8
+酒店偷拍-中年胖哥艳福不浅玩身材苗条大奶学生妹骑她脸上喂她吃J8!,https://vip2.slbfsl.com/20230303/aR51KAq6/index.m3u8
+短发性感台妹POV场景展现完美身材!,https://vip2.slbfsl.com/20230228/jPoHFAeW/index.m3u8
+白丝重度性瘾患者!,https://vip2.slbfsl.com/20230227/al5I0yP5/index.m3u8
+被土豪包养的极品美乳英语老师三里屯兼职模特被91大神猫先生草到娇喘!,https://vip2.slbfsl.com/20230227/qWhAtaIu/index.m3u8
+大屌哥约炮美女空姐大开叉旗袍高跟鞋操的太爽了!,https://vip2.slbfsl.com/20230227/DdS2qHzx/index.m3u8
+清纯美少女KIKI腹肌马甲线活力十足堪称喷水娃大尺度自慰大黑屌边插边喷水浪叫呻吟太骚了,https://vip1.slbfsl.com/20221204/qqfben7B/index.m3u8
+美腿高跟少妇背枪很不错,https://vip2.slbfsl.com/20230207/5OsY4ZdD/index.m3u8
+邻家姐姐-情趣内衣诱人高跟勾引弟弟做爱,https://vip2.slbfsl.com/20230206/llv6oa38/index.m3u8
+空姐女神黑丝后入内射操出白浆,https://vip2.slbfsl.com/20230205/KWreQF25/index.m3u8
+蕾丝的肛门互玩,https://vip2.slbfsl.com/20230205/TEfGjEG0/index.m3u8
+可爱萝莉萌白酱情趣服自慰可爱,https://vip2.slbfsl.com/20230204/kb0iRjtT/index.m3u8
+巨乳制服诱惑-性伴侣唤醒,https://vip2.slbfsl.com/20230204/W7RbasMn/index.m3u8
+绝色爆乳嫩模捆绑自慰调教,https://vip2.slbfsl.com/20230204/Wc6iHG1h/index.m3u8
+今天你是我的新娘,https://vip2.slbfsl.com/20230203/tlTqYtDb/index.m3u8
+姐姐与弟弟的禁忌之恋,https://vip2.slbfsl.com/20230203/ciIqexf1/index.m3u8
+金发美女偷东西被抓脱衣检查不让内射就叫警察,https://vip2.slbfsl.com/20230203/fj4goKYd/index.m3u8
+极品美女的魅惑自慰喷水,https://vip2.slbfsl.com/20230202/uQ4EYXIq/index.m3u8
+极品反差婊芋喵喵视频流出清纯的外表下隐藏着淫荡的身躯,https://vip2.slbfsl.com/20230202/PnPwhdFg/index.m3u8
+极品校花女神扒衣服互舔胸高潮不断,https://vip2.slbfsl.com/20230202/alp2wo71/index.m3u8
+婚紗換裝大作戰粉色情人,https://vip2.slbfsl.com/20230201/YUnQW813/index.m3u8
+蝴蝶性感小内裤,https://vip2.slbfsl.com/20230201/oYtvu4eD/index.m3u8
+红色情趣装肛交速射,https://vip2.slbfsl.com/20230201/OoAvmr5z/index.m3u8
+黑丝性感女仆脱衣等你后入,https://vip2.slbfsl.com/20230201/tgg1PFXF/index.m3u8
+肥臀秘书为保住职位委身领导被后入内射[国语对白],https://vip2.slbfsl.com/20230130/uLIK9hkr/index.m3u8
+穿性感内衣的骚女友逼里面内射,https://vip2.slbfsl.com/20230129/AgNHY58b/index.m3u8
+穿着丝袜高跟鞋的邻居女孩来到我家勾引我,https://vip2.slbfsl.com/20230129/Qjog0vAB/index.m3u8
+白肤长腿妹竟然用青瓜自慰还抽插出白浆,https://vip1.slbfsl.com/20221217/WGmq2Gvy/index.m3u8
+成熟诱人的邻家小妹大鸡巴无套狂操,https://vip2.slbfsl.com/20230128/6L47RtUU/index.m3u8
+痴女秘书勾引老板与客户4P大战,https://vip2.slbfsl.com/20230128/dVHMP3Dg/index.m3u8
+爱心魔法棒连续抽插粉嫩逼逼高潮不断,https://vip1.slbfsl.com/20221217/aWtBTKmx/index.m3u8
+爱吃大洋屌的留学生爱不释口被爆射满脸~,https://vip1.slbfsl.com/20221217/OCgd6xp9/index.m3u8
+S级身材惹火美女拍摄现场放福利手脚并用让色影师喷发～,https://vip1.slbfsl.com/20221217/LNrvqW58/index.m3u8
+038寂寞女業主引誘實習小哥做愛,https://vip2.slbfsl.com/20230125/bhfwQZZC/index.m3u8
+025寂寞岳母強上生病女婿,https://vip2.slbfsl.com/20230125/F8YzJXxO/index.m3u8
+008少婦炮友是我的親生媽媽-美嘉,https://vip2.slbfsl.com/20230124/7Kf9GWZb/index.m3u8
+009高三學生妹被老師爆操出水-香菱,https://vip2.slbfsl.com/20230124/XzjAHHlM/index.m3u8
+TMW020絕對高潮情慾按摩店,https://vip2.slbfsl.com/20230124/EASJbc3f/index.m3u8
+022代替閨蜜去相親-晴天,https://vip2.slbfsl.com/20230124/xPeLXLqg/index.m3u8
+TMW06青春高校生,https://vip2.slbfsl.com/20230124/Lv3rrXC9/index.m3u8
+TM0140班長的墮落-楊雪,https://vip2.slbfsl.com/20230123/ZFoMMs6V/index.m3u8
+TM0122信奉神教的痴淫母女下卷,https://vip2.slbfsl.com/20230123/RxOfyzYh/index.m3u8
+TMP0001小哥哥下藥約啪APP內射噴水,https://vip2.slbfsl.com/20230123/d3NkqXaC/index.m3u8
+RAS145我的女僕哪有這麼騷part3,https://vip2.slbfsl.com/20230122/7zRWFUav/index.m3u8
+RAS0195超S痴女上司淫亂指導,https://vip2.slbfsl.com/20230122/JKea8UJC/index.m3u8
+TM0096賣身救夫,https://vip2.slbfsl.com/20230122/rcocmCz6/index.m3u8
+jk加黑丝让人无法抵挡的诱惑,https://vip2.slbfsl.com/20230121/fywCIgAs/index.m3u8
+004約啪約到了大嫂,https://vip2.slbfsl.com/20230121/kGMSpw2j/index.m3u8
+011炮機約啪嫩妹抽搐,https://vip2.slbfsl.com/20230121/VAdqzJGq/index.m3u8
+018白領為客戶約啪妹子,https://vip2.slbfsl.com/20230121/YF8tSD92/index.m3u8
+007農民工約啪小嫩妹,https://vip2.slbfsl.com/20230121/vKmaQFIF/index.m3u8
+MisAV萝莉淫欲女空乘嫩穴吞吐巨根娇声淫语,https://vip2.slbfsl.com/20230121/ch0I8xFl/index.m3u8
+33近親相奸姐姐破處弟弟,https://vip2.slbfsl.com/20230120/kP3b6GsY/index.m3u8
+07風騷小姨被人下藥卻意外讓我得逞,https://vip2.slbfsl.com/20230120/a13sxQPR/index.m3u8
+JDX002X系列之鎖,https://vip2.slbfsl.com/20230120/8OXUyokk/index.m3u8
+27溫柔女家教幫學生破處,https://vip2.slbfsl.com/20230120/oB3LKETq/index.m3u8
+JDX001-X系列之粉的第七章,https://vip2.slbfsl.com/20230120/cX7ZYxAN/index.m3u8
+JD110又到櫻花綻放時,https://vip2.slbfsl.com/20230119/INX372pv/index.m3u8
+JD108老公無能不能滿足,https://vip2.slbfsl.com/20230119/0mnwIMN2/index.m3u8
+JD052迷奸,https://vip2.slbfsl.com/20230119/Z991Zfh2/index.m3u8
+JD059百萬交易,https://vip2.slbfsl.com/20230119/skQNbt4q/index.m3u8
+GDCM006妻子淫行計劃2,https://vip2.slbfsl.com/20230118/1qiMjIqc/index.m3u8
+HJ-085地下樂團淺規則,https://vip2.slbfsl.com/20230118/1DCfslzr/index.m3u8
+91CM-154墮落女律師-鐘媛,https://vip2.slbfsl.com/20230117/jfjoicmt/index.m3u8
+91CM-160賢者之愛-蘇鳳敏,https://vip2.slbfsl.com/20230117/jInJxdgs/index.m3u8
+91CM-170穿越到王者榮耀的世界-謝語彤,https://vip2.slbfsl.com/20230117/eSmID5fI/index.m3u8
+91CM-156反常的妻子-徐慧慧,https://vip2.slbfsl.com/20230117/m37Y4Iuv/index.m3u8
+JVID爆乳女神在豪华酒店拍性感写真完美巨乳雪嫩肌肤性感红唇顶尖尤物,https://vip1.slbfsl.com/20221214/SVS0aHFL/index.m3u8
+JVID爆乳女神在40层高楼奢华酒店性感写真,https://vip1.slbfsl.com/20221214/KcsHVYns/index.m3u8
+TMY0015服務女王大人,https://vip2.slbfsl.com/20230116/9WBGf0jt/index.m3u8
+上海异人娼馆,https://vv.jisuzyv.com/play/neg8Z1Da/index.m3u8
+上海异人娼馆,https://play.hhuus.com/play/Xe0EYv3a/index.m3u8
+骚洞,https://video2.51daao.com/btt1/2020/08/20200820/6kV40ds5/index.m3u8
+村妓,https://video2.51daao.com/btt1/2020/08/20200805/PstsFSs5/index.m3u8
+独闯无底洞,https://video1.51daao.com/20191228/1jlfIvJh/index.m3u8
+侦探艳史,https://video2.51daao.com/btt1/2020/08/20200816/9GDKvtWP/index.m3u8
+狼吻十四日,https://video2.51daao.com/btt1/2020/08/20200801/KYwimU0D/index.m3u8
+处女骑兵,https://video2.51daao.com/btt1/2020/07/20200728/kfzKzgzG/index.m3u8
+大陆性初航,https://video1.51daao.com/20191228/UHshXuAj/index.m3u8
+红楼梦淫史,https://vod12.xmyysw.com/20230926/4aLqNeMg/index.m3u8
+大陆性初航,https://v2.xmyysw.com/20211012/E5STWET1/index.m3u8
+艳舞女郎,https://lsbbf1.com/20230920/JaDOrTiG/index.m3u8
+情人别为我哭泣,https://lsbbf1.com/20230919/DacOtLAk/index.m3u8
+红辣椒,https://lsbbf1.com/20230920/EgiMd4JC/index.m3u8
+美丽小蜜桃🍑3,https://v6.tlkqc.com/wjv6/202310/11/ew3dyP2KCK1/video/index.m3u8
+迷情的寡妇,https://m1.m3u8111222333.com/G0911/mqgf/mqgf.m3u8
+亲密接触,https://m1.m3u8111222333.com/H0401/qmjc/qmjc.m3u8
+急着想要,https://m1.m3u8111222333.com/H0419/qqhs/qqhs.m3u8
+午夜狼嚎,https://m1.m3u8111222333.com/H0519/qjhy/cd1.m3u8
+爱上处女的情人,https://m1.m3u8111222333.com/H0603/vatl/vatl.m3u8
+蜘蛛侠,https://m1.m3u8111222333.com/H0625/crzj/crzj.m3u8
+假日邮轮,https://m1.m3u8111222333.com/H0722/jryl/jryl.m3u8
+時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+独闯无底洞,https://vod2.ttbfp4.com/20230102/rdnzk6CM/index.m3u8
+风骚女郎,https://vip6.3sybf.com/20210827/rPnbGMQy/index.m3u8
+偷窃狂人,https://jkunbf.com/20231103/glvIllEJ/index.m3u8
+fashionTV,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/stream.m3u8
+赶死艳谭,https://video2.51daao.com/btt1/2020/08/20200808/DJMgejw3/index.m3u8
+禁止游戏,https://video1.51daao.com/20191122/uh2D37LP/index.m3u8
+过错,https://ukzyll.ukubf6.com/20220526/lvDdjupP/index.m3u8
+性爱巴士,https://play.hhuus.com/play/mepo7opd/index.m3u8
+高压监狱,https://hd.ijycnd.com/play/NbWBZKEa/index.m3u8
+风流小姨子,https://yzzy.play-cdn22.com/20240317/174_daf88a54/index.m3u8
+保持站立,https://hd.ijycnd.com/play/9aA8y13e/index.m3u8
+狂野的欲望,https://ukzyll.ukubf6.com/20220716/aEQnS2OR/index.m3u8
+梦中情人,https://www.bfbfhao.com/20200705/jHzSeyLj/index.m3u8
+满床春水,https://yzzy.play-cdn22.com/20240324/221_edf28532/index.m3u8
+笠木一香,https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8
+♨️女优_无码,https://t25.cdn2020.com/video/m3u8/2024/04/20/93b11115/index.m3u8
+1制服无码♨️,https://videos3.m8t9ew.com/20220416/220327a0438/index.m3u8
+2制服无码♨️,https://videos3.m8t9ew.com/20220406/220327a0274/index.m3u8
+4制服无码♨️,https://videos3.m8t9ew.com/20220416/220327a0436/index.m3u8
+6制服无码♨️,https://videos3.m8t9ew.com/20220406/220327a0211/index.m3u8
+5制服无码♨️,https://videos3.m8t9ew.com/20220421/220327a0890/index.m3u8
+7制服无码♨️,https://video.hybfq.com/decry/vd/20240306/ZDBhZDc3YjY2/235112/1280_720/libx/hls/encrypt/index.m3u8
+8制服无码♨️,https://video.hybfq.com/decry/vd/20240227/YzdkOTk4MmE3O/080249/1280_720/libx/hls/encrypt/index.m3u8
+1强奸无码♨️,https://videos3.m8t9ew.com/20220406/220327a0355/index.m3u8
+2强奸无码♨️,https://videos3.m8t9ew.com/20220406/220327a0395/index.m3u8
+3强奸无码♨️,https://videos3.m8t9ew.com/20220406/220327a0236/index.m3u8
+4强奸无码♨️,https://videos3.m8t9ew.com/20220406/220327a0263/index.m3u8
+5强奸无码♨️,https://videos3.m8t9ew.com/20220406/220327a0242/index.m3u8
+7强奸无码♨️,https://videos3.m8t9ew.com/20220416/220327a0454/index.m3u8
+6强奸无码♨️,https://videos3.m8t9ew.com/20220426/220327a1175/index.m3u8
+8强奸无码♨️,https://videos3.m8t9ew.com/20220423/220327a0975/index.m3u8
+9强奸无码♨️,https://videos3.m8t9ew.com/20220427/220327a1340/index.m3u8
+无码♨️,https://videos3.m8t9ew.com/20220406/220327a0385/index.m3u8
+一本03,http://live.redtraffic.xyz:80/bigass.m3u8
+Woman(CDN•RedTraffic),https://cdn.redtraffic.net/woman.m3u8
+一個18歲的女孩被她的兩個朋友性交。,http://13216.vod.redtraffic.xyz/ph5b8953f5c6863/play.m3u8
+一個N0KSTEPPMV：HITOMITANKA-小臀部和泰坦山雀,http://6122.vod.redtraffic.xyz/ph5a4d122f5787c/play.m3u8
+一個穆斯林婦女來他媽的和吸吮,http://12204.vod.redtraffic.xyz/ph56933d2a816d6/play.m3u8
+干骚货想一起吗22,https://vip2.slbfsl.com/20230314/m0DJcEPq/index.m3u8
+双飞名场面【下篇】清纯甜美00后美少女躺沙发两个妹子轮流操超嫩美穴流出白浆幸福小哥让人羡慕,https://vip2.slbfsl.com/20230311/YGDWnhtu/index.m3u8
+双飞名场面【上篇】清纯甜美00后美少女躺沙发两个妹子轮流操超嫩美穴流出白浆幸福小哥让人羡慕,https://vip2.slbfsl.com/20230311/vZVxoI5I/index.m3u8
+气质甜美超高颜值短发美女大姨妈刚走秀一波,https://vip2.slbfsl.com/20230310/SWC1hhqG/index.m3u8
+换妻探花周末约一对小夫妻玩玩交换4P激情前后一起插,https://vip2.slbfsl.com/20230306/0PLlFAxO/index.m3u8
+淫荡外甥女裸睡时被舅舅发现一顿猛操进行爱的教育!,https://vip2.slbfsl.com/20230305/v0gI05hw/index.m3u8
+良家人妻家中被连干两炮成熟女人欲望强舌吻插逼饥渴许久一朝满足不已,https://vip1.slbfsl.com/20221203/7wM79W0P/index.m3u8
+和一个可爱女孩激情啪啪她真的很想高潮!,https://vip2.slbfsl.com/20230301/qJoNc96z/index.m3u8
+在酒店房间里享受一夜,https://vip2.slbfsl.com/20230224/5T2YxWQh/index.m3u8
+【水果派】五彩斑斓的黑,https://vip2.slbfsl.com/20230204/IBCCpsOP/index.m3u8
+密友第一季-第1集,https://vip2.slbfsl.com/20230208/BfZroN9x/index.m3u8
+绝美翘乳梦幻女神『辛尤里』极品性爱护理后入操爆乳女神,https://vip2.slbfsl.com/20230204/1ivts8g4/index.m3u8
+激情第一视角和男友的激情撞击,https://vip2.slbfsl.com/20230202/ARCgYBPg/index.m3u8
+好色透视眼镜性感身材一览无遗,https://vip2.slbfsl.com/20230131/cWwz9Mvf/index.m3u8
+纯欲系跟着我一起高潮,https://vip2.slbfsl.com/20230129/zzUzABkP/index.m3u8
+纯爱骚花第2弹：青梅竹马的“兔子精”诱惑我,https://vip2.slbfsl.com/20230129/hhFqGu5r/index.m3u8
+超清纯萝莉美少女【粉色情人】足球宝贝射进体验,https://vip2.slbfsl.com/20230128/XNV5xkHC/index.m3u8
+不小心內射了女友姊姊（第一部）,https://vip2.slbfsl.com/20230127/NGeAXpVu/index.m3u8
+039榜一大哥線下約操寵粉女主播,https://vip2.slbfsl.com/20230125/9z9xYu2g/index.m3u8
+俄罗斯成人1台,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+俄罗斯成人2台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+俄罗斯成人3台,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+日本高清DV,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6225/index.m3u8
+日本高清DV,http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6225/index.m3u8
+日本高清DV,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6225/index.m3u8
+俄罗斯成人1台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+俄罗斯成人3台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+AdultIPTV.netAnal,http://live.redtraffic.xyz/anal.m3u8
+AdultIPTV.netAsian,http://live.redtraffic.xyz/asian.m3u8
+AdultIPTV.netBigAss,http://live.redtraffic.xyz/bigass.m3u8
+AdultIPTV.netBigDick,http://live.redtraffic.xyz/bigdick.m3u8
+AdultIPTV.netBigTits,http://live.redtraffic.xyz/bigtits.m3u8
+AdultIPTV.netBlonde,http://live.redtraffic.xyz/blonde.m3u8
+AdultIPTV.netBlowjob,http://live.redtraffic.xyz/blowjob.m3u8
+AdultIPTV.netBrunette,http://live.redtraffic.xyz/brunette.m3u8
+AdultIPTV.netCompilation,http://live.redtraffic.xyz/compilation.m3u8
+AdultIPTV.netCuckold,http://live.redtraffic.xyz/cuckold.m3u8
+AdultIPTV.netFetish,http://live.redtraffic.xyz/fetish.m3u8
+AdultIPTV.netGangbang,http://live.redtraffic.xyz/gangbang.m3u8
+AdultIPTV.netGay,http://live.redtraffic.xyz/gay.m3u8
+AdultIPTV.netHardCore,http://live.redtraffic.xyz/hardcore.m3u8
+AdultIPTV.netInterracial,http://live.redtraffic.xyz/interracial.m3u8
+AdultIPTV.netLatina,http://live.redtraffic.xyz/latina.m3u8
+AdultIPTV.netLesbian,http://live.redtraffic.xyz/lesbian.m3u8
+AdultIPTV.netLiveCams,http://live.redtraffic.xyz/livecams.m3u8
+AdultIPTV.netMILF,http://live.redtraffic.xyz/milf.m3u8
+AdultIPTV.netPornstar,http://live.redtraffic.xyz/pornstar.m3u8
+AdultIPTV.netPOV,http://live.redtraffic.xyz/pov.m3u8
+AdultIPTV.netRough,http://live.redtraffic.xyz/rough.m3u8
+AdultIPTV.netRussian,http://live.redtraffic.xyz/russian.m3u8
+AdultIPTV.netTeen,http://live.redtraffic.xyz/teen.m3u8
+Anal(CDN•AdultIPTV),https://cdn.adultiptv.net/anal.m3u8
+Asian(CDN•AdultIPTV),https://cdn.adultiptv.net/asian.m3u8
+Blonde(CDN•AdultIPTV),https://cdn.adultiptv.net/blonde.m3u8
+Blowjob(CDN•AdultIPTV),https://cdn.adultiptv.net/blowjob.m3u8
+河南发生胖爹和胖女儿在家做爱,https://vip2.slbfsl.com/20230131/54qW0gg9/index.m3u8
