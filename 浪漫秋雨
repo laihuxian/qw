@@ -651,42 +651,19 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 📽数字频道,#genre#
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 斗鱼1,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-
-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-淘电影,http://221.219.79.161:4000/udp/239.3.1.250:8001
 淘电影,https://stream1.freetv.fun/tao-dian-ying-7.m3u8
-淘电影,http://111.196.135.75:8686/udp/239.3.1.250:8001
-Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 Thrill,https://stream1.freetv.fun/thrill-2.m3u8
 Thrill,https://stream1.freetv.fun/thrill-4.m3u8
-家庭影院,http://111.196.135.75:8686/udp/239.3.1.93:4120
-家庭影院,http://123.113.187.204:8000/udp/239.3.1.93:4120
 经典电影,http://wouu.net:9977/udp/239.93.0.57:9024
-经典电影,http://221.222.162.206:8888/udp/239.3.1.195:9024
-经典电影,http://111.196.135.75:8686/udp/239.3.1.195:9024
 1905电影(亚洲),http://php.jdshipin.com:8880/1905.php?id=1905dy
 1905电影(国际),http://php.jdshipin.com:8880/1905.php?id=1905dy2
 超级电影,http://39.134.65.3:80/wh7f454c46tw995071704_1873696206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 电影2,http://39.134.65.6:80/wh7f454c46tw1108113188_1233049823/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 电影5,http://zby.xjqxz.top/zh09/live.m3u8
 菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
-靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-龙华电影,https://stream1.freetv.fun/1178a02eb676ee58293691fdc19fed767b2dc61d866c1fee41447a8503ec0253.m3u8
-CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
-CHC影迷电影,http://58.19.38.162:9901/tsfile/live/0119_1.m3u8
-CHC家庭影院,http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111
-CHC家庭影院,https://pi.0472.org/chc/jt.m3u8
-CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.131:11111
-CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.132:11111
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8
-CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8
 重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8
 Шокирующее HD,http://5o6lqyah.dienalt.org/iptv/8F5P4TB738P2CW/6299/index.m3u8
 Шокирующее HD orig,http://5o6lqyah.dienalt.org/iptv/8F5P4TB738P2CW/9004/index.m3u8
@@ -703,9 +680,14 @@ CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8
 亳州新闻频道,http://zbbf2.ahbztv.com/live/416.m3u8
 句容影视频道,http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
-大丰公共频道,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
-宿豫综合频道,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
-高邮综合频道,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
+CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
+CHC影迷电影,http://58.19.38.162:9901/tsfile/live/0119_1.m3u8
+CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.131:11111
+CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.132:11111
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8
+CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8
 CHC动作电影,http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
 金鹰卡通,http://59.48.75.130:3052/tsfile/live/1000_1.m3u8
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8
@@ -719,9 +701,6 @@ CHC动作电影,http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
 新疆石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
-湖北影视,http://220.249.114.102:9901/tsfile/live/1010_1.m3u8
-湖北影视,http://58.19.43.46:9901/tsfile/live/1016_1.m3u8
-湖北影视,http://59.173.243.210:9901/tsfile/live/1000_1.m3u8
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 💝虎牙斗鱼,#genre#
 周星驰,http://rihou.cc:555/huyad.php?id=11342412
@@ -1660,111 +1639,95 @@ fan花·王小姐和宝总的爱恨情仇,http://182.40.120.180/test-txdwk.flv.h
 来桃花坞，感受世外桃源,http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543150225-1239543150225-11134998968839176192-2479086423906-10057-A-0-1.m3u8
 
 
-💝港澳台,#genre#
-TVBS新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-美亚电影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-千禧经典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-娱乐新闻台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-黄金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-28 AI 智慧赛马,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-TVBS新闻台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-亚洲新闻台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-东方卫视,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+💝全球频道,#genre#
+凤凰中文,https://aktv.132.us.kg/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,https://aktv.132.us.kg/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港,https://aktv.132.us.kg/AKTV/live/aktv/null-5/AKTV.m3u8
+翡翠台,https://aktv.132.us.kg/AKTV/live/aktv/null/AKTV.m3u8
+翡翠综合台(北美),https://aktv.132.us.kg/AKTV/live/aktv/null-17/AKTV.m3u8
+ROCKACTION,https://aktv.132.us.kg/AKTV/live/aktv/rockaction/AKTV.m3u8
+TVBPLUS,https://aktv.132.us.kg/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS新闻台,https://aktv.132.us.kg/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVN,https://aktv.132.us.kg/AKTV/live/aktv/tvn/AKTV.m3u8
+中天新闻,https://aktv.132.us.kg/AKTV/live/aktv/null-6/AKTV.m3u8
+明珠剧集台(北美),https://aktv.132.us.kg/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,https://aktv.132.us.kg/live/aktv/null-2/AKTV.m3u8
+翡翠剧集台(北美),https://aktv.132.us.kg/AKTV/live/aktv/null-18/AKTV.m3u8
+黃金翡翠台,https://aktv.132.us.kg/AKTV/live/aktv/null-21/AKTV.m3u8
+AXN,https://aktv.132.us.kg/AKTV/live/aktv2/axn/AKTV.m3u8
+ANIMAX(HK),https://aktv.132.us.kg/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+FRANCE24,https://aktv.132.us.kg/AKTV/live/aktv3/france24/AKTV.m3u8
+NHKWORLDJAPAN,https://aktv.132.us.kg/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+NICKJR,https://aktv.132.us.kg/AKTV/live/aktv3/nickjr/AKTV.m3u8
+NICKELODEON,https://aktv.132.us.kg/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+亚洲新闻台,https://aktv.132.us.kg/AKTV/live/aktv3/null-3/AKTV.m3u8
+东方卫视,https://aktv.132.us.kg/AKTV/live/aktv3/null/AKTV.m3u8
+寰宇新闻台,https://aktv.132.us.kg/AKTV/live/aktv/null-7/AKTV.m3u8
+CHANNEL5,https://aktv.132.us.kg//AKTV/live/aktv/channel5hd/AKTV.m3u8
+CHANNEL8,https://aktv.132.us.kg/AKTV/live/aktv/channel8hd/AKTV.m3u8
+CHANNELU,https://aktv.132.us.kg/AKTV/live/aktv/channeluhd/AKTV.m3u8
+MYTVSUPER18台,https://aktv.132.us.kg/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+POPC,https://aktv.132.us.kg/AKTV/live/aktv/popc/AKTV.m3u8
+千禧经典,https://aktv.132.us.kg/AKTV/live/aktv/null-15/AKTV.m3u8
+娱乐新闻台,https://aktv.132.us.kg/AKTV/live/aktv/hk/AKTV.m3u8
+无线新闻台,https://aktv.132.us.kg/live/aktv/null-1/AKTV.m3u8
+无线新闻台,https://aktv.132.us.kg/AKTV/live/aktv3/null-2/AKTV.m3u8
+美亚电影台(HK),https://aktv.132.us.kg/AKTV/live/aktv/hk-1/AKTV.m3u8
+28AI智慧賽馬,https://aktv.132.us.kg/AKTV/live/aktv/28ai/AKTV.m3u8
+东森新闻,https://aktv.132.us.kg/AKTV/live/aktv2/null/AKTV.m3u8
+LOVENATURE,https://aktv.132.us.kg/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+LOVENATURE,https://aktv.132.us.kg/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+无线新闻台(北美),https://aktv.132.us.kg/AKTV/live/aktv2/null-1/AKTV.m3u8
+DW,https://aktv.132.us.kg/AKTV/live/aktv3/dw/AKTV.m3u8
+KIX,https://aktv.132.us.kg/AKTV/live/aktv3/kix/AKTV.m3u8
+NH东京综合,https://aktv.132.us.kg/AKTV/live/aktv3/nhk/AKTV.m3u8
+THRILL,https://aktv.132.us.kg/AKTV/live/aktv3/thrill/AKTV.m3u8
+ZOOMOO,https://aktv.132.us.kg/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
-凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰电影,http://quan2018.mycloudnas.com:51888/play/a017/index.m3u8
-凤凰中文,http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8
-星河台,http://quan2018.mycloudnas.com:51888/play/a00k/index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-翡翠台,http://m.osvs.asia:8000/bysid/1
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-STAR1,http://quan2018.mycloudnas.com:51888/play/a00w/index.m3u8
-STARS,http://quan2018.mycloudnas.com:51888/play/a00z/index.m3u8
-STARS2,http://quan2018.mycloudnas.com:51888/play/a00u/index.m3u8
-TV5,http://quan2018.mycloudnas.com:51888/play/a014/index.m3u8
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-Now爆谷台,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
-ViuTV6,http://m.osvs.asia:8000/bysid/96
-ViuTV,http://m.osvs.asia:8000/bysid/99
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+TVBplus,http://cdn.163189.xyz/live/?id=tvbp
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+翡翠台北美版(TVB J1),https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 华丽翡翠,http://php.jdshipin.com/smt.php?id=Tvbjade
 华丽翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-凤凰电影,http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 星河台,http://php.jdshipin.com/smt.php?id=Xinhe
 星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 美亚电影频粤,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+中天新闻,http://222.128.55.152:9080/live/fc.m3u8
+台视新闻,http://222.128.55.152:9080/live/ts.m3u8
+寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
+凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+翡翠台,http://m.osvs.asia:8000/bysid/1
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港台33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 香港台34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 香港台35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-NHK新闻,http://61.221.215.25:8800/hls/51/index.m3u8
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
-澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
-澳门mac,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
-翡翠台,rtmp://27.223.28.254:40085/vlive/yifatvfc
 翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
-凤凰香港,http://iptv.diyp.site/公众号【DIYP】.php?key=gat2&id=3
-无线新闻,http://iptv.diyp.site/公众号【DIYP】.php?key=gat2&id=6
-翡翠台,http://iptv.diyp.site/公众号【DIYP】.php?key=gat2&id=7
-TVBS,http://iptv.diyp.site/公众号【DIYP】.php?key=gat2&id=11
-TVBS Plus,http://iptv.diyp.site/公众号【DIYP】.php?key=gat2&id=12
-TVBS新闻,http://iptv.diyp.site/公众号【DIYP】.php?key=gat2&id=13
-TVB欢乐,http://iptv.diyp.site/公众号【DIYP】.php?key=gat2&id=38
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 TVB J1,http://cdn5.1678520.xyz/live/?id=j1
-TVBplus,http://cdn.163189.xyz/live/?id=tvbp
 TVB plus,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 TVB plus,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
@@ -1772,24 +1735,66 @@ TVB plus,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 香港台34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-明珠台,http://beishan008.asuscomm.com:8890/bysid/2
-TVBPlus,http://beishan008.asuscomm.com:8890/bysid/82
-无线新闻台,http://beishan008.asuscomm.com:8890/bysid/83
-凤凰香港,http://beishan008.asuscomm.com:8890/bysid/85
 翡翠台,http://8hb85846je10.vicp.fun:8001/bysid/1.m3u8
-凤凰香港,http://zsntlqj.xicp.net:65531/bysid/85.m3u8
 明珠台,http://8hb85846je10.vicp.fun:5000/bysid/2.m3u8
 翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
 翡翠台,http://zb.xmzb.xyz/123.php?id=OOO翡翠
 明珠台,http://zb.xmzb.xyz/123.php?id=OOO明珠
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-翡翠台北美版(TVB J1),https://cdn5.1678520.xyz/live/live2.1.php?id=j1
-中天新闻,http://222.128.55.152:9080/live/fc.m3u8
-台视新闻,http://222.128.55.152:9080/live/ts.m3u8
-寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰电影,http://quan2018.mycloudnas.com:51888/play/a017/index.m3u8
+凤凰中文,http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8
+星河台,http://quan2018.mycloudnas.com:51888/play/a00k/index.m3u8
+STAR1,http://quan2018.mycloudnas.com:51888/play/a00w/index.m3u8
+STARS,http://quan2018.mycloudnas.com:51888/play/a00z/index.m3u8
+STARS2,http://quan2018.mycloudnas.com:51888/play/a00u/index.m3u8
+TV5,http://quan2018.mycloudnas.com:51888/play/a014/index.m3u8
+ViuTV6,http://m.osvs.asia:8000/bysid/96
+ViuTV,http://m.osvs.asia:8000/bysid/99
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
+NHK新闻,http://61.221.215.25:8800/hls/51/index.m3u8
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
+澳门mac,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+TVB J1,http://cdn5.1678520.xyz/live/?id=j1
+TVBplus,http://cdn.163189.xyz/live/?id=tvbp
+TVB plus,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
+TVB plus,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
+香港台33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+香港台34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+香港台35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+翡翠4K,http://cdn.163189.xyz/live/fct4k/stream.m3u8
+华丽翡翠,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+星河台,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+千禧经典,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+HOY77资讯,http://cdn5.1678520.xyz/live/?id=hoy
+中视频道,rtmp://f13h.mine.nu/sat/tv091
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+49号,http://61.221.215.25:8800/hls/49/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+华视频道,rtmp://f13h.mine.nu/sat/tv111
+台视频道,,rtmp://f13h.mine.nu/sat/tv071
+民视频道,,rtmp://f13h.mine.nu/sat/tv051
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
 
 华视频道,rtmp://f13h.mine.nu/sat/tv111
 台视频道,rtmp://f13h.mine.nu/sat/tv071
@@ -1809,14 +1814,12 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 龙华洋片,http://37.27.111.214:8080/live/19/hls.m3u8
-
 NBA TV2,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 NOW爆谷台,http://stream1.freetv.fun/nowbao-gu-2.m3u8
 华丽翡翠,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 星河台,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 千禧经典,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
-中视频道,rtmp://f13h.mine.nu/sat/tv091
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
@@ -1828,10 +1831,8 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
 华丽翡翠,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-无线直播,http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist_w10.m3u8
 亚洲武侠,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 星河台,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-天映频道,http://205.185.123.236:8899/astro/tianying/tianying.m3u8
 NHK新闻英,http://61.221.215.25:8800/hls/51/index.m3u8
 亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
 CINEMA WORLD,http://37.27.111.214:8080/live/30/hls.m3u8
@@ -1841,14 +1842,8 @@ HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
 HITS,http://37.27.111.214:8080/live/28/hls.m3u8
 LIFE TIME,http://37.27.111.214:8080/live/71/hls.m3u8
 FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-CE,https://v2.catcast.tv/content/34246/index.m3u8
-NUVE,https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
-FORO,https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8
-las,https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
-U23,http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 Crave 4,http://84.17.40.25/CRAVE_4/index.m3u8
 Canal Motor,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_263_05C641C6.m3u8
-爱自然4k,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 爱自然,http://190.109.15.46:203/play/a07e/index.m3u8
 迪斯尼,https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 tv2,http://185.189.225.150:85/TV2/index.m3u8
@@ -1856,7 +1851,6 @@ Dom Kino,https://stream01.vnet.am/DomKino/playlist.m3u8
 jc1,https://stream.jc1.cz/hls/jc1.m3u8
 Романтичное HD,http://ott.server-iptv.live/1660/video.m3u8?token=M4f082ab4c
 Индийское Кино:Классика,https://v2.catcast.tv/content/41596/index.m3u8
-Детское Кино International,https://v2.catcast.tv/content/38720/index.m3u8
 VIYANA,http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 星光综合台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 EBS,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/chunklist.m3u8
@@ -1867,14 +1861,11 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 黄金翡翠,http://zb.xmzb.xyz/123.php?id=OOO黄金翡翠
 星河台,http://zb.xmzb.xyz/123.php?id=OOO星河
 靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
-半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 YCTV,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
-音乐欣赏2,http://61.221.215.25:8800/hls/58/index.m3u8
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
 Diso综合,http://61.221.215.25:8800/hls/1/index.m3u8
 NHK华语,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -1885,13 +1876,11 @@ NTV News24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 法国时尚,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 韩国|EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 韩国|TjB | SBS,http://1.245.74.5:1935/live/tv/.m3u8
 韩国|KBS DRAMA,http://8.138.7.223/tv/korea.php?id=32
@@ -1899,55 +1888,35 @@ NTV News24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 韩国|KBS LIVE,http://8.138.7.223/tv/korea.php?id=35
 韩国|KBS KIDS,http://8.138.7.223/tv/korea.php?id=36
 韩国国防,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-♟️国际频道,#genre#
-TV5,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+
 NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
-NHKWORLD,https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
-NHKG,https://nhk4.mov3.co/hls/nhk.m3u8
 NHKBS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK教育,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK総合,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BBCARABIC(720P),https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
 BBCPERSIAN(720P),https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 BBCNEWS(720P),https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-BBCNEWS(720P),https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-BBCNEWS(540P),https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 RTFRANCE,http://69.64.57.208/rtfrance/playlist.m3u8
 FRANCE2,http://69.64.57.208/france2/playlist.m3u8
-FRANCE5,http://69.64.57.208/france5/playlist.m3u8
-BBCONE,http://81.137.213.119:4200/bysid/4164
-BBCTWO,http://81.137.213.119:4200/bysid/4287
-BBCNEWS,http://81.137.213.119:4200/bysid/4352
 AXN,http://170.254.18.106/AXN/index.m3u8
-AMC,http://170.254.18.106/AMC/index.m3u8
-LIFETIME,http://170.254.18.106/LIFETIME/index.m3u8
 HBOMUNDI,http://170.254.18.106/HBO_MUNDI/index.m3u8
 HBOFAMILY,http://170.254.18.106/HBO_FAMILY/index.m3u8
-HBOPLUS,http://170.254.18.106/HBO_PLUS/index.m3u8
-HBOSIGNATURE,http://170.254.18.106/HBO_SIG/index.m3u8
-FASHIONTV,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 TLCPANREGIONAL,http://ott.watch/stream/E9LDH2ZCN7/168.m3u8
 DISCOVERYCHANNELCEE,http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
 DISCOVERYSCIENCECEE,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 TRAVELCHANNEL,http://ott.watch/stream/E9LDH2ZCN7/231.m3u8
 TRAVELADVENTURE,http://ott.watch/stream/E9LDH2ZCN7/206.m3u8
-ISLAMCHURDU,http://84.200.70.180:4842/bysid/52130
 FRANCE24FRA,https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/239/stream.m3u8
 FRANCE24ENG,https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4783/stream.m3u8
 FOOD,http://ott.watch/stream/D9YWLQJUKKF/216.m3u8
 NICK,http://ott.watch/stream/D9YWLQJUKKF/220.m3u8
 TLC,http://ott.watch/stream/D9YWLQJUKKF/168.m3u8
-TRAVELXP4K,http://95.67.12.82:9086
-KINOWOOD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4844/stream.m3u8
 AMC,http://cdnua03.hls.tv/524/hls/bce039e22cfeb8b5e1acfe0b5037ce48/4248/stream.m3u8
 FASHIONTV,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/226/stream.m3u8
-DLTV5???????????????5,https://cdn-live.dltv.ac.th/dltv05.m3u8
 FRANCE24,http://149.100.11.235:8080/France24/index.m3u8
 FASHIONTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-TV5,http://149.100.11.235:8080/TV5/index.m3u8
 KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 TJBSBS,http://1.245.74.5:1935/live/tv/chunklist_w1321158460.m3u8
 TJBSBS,http://1.245.74.5:1935/live/tv/playlist.m3u8
 CJBSBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
@@ -1955,21 +1924,16 @@ KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 KNN,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_7_10BA9897.m3u8
 OBS,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_55.m3u8
 BTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_415_3B0A4DFF.m3u8
-MUBEAT,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
 JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
 JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 KBCTV,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8
 TV,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
 CJMBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 TV1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 TV3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
-TV4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=644
-??MBC,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_2758F434.m3u8
 ????,https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 ????TV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_510_AAC44F43.m3u8
 ??????,http://cdnlive29.smartucc.kr/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
@@ -1983,38 +1947,15 @@ JSPORTS4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=
 LALATV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 MUSICONTV!,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 時代劇専門,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ACTION,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BSTV,https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w785516268.m3u8
 QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 DC,http://190.90.252.200:16001/play/a07n/index.m3u8
-USUNIVISION(EAST)(SP),http://206.212.244.71:8080/4wVQA7/625159/15336
-US5STARMAX,http://206.212.244.71:8080/4wVQA7/625159/13381
-A&E,http://206.212.244.71:8080/4wVQA7/625159/59056
-USA&E(A),http://206.212.244.71:8080/4wVQA7/625159/2201
-ABC,http://206.212.244.71:8080/4wVQA7/625159/22990
-USACCNETWORK(A),http://206.212.244.71:8080/4wVQA7/625159/9273
-CAADULTSWIM(R),http://206.212.244.71:8080/4wVQA7/625159/11644
-USAMERICANHEROESCHANNEL,http://206.212.244.71:8080/4wVQA7/625159/10456
-USA:ABCLASVEGAS(KTNV),http://206.212.244.71:8080/4wVQA7/625159/120866
-USABC2(KATU)PORTLAND/OREGON,http://206.212.244.71:8080/4wVQA7/625159/121171
-DIEGO,http://206.212.244.71:8080/4wVQA7/625159/121173
-USABC10(KGTV)SANDIEGO,http://206.212.244.71:8080/4wVQA7/625159/121176
-USABC3(WSIL)ILLINOIS,http://206.212.244.71:8080/4wVQA7/625159/120870
-MISSOURI,http://206.212.244.71:8080/4wVQA7/625159/120871
-USABC7(KVIA)ELPASO(A),http://206.212.244.71:8080/4wVQA7/625159/120875
-(WKBW),http://206.212.244.71:8080/4wVQA7/625159/120876
-USCW(KDAF),http://206.212.244.71:8080/4wVQA7/625159/120881
-USABC28(WFTS)TAMPA,http://206.212.244.71:8080/4wVQA7/625159/120952
 AZ,http://live.azstartv.com:80/azstar/smil:azstar.smil/chunklist_w1698552844_b800000_slen.m3u8
-片,https://stream.ads.ottera.tv/playlist.m3u8?network_id=4032
 BOUNCE,http://72.46.118.193/Bounce/index.m3u8
 GRIT,http://72.46.118.193/Grit/index.m3u8
 LAFF,http://72.46.118.193/Laff/index.m3u8
-DEFY,http://72.46.118.193/Defy/index.m3u8
 COURT,http://72.46.118.193/Court/index.m3u8
 NEWSY,http://72.46.118.193/Newsy/index.m3u8
 UTV,http://173.225.32.123/UTV-2362/index.m3u8
-KELO,http://173.225.32.123/KELO-2361/index.m3u8
 CW,http://173.225.32.123/KABY-CW-2364/index.m3u8
 KSFY,http://173.225.32.123/KSFY-2363/index.m3u8
 COZI,http://173.225.32.123/Cozi-2358/index.m3u8
@@ -2022,57 +1963,30 @@ KTTW,http://173.225.32.123/KTTW-2357/index.m3u8
 KDLT,http://173.225.32.123/KDLT-2396/index.m3u8
 JACKSON,http://173.225.32.123/JACKSON-2371/index.m3u8
 BRAVO,http://170.254.18.106/BRAVO/index.m3u8
-CANNEWS,https://stream.ads.ottera.tv/playlist.m3u8?network_id=118
 30ADARCIZZLEOFFSHORE,https://30a-tv.com/darcizzle.m3u8
 PITCH,https://30a-tv.com/feeds/xodglobal/30atv.m3u8
-30AMUSIC,https://30a-tv.com/music.m3u8
-30ASIDEWALKS,https://30a-tv.com/sidewalks.m3u8
-SHOW,https://30a-tv.com/beachy.m3u8
 AGHAPYKIDS,https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
-TRACESPORTSINTER,http://95.67.12.82:9067
 WILDEARTH,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 RUSSIATODAY,http://69.64.57.208:8080/russiatoday/playlist.m3u8
 NASA,https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 MYTVSANANTONIOTX(KCWXTV)(720P),http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-实验,https://stream.ads.ottera.tv/playlist.m3u8?network_id=46
-01,https://stream.ads.ottera.tv/playlist.m3u8?network_id=70
-KTV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=146
-KTV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=161
-美食,https://stream.ads.ottera.tv/playlist.m3u8?network_id=165
-食,https://stream.ads.ottera.tv/playlist.m3u8?network_id=180
-娱乐,https://stream.ads.ottera.tv/playlist.m3u8?network_id=185
-影,https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
-48,https://stream.ads.ottera.tv/playlist.m3u8?network_id=48
-53,https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
-74,https://stream.ads.ottera.tv/playlist.m3u8?network_id=74
-电影0,https://stream.ads.ottera.tv/playlist.m3u8?network_id=45
 CLASICOS,https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
-4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=827
-儿,https://stream.ads.ottera.tv/playlist.m3u8?network_id=31
 3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
-5,https://stream.ads.ottera.tv/playlist.m3u8?network_id=41
 8,https://stream.ads.ottera.tv/playlist.m3u8?network_id=157
 TM2,http://69.64.57.208/tm2/playlist.m3u8
-NCI,http://69.64.57.208/nci/playlist.m3u8
 TFM,http://69.64.57.208/tfm/playlist.m3u8
 RTB,http://69.64.57.208/rtb/playlist.m3u8
 ATV,http://69.64.57.208/atv/playlist.m3u8
 KTO,http://69.64.57.208/kto/playlist.m3u8
 LIFETV,http://69.64.57.208/lifetv/playlist.m3u8
-RTS1,http://69.64.57.208/rts1/playlist.m3u8
 RUSSIATODAY,http://69.64.57.208/russiatoday/playlist.m3u8
-COMEDYCENTRAL,http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 STAR,http://170.254.18.106/STAR/index.m3u8
-FX,http://170.254.18.106/FX/index.m3u8
 IZTV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-БЕЛРОС,http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 21,https://msk2.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?
 THT,http://ott.watch/stream/D9YWLQJUKKF/135.m3u8
 3ABN,https://hls.tv.3angels.ru/stream/HQ.m3u8
 МИР,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 МИР24,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-ПРИКЛЮЧЕНИЯ,http://cdn.klimedia.space/lb/HD_Teletr/index.m3u8?token=klimedia.space:a2RzYWdmeTlhNjprZHNhZ2Z5OWE2
 РУССКАЯКОМЕДИЯ,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/733/index.m3u8
 CINEMAN,http://ott.watch/stream/D9YWLQJUKKF/349.m3u8
 CINEMANACTION,http://ott.watch/stream/D9YWLQJUKKF/351.m3u8
@@ -2103,9 +2017,7 @@ KINO1,http://ott.watch/stream/D9YWLQJUKKF/395.m3u8
 РУССКИЙРОМАН,http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 ХИТ,http://ott.watch/stream/D9YWLQJUKKF/363.m3u8
 РУССКАЯКОМЕДИЯ,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/733/index.m3u8
-КТК,http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 РБКТВ,http://92.50.128.180/utv/1358/index.m3u8
-ЗВЕЗДА,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 86КАНАЛ,https://sitv.ru/hls/s861024.m3u8
 АИСТТВ,http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 CMOREFIRSTSE,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/RZUAWTNHX5DKXU/12087/index.m3u8
@@ -2179,8 +2091,6 @@ ARMENIATV,http://ott.watch/stream/E9LDH2ZCN7/175.m3u8
 ЖАРАTV,http://ott.watch/stream/E9LDH2ZCN7/386.m3u8
 EUROPAPLUSTV,http://ott.watch/stream/E9LDH2ZCN7/184.m3u8
 INRATINGTV,http://ott.watch/stream/E9LDH2ZCN7/147.m3u8
-DORAMA,http://95.67.12.82:9046
-HOPE,http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 C1,https://sitv.ru/hls/stv1024.m3u8
 АРИС24,http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 ЭХО,http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
@@ -2188,10 +2098,6 @@ NTM,http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 BRIDGE,http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10038/index.m3u8
 РОССИЯ1,http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/7252/index.m3u8
 МИР24,http://dmi3y-tv.ru/hls/CH_MIR24.m3u8
-AMEDIA1,http://31.148.48.15/A1/index.m3u8?token=
-AMEDIA2,http://31.148.48.15/A2/index.m3u8?token=
-DUNAMISTV,http://84.200.70.180:4842/bysid/52126
-EWTNCATHOLIC,http://84.200.70.180:4842/bysid/52136
 ЗВЕЗДА,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 UNIVERTV,http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 EYECYBER,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/20220/index.m3u8
@@ -2203,39 +2109,28 @@ KINOJAM1,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/7260/index.m3u8
 FREEДОМ,https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/91/stream.m3u8
 TVPWORLD,https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4828/stream.m3u8
 MILADY,https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/353/stream.m3u8
-СТБ,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/61548/hlsx/pl.m3u8
 СТБ,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/503/hlsx/pl.m3u8
-ICTV,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47927/hlsx/pl.m3u8
 ICTV,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/500/hlsx/pl.m3u8
-ICTV2,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/39117/hlsx/pl.m3u8
 NOVKANНОВЫЙКАНАЛ,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43869/hlsx/pl.m3u8
 NOVKANНОВЫЙКАНАЛ,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18023/hlsx/pl.m3u8
 UKRAINE1,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28774/hlsx/pl.m3u8
 UKRAINA2,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38861/hlsx/pl.m3u8
 INTERIНТЕР,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53372/hlsx/pl.m3u8
 INTERPLUSIНТЕР,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/34629/hlsx/pl.m3u8
-K1К1,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18020/hlsx/pl.m3u8
 K2К2,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29337/hlsx/pl.m3u8
 K2К2,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18022/hlsx/pl.m3u8
-TETТЕТ,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29764/hlsx/pl.m3u8
 TETТЕТ,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/59782/hlsx/pl.m3u8
 NTNНТН,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32938/hlsx/pl.m3u8
 NTNНТН,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18019/hlsx/pl.m3u8
-ENTERFILMENTER-Ф?ЛЬМ,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/61885/hlsx/pl.m3u8
 ENTERFILMENTER-Ф?ЛЬМ,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52584/hlsx/pl.m3u8
-2P222,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27654/hlsx/pl.m3u8
 2P222,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18657/hlsx/pl.m3u8
 PROVSE8КАНАЛUA,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/44992/hlsx/pl.m3u8
 MEGAМЕГА,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32881/hlsx/pl.m3u8
 MEGAМЕГА,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18007/hlsx/pl.m3u8
-SONTSEСОНЦЕ,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48832/hlsx/pl.m3u8
 QTVОЦЕТВ,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28449/hlsx/pl.m3u8
-UNIANУНИАНТВ,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54782/hlsx/pl.m3u8
 ZOOMZOOM,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36327/hlsx/pl.m3u8
 ESPRESOЕСПРЕСОTV,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18013/hlsx/pl.m3u8
-PRAVDATUTПРАВДАТУТ,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18003/hlsx/pl.m3u8
 7KANAL-OD7КАНАЛОДЕССА,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/64932/hlsx/pl.m3u8
-СУСПIЛЬНЕОДЕСА,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54629/hlsx/pl.m3u8
 ТРЕТИЙЦИФРОВОЙ/РАДА,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38856/hlsx/pl.m3u8
 KULTURAUKRUA:КУЛЬТУРА,http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18016/hlsx/pl.m3u8
 M1,http://ott.watch/stream/D9YWLQJUKKF/218.m3u8
@@ -2287,21 +2182,10 @@ X,http://ott.watch/stream/D9YWLQJUKKF/399.m3u8
 RTG,http://ott.watch/stream/D9YWLQJUKKF/164.m3u8
 CC,http://ott.watch/stream/D9YWLQJUKKF/167.m3u8
 TR,http://ott.watch/stream/D9YWLQJUKKF/170.m3u8
-TRE,http://ott.watch/stream/D9YWLQJUKKF/171.m3u8
 ICTV2,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4835/stream.m3u8
 NTA,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/3155/stream.m3u8
-НТККОЛОМИЯ,https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
 ZTV,https://stream.ztv.zp.ua/hls/live.m3u8
-UWN,http://ca.ukrainske.tv/343/DF9D16B4057FD00/video.m3u8
 FREEDOM,http://95.67.12.84:10304
-ЕДИНIНОВИНИ,http://95.67.12.89:9018
-INRATINGTV,http://95.67.12.89:9034
-EPIC,http://95.67.12.82:9083
-GAGSNETWORK,http://95.67.12.82:9069
-KINOKAZKA,http://95.67.12.82:9084
-LOVENATURE,http://95.67.12.82:9098
-ONEPLANET,http://95.67.12.82:9088
-OSTWEST24,http://95.67.12.82:9077
 К?НОТАСЕР?АЛИ,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4867/stream.m3u8
 ОРЕЛ?РЕШКА,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4872/stream.m3u8
 ВЕЩДОК,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4869/stream.m3u8
@@ -2310,7 +2194,6 @@ OSTWEST24,http://95.67.12.82:9077
 HOLLYWOOD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/262/stream.m3u8
 М1,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4598/stream.m3u8
 М2,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4601/stream.m3u8
-UAMUSIC,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4831/stream.m3u8
 EUMUSIC,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/570/stream.m3u8
 FLIX&SNIP,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4824/stream.m3u8
 CINE,http://cdnua03.hls.tv/524/hls/bce039e22cfeb8b5e1acfe0b5037ce48/4846/stream.m3u8
@@ -2320,9 +2203,6 @@ ATR,http://cdnua03.hls.tv/524/hls/bce039e22cfeb8b5e1acfe0b5037ce48/3936/stream.m
 UWN,http://cdnua03.hls.tv/524/hls/bce039e22cfeb8b5e1acfe0b5037ce48/97/stream.m3u8
 360TUNEBOX,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/166/stream.m3u8
 NAUTICALCHANNEL,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4245/stream.m3u8
-ITV,https://cdn10.live-tv.od.ua/itvrv/abr-lq/playlist.m3u8
-IТ3,http://cdn10.live-tv.od.ua:8081/it3od/it3od-abr/playlist.m3u8
-ПЛЮС(ОДЕССА),http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
 ТРККРУГ,http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/chunks.m3u8
 ICTV,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/4305/stream.m3u8
 HTH,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/129/stream.m3u8
@@ -2332,18 +2212,13 @@ SEA,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/3696/stream.
 IDFASHION,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/3642/stream.m3u8
 НАШЕMUSIC,http://cdnua03.hls.tv/476/hls/7d6cd0c7b9b07175b951c0f5686affe3/550/stream.m3u8
 ZOOM,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/94/stream.m3u8
-ZOOM,http://iptv.prosto.tv:7000/ch13/video.m3u8
-TET,http://iptv.prosto.tv:7000/ch7/video.m3u8
-IHTEP,http://iptv.prosto.tv:7000/ch5/video.m3u8
 IHTEP,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/110/stream.m3u8
 24NEWS,http://streamvideol1.luxnet.ua/news24/livenews_720p/index.m3u8
 24NEWS,http://streamvideol1.luxnet.ua/news24/livenews_1080p/index.m3u8
 CH4,http://iptv.prosto.tv:7000/ch4/video.m3u8
-МСТУДИО,http://213.174.23.59:8080/MS
 ICTV2,https://cdnua03.hls.tv/178/hls/5995ce439ad354ba83977f0d99a6a1ac/4835/stream.m3u8
 IUATV,http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
 ?ЗМА?ЛТВ,http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
-?Т3,http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
 FREEДОМ,https://cdnua03.hls.tv/178/hls/3ce9832c48b67915e9f2769b2dfbb005/91/stream.m3u8
 ПОЛТАВСКОЕТВ,http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
 ТЕРНОП?ЛЬ1,http://185.53.79.12/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
@@ -2351,82 +2226,47 @@ FREEДОМ,https://cdnua03.hls.tv/178/hls/3ce9832c48b67915e9f2769b2dfbb005/91/st
 ТВАTVA.ORG.UA,http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 ТВАTVA.IN.UA,http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 Г?Т(ВОЛИНЬ),http://stream.uagit.tv/gittv.m3u8?key=iptv.org.ua
-33КАНАЛ(ХМЕЛЬНИЦЬКИЙ),https://33news.org/33chanel/live/chunklist_w459617257.m3u8
-ДН?ПРОTV,http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 ГРОМАДСЬКЕ?НТЕРАКТИВНЕТЕЛЕБАЧЕННЯ(ЛУЦЬК),https://stream.uagit.tv/gittv.m3u8?cur=tva.org.ua&key=3i277
 БАЛТАТВ,http://194.50.51.34/playlist.m3u8
-ДУМСКАЯТВ,http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
 ГЛАС,http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 ТРКНАД?ЯНОВИЙКАНАЛ(ПЕРВОМАЙСКИЙ),http://178.217.215.57/mob/mystream.m3u8
-СК1(ЖИТОМИР),http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
 НТК,http://stream.ntktv.ua/s/ntk/ntk.m3u8
 ITV(Р?ВНЕ),http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
 ITV,http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 ITV,http://cdn10.live-tv.od.ua:8081/itvrv/720p/playlist.m3u8
 СФЕРАТВ,http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
-INRATINGTV,https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 РЕПОРТЕР(ОДЕССА),http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 СК1,http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 TIC,http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
 TPK,http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
-ТЕРНОПIЛЬ1,http://ott.columbus.te.ua/ternopil1/index.m3u8
 ZTV(ЗАПОРОЖЬЕ),http://stream.ztv.zp.ua/hls/live.m3u8
 ZEENEWS,https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-TV9BHARATVARSH,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
 INDIATV,https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 AAJTAAK,https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
-DUBAI,http://www.elahmad.com/tv/m3u8/dubai_tv.m3u8?id=dubai_tv
-TVK,https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-VTV9,https://cdn1.tvmienphi.xyz:8444/sctv/s8.edge.cdn.sctvonline.vn/cdn-
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 QRT,http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-BìNHPH??C,http://103.90.220.236/bptvlive/tv1live.m3u8
-DRT|TH??KL?K,https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 TH??NGTHáP,http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
 GIANG,https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
-NTV|THNGH?AN,http://103.90.220.236/natvlive/tv1live.m3u8
-QU?NGNINH,http://103.90.220.236/qtvlive/tv1live.m3u8
-QTV3|THQU?NGNINH,http://103.90.220.236/qtvlive/tv3live.m3u8
-FRESHNEWS,http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 BAKATHI,https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
-FLEX,https://streaming.flexconnect.net/vdoflex/vdoflex/playlist.m3u8
 CATRADIO,http://111.223.37.194/CatRadio/CatRadio-Webcam1/playlist.m3u8
 NEWS1,http://news1.live14.com/stream/news1_hi.m3u8
-7,http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
 DLTV1???????????????1,https://cdn-live.dltv.ac.th/dltv01.m3u8
-3,https://cdn-live.dltv.ac.th/dltv03.m3u8
-DLTV4???????????????4,https://cdn-live.dltv.ac.th/dltv04.m3u8
-TV,https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 TRTWORLD,https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 TRT1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31262/index.m3u8
-ATV,http://89.187.191.41/ATV-HD-TR/video.m3u8
 AKITTV,https://akittv-live.ercdn.net/akittv/akittv.m3u8
-LIFETV,https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 HABER,https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-AVAZ,https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-TV,https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 AFGHANISTANINTERNATIONAL,https://hls.afintl.com/hls/stream.m3u8
 RTA,https://hls.rta.live/hls/stream.m3u8
 AFRICA24,https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 MYTVPLUS,https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
-TVP,http://78.129.193.20/tsstreamer/TVP_SD.ts
-VOX,http://188.227.164.31/tsstreamer/VoxAfrica_SD.ts
 TVTZGORZELEC,http://gargoyle.tomkow.pl/hls/tvt.m3u8
-WP,http://185.236.229.62:9981/play/a02u
-TELETOON,http://185.236.229.62:9981/play/a051
 POLSAT2PL,http://7e401b76.rossteleccom.net/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6084/index.m3u8
 POLSATCAFEPL,http://7e401b76.rossteleccom.net/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6085/index.m3u8
 POLSATFILMPL,http://7e401b76.rossteleccom.net/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6086/index.m3u8
-TVTORU?(1080P),http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
 TVKUJAWY,http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-TELEWIZJATORU?,http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
 TVP1,http://178.219.128.68:64889/TVP1HD
-DOMO,http://178.219.128.68:64889/DOMOHD
-HBO2,http://170.254.18.106/HBO2/index.m3u8
 FOX,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-USFOX(WTVT)TAMPA(F),http://206.212.244.71:8080/4wVQA7/625159/120951
 FOX,https://stream01.vnet.am/Fox/mono.m3u8
-FOXLIFE,http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
 BSアニマックス,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BSテレ东,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 WOWOWシネマ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -2453,19 +2293,16 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 テレビ朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 女性チャンネルLALATV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 チャンネル銀河,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-少儿0,https://stream.ads.ottera.tv/playlist.m3u8?network_id=125
-少儿4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
-少儿7,https://stream.ads.ottera.tv/playlist.m3u8?network_id=142
-少儿9,https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
+
 💝MTV视频,#genre#
-歌MV33,http://vd4.bdstatic.com/mda-ickhjq8gkcxz55i1/sc/mda-ickhjq8gkcxz55i1.mp4
-歌MV34,http://vd4.bdstatic.com/mda-ihkwerpgqm1v3ehy/sc/mda-ihkwerpgqm1v3ehy.mp4
-歌MV35,http://vd4.bdstatic.com/mda-jhid37v9u4vny09j/sc/mda-jhid37v9u4vny09j.mp4
-歌MV36,http://vd4.bdstatic.com/mda-icpieeuwfuwruijw/sc/mda-icpieeuwfuwruijw.mp4
-歌MV37,http://vd4.bdstatic.com/mda-jhtriuc2z5fddtre/sc/mda-jhtriuc2z5fddtre.mp4
-歌MV38,http://vd4.bdstatic.com/mda-jepbbqntd414qsem/sc/mda-jepbbqntd414qsem.mp4
-歌MV48,http://vd4.bdstatic.com/mda-ji3nh9t9qpewj26m/sc/mda-ji3nh9t9qpewj26m.mp4
-歌MV49,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg75_b4gUogP7C2QY.mp4
+等你等了那么久,http://vd4.bdstatic.com/mda-ickhjq8gkcxz55i1/sc/mda-ickhjq8gkcxz55i1.mp4
+我在红尘中遇见你,http://vd4.bdstatic.com/mda-ihkwerpgqm1v3ehy/sc/mda-ihkwerpgqm1v3ehy.mp4
+我的快乐就是想你,http://vd4.bdstatic.com/mda-jhid37v9u4vny09j/sc/mda-jhid37v9u4vny09j.mp4
+天在下雨我在想你,http://vd4.bdstatic.com/mda-icpieeuwfuwruijw/sc/mda-icpieeuwfuwruijw.mp4
+你是我的人DJ,http://vd4.bdstatic.com/mda-jhtriuc2z5fddtre/sc/mda-jhtriuc2z5fddtre.mp4
+酒醉的蝴蝶,http://vd4.bdstatic.com/mda-jepbbqntd414qsem/sc/mda-jepbbqntd414qsem.mp4
+红尘情歌,http://vd4.bdstatic.com/mda-ji3nh9t9qpewj26m/sc/mda-ji3nh9t9qpewj26m.mp4
+迫不及待,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg75_b4gUogP7C2QY.mp4
 今日热歌DJ《如果爱还在》,https://vd2.bdstatic.com/mda-mhhf5mr00yyhpfjs/1080p/cae_h264/1629284581057661229/mda-mhhf5mr00yyhpfjs.mp4
 推荐9首DJ舞曲,https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
 动感DJ《苦了累了听听歌》,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
@@ -2749,3 +2586,664 @@ jk6u0s2f81jmkk26/sc/mda-jk6u0s2f81jmkk26.mp4
 为了谁,https://vd3.bdstatic.com/mda-ma1jz4cuh8fn7fy9/v1-cae/sc/mda-ma1jz4cuh8fn7fy9.mp4
 英雄泪,https://vd3.bdstatic.com/mda-mben1iextqu3in9c/v1-cae/sc/mda-mben1iextqu3in9c.mp4
 当兵的人,https://vd2.bdstatic.com/mda-kjbb0xzvqi8ew4u7/sc/mda-kjbb0xzvqi8ew4u7.mp4
+写不完的爱,http://em.21dtv.com/songs/60049996.mkv
+最浪漫的事,http://em.21dtv.com/songs/60060358.mkv
+往事只能回味,http://em.21dtv.com/songs/60043463.mkv
+往事只能回
+
+味,https://alimov2.a.kwimgs.com/upic/2022/06/01/06/BMjAyMjA2MDEwNjEyMjZfOTU2MzA3MDg4Xzc1NzE0NzcwMTc5XzJfMw==_b_B55a73f3d2ceffe4c8f6105e440e73c59.mp4
+无言的温柔,http://em.21dtv.com/songs/60047526.mkv
+除了你,http://em.21dtv.com/songs/60013053.mkv
+除了你,https://alimov2.a.kwimgs.com/upic/2022/06/03/06/BMjAyMjA2MDMwNjAyMzhfOTU2MzA3MDg4Xzc1ODY3NDQwNjA2XzJfMw==_b_B7ee14a3abf87a2f9ba3a8c1400ab8d87.mp4
+无聊的游戏,https://vd2.bdstatic.com/mda-nb8j3b6sz77bdvk8/sc/cae_h264_delogo/1644413904258506067/mda-nb8j3b6sz77bdvk8.mp4
+错误的爱,http://em.21dtv.com/songs/60013695.mkv
+我只在乎你,http://em.21dtv.com/songs/60046913.mkv
+你怎么说,http://em.21dtv.com/songs/60032505.mkv
+云菲菲殇雪,http://em.21dtv.com/songs/60105571.mkv
+爱拼才会赢,http://em.21dtv.com/songs/60008066.mkv
+歌声恋情,http://em.21dtv.com/songs/60018386.mkv
+歌声恋情,https://vd3.bdstatic.com/mda-mgsd4eq75mvk0ikk/480p/h264/1627377763575260019/mda-mgsd4eq75mvk0ikk.mp4
+张蔷爱你在心口难开,http://em.21dtv.com/songs/60008040.mkv
+潇洒的走,http://em.21dtv.com/songs/60049457.mkv
+潇洒的走,https://alimov2.a.kwimgs.com/upic/2022/05/16/18/BMjAyMjA1MTYxODQ3MDZfOTU2MzA3MDg4Xzc0NTcyMDAzNDYyXzJfMw==_b_B17ec2b34cc891bd2b73658f16cb6b223.mp4
+昨夜星辰,http://em.21dtv.com/songs/60086311.mkv
+程琳信天游,http://em.21dtv.com/songs/60134047.mkv
+程琳妈妈的吻,http://em.21dtv.com/songs/60134048.mkv
+程琳酒干倘卖无,http://em.21dtv.com/songs/60134051.mkv
+张学友祝福,http://em.21dtv.com/songs/60059307.mkv
+张学友祝福,https://vdse.bdstatic.com/h265/bdda84753e5b197b3b87f906f7c7de14e6.mp4
+张学友吻别,https://vd3.bdstatic.com/mda-pmg9mrimnrgtmuhs/hd/cae_h264/1702813135084226556/mda-pmg9mrimnrgtmuhs.mp4
+张学友等你等到我心痛,https://vdse.bdstatic.com//15e70c82ad7e0bcafaee8717c5ebfca4.mp4
+喜欢你,https://vdse.bdstatic.com/h265/bd4483c9d51d48d39552f3b99ee3c2cbd1.mp4
+张雨生我的未来不是梦,http://em.21dtv.com/songs/60045246.mkv
+伍思凯特别的爱给特别的你,http://em.21dtv.com/songs/60041637.mkv
+五月缘分,http://em.21dtv.com/songs/60056060.mkv
+陈慧琳记事本,http://em.21dtv.com/songs/60022714.mkv
+陈淑桦梦醒时分,http://em.21dtv.com/songs/60029721.mkv
+钟镇涛只要你过得比我好,http://em.21dtv.com/songs/60058503.mkv
+红颜知己,https://vd3.bdstatic.com/mda-qc554zxf4hpkf56u/hd/cae_h264/1709797072130716861/mda-qc554zxf4hpkf56u.mp4
+红颜知己,https://vdse.bdstatic.com/h265w2/wz2415cd49b03a02ba85cc69e066e1aa5f.mp4
+红颜知己,https://vd3.bdstatic.com/mda-mg2gqnpeqnyjbdht/hd/cae_h264_nowatermark/1625313417020859493/mda-mg2gqnpeqnyjbdht.mp4
+流星雨,https://vdse.bdstatic.com/h265/bdb49d57c9f9e3afc69a6d82a5ac6ed315.mp4
+大头鞋,https://vd3.bdstatic.com/mda-ncecggndu12b3aqr/hd/cae_h264_delogo/1647334836830833644/mda-ncecggndu12b3aqr.mp4
+朋友,https://vd3.bdstatic.com/mda-iivxv3f66nyp3mye/hd/mda-iivxv3f66nyp3mye.mp4
+牡丹之歌,https://vd3.bdstatic.com/mda-kdpi566bxtz3zpqu/sc/bd265_cae_v4_roi/1664950875011344145/mda-kdpi566bxtz3zpqu.mp4
+我的中国心[爱心],https://vd3.bdstatic.com/mda-qc9h7fs12vf2vg2u/hd/cae_h264/1710072755438741054/mda-qc9h7fs12vf2vg2u.mp4
+万里长征用不到,https://vdse.bdstatic.com/h265/bd5bdc729f646180dc979fd0057912b780.mp4
+上海滩,https://vd3.bdstatic.com/mda-mkf3j23x8vr8bc79/hd/cae_h264/1637032794957244867/mda-mkf3j23x8vr8bc79.mp4
+掌声响起来,https://vd3.bdstatic.com/mda-qakdkdv2xhizrmcm/sc/bd265_cae_visr_v6/1705836555184004873/mda-qakdkdv2xhizrmcm.mp4
+风雨兼程,https://vd3.bdstatic.com/mda-qd4j8gg32tjpt8ci/576p/h264/1712324192314492609/mda-qd4j8gg32tjpt8ci.mp4
+小螺号,https://vd3.bdstatic.com/mda-jkrt06av1h23zx3k/hd/mda-jkrt06av1h23zx3k.mp4
+恋曲1990,https://vdse.bdstatic.com/h265/bd78cff83ab51204071a6cac6250bdd182.mp4
+把根留住,https://vd3.bdstatic.com/mda-pdtiymjenx6e5bp9/576p/h264/1682688260120544592/mda-pdtiymjenx6e5bp9.mp4
+让生命等候,https://vd3.bdstatic.com/mda-ki6f15u4nvw9p9a7/v2-hknm/hd/mda-ki6f15u4nvw9p9a7.mp4
+不懂我的心,https://vd3.bdstatic.com/mda-pcmce7gq5tqqjknw/576p/h264/1679475374393888015/mda-pcmce7gq5tqqjknw.mp4
+董安格90,https://vd3.bdstatic.com/mda-pkg6sfrk2auz7z50/hd/cae_h264/1700203309818931306/mda-pkg6sfrk2auz7z50.mp4
+千千阙歌,https://vdse.bdstatic.com//505917a91c2d49c16d33eb0c343999c7.mp4
+甜蜜蜜,https://alimov2.a.kwimgs.com/upic/2022/05/12/08/BMjAyMjA1MTIwODUyNTZfOTU2MzA3MDg4Xzc0MjA5MTk5NTEzXzJfMw==_b_Bed65d2117b15f1124a4a799e7ee95fed.mp4
+千言万语,https://vdse.bdstatic.com/h265/bdea152d22edf6fcff2f6877093df36e48.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=10883296634040703633&vt=-1&svt=-
+
+1&cr_max=1&s_score=-1.000000&pt=0&av=14.3&vid=6778945436749671079&mvt=-1&did=3a1a6edbf01db4ea97abff6fb97de656&cr=1&h265_s=1&sl=144&sle=1&split=351700
+恰似你的温柔,https://vd3.bdstatic.com/mda-jd2kr1jchphvsmc0/sc/mda-jd2kr1jchphvsmc0.mp4
+万水千山总是情,https://vd3.bdstatic.com/mda-ndfg7taxiwvr7af7/hd/cae_h264_delogo/1650115071752941449/mda-ndfg7taxiwvr7af7.mp4
+邓丽君榕树下,https://vdse.bdstatic.com/h265/bdaa622d379869525d2db61a1c7d400186.mp4
+邓丽君月亮代表我的心,https://vdse.bdstatic.com/h265/bd60cc486d210895686fcc5c44a7e3c8d3.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=11563240740643934826&vt=-
+
+1&svt=-1&cr_max=1&s_score=-1.000000&pt=0&av=14.3&vid=14524751980491762674&mvt=-1&did=3a1a6edbf01db4ea97abff6fb97de656&cr=1&h265_s=1&sl=181&sle=1&split=420828
+邓丽君10首歌,https://vdse.bdstatic.com//1523e694145cd06d2be634cd5661c48b.mp4
+刘欢千万次的问,https://vd3.bdstatic.com/mda-mdhu9mniuabkzib9/sc/bd265_cae_roi_v6/1706566678165871098/mda-mdhu9mniuabkzib9.mp4?
+
+cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=12047090242885072636&vt=1&svt=1&cr_max=3&s_score=-
+
+1.000000&pt=0&av=14.3&vid=6396980057515277019&mvt=1&did=3a1a6edbf01db4ea97abff6fb97de656&cr=2&h265_s=1&sl=243&sle=1&split=497333
+迟志强十不该,https://vdse.bdstatic.com/h265/bd5f5e15652ed56840a5a2006ba39b23f3.mp4
+迟志强愁啊愁,https://vd3.bdstatic.com/mda-mme1ngqqi2djf1z3/hd/cae_h264/1639531488188730367/mda-mme1ngqqi2djf1z3.mp4
+迟志强心声,https://vd3.bdstatic.com/mda-mmpaz9caufbre2ie/hd/cae_h264/1640393840419242579/mda-mmpaz9caufbre2ie.mp4
+迟志强铁窗泪,https://vd3.bdstatic.com/mda-jecsqy29wgbfzp4z/sc/bd265_cae_roi_v5/1697673545277937554/mda-jecsqy29wgbfzp4z.mp4
+迟志强狱中望月,https://vd3.bdstatic.com/mda-idiaz9rzgd54y6ji/logo/hd/mda-idiaz9rzgd54y6ji.mp4
+迟志强狱中十二月,https://vdse.bdstatic.com/h265/bdaef394ead848a43abd2dffd5d9ea8936.mp4
+丁香花🌸,https://vdse.bdstatic.com/h265/bdfd7d2eb1d4c901ab0724b8a66d8c299b.mp4
+无言的结局,https://vdse.bdstatic.com/h265/bde9b7b35dec6007758744f6aca15cccef.mp4
+新鸳鸯蝴蝶梦,https://vdse.bdstatic.com/h265/bd257669d395ebd8ca7c9b80b03ab3c6f4.mp4
+涛声依旧,https://vdse.bdstatic.com/h265/bd1b67c3cfc0b404acd904604b03e9daf5.mp4
+亚洲雄风,https://vdse.bdstatic.com/h265/bd19a97a783727fe2114bba5f414b637e1.mp4
+九妹,https://vdse.bdstatic.com/h265/bd6200a2f4ec4494a0f1971829dad86c09.mp4
+邓丽君北国之春,https://vd3.bdstatic.com/mda-jinqm280ecppjh5c/sc/bd265_cae_roi_v5/1694800547578806915/mda-jinqm280ecppjh5c.mp4
+车载情歌21首,https://vd3.bdstatic.com/mda-pjqpkvqfud9t7cpp/576p/h264/1698252265089513313/mda-pjqpkvqfud9t7cpp.mp4
+红尘情歌,https://vd3.bdstatic.com/mda-pf99znjtchvgcvq8/576p/h264/1686380670449042423/mda-pf99znjtchvgcvq8.mp4
+13首DJ情歌,https://vd3.bdstatic.com/mda-pd281c17zt2yy3yp/hd/cae_h264/1680839721503780986/mda-pd281c17zt2yy3yp.mp4
+小虎队爱,http://em.21dtv.com/songs/60006922.mkv
+杨坤站台,http://em.21dtv.com/songs/60057510.mkv
+金志文跟着感觉走,http://em.21dtv.com/songs/60075525.mkv
+金志文远走高飞,http://em.21dtv.com/songs/60136965.mkv
+林忆莲至少还你,http://em.21dtv.com/songs/60058815.mkv
+张惠妹哭砂,http://em.21dtv.com/songs/60025583.mkv
+张惠妹听海,http://em.21dtv.com/songs/60042538.mkv
+张惠妹可以抱你,http://em.21dtv.com/songs/60045688.mkv
+张学友想和你去吹吹风,http://em.21dtv.com/songs/60049041.mkv
+郑志华水手,http://em.21dtv.com/songs/60147806.mkv
+刘落英后来,https://vdse.bdstatic.com//938bafdf45573190a8c337b424bf04a8.mp4
+伤不起,https://vdse.bdstatic.com/h265/bd8d41a13416bca9652b7a3b6cabfe67af.mp4
+别问我是谁,https://vd3.bdstatic.com/mda-qdgjbti1wzu4i33i/sc/bd265_cae_roi_v6/1713659656546794219/mda-qdgjbti1wzu4i33i.mp4
+走进新时代,https://vdse.bdstatic.com/h265/bdaca721b03747e74d15680e3e1ca0c45d.mp4
+小白杨,https://vdse.bdstatic.com/h265/bd4abbfd1ea3fcca83f7cc242c2c03a317.mp4
+跟着感觉走,https://vdse.bdstatic.com/h265/bd0c5a0b653bf118114badac3845630d90.mp4
+光辉岁月,https://vdse.bdstatic.com/h265/bd70635793b7c7f2bcf0b470b8d92d525b.mp4
+牧羊曲,https://vdse.bdstatic.com//0466a84603eabfda4fd9f6706c389ed7.mp4
+小苹果🍎,https://vd3.bdstatic.com/mda-pmtef6nugg3uc5xe/576p/h264/1703758587081442365/mda-pmtef6nugg3uc5xe.mp4
+编花篮,https://vdse.bdstatic.com/h265/bd38d2445de85c95b15c839132b83599e8.mp4
+韭菜炒大葱,https://vd3.bdstatic.com/mda-mhrczt6xhxnm711v/sc/bd265_cae_visr_v6/1702690085563742900/mda-mhrczt6xhxnm711v.mp4
+飘雪,https://vd3.bdstatic.com/mda-nin6eyj721m4nwh7/hd/cae_h264/1663992130912038971/mda-nin6eyj721m4nwh7.mp4
+叶倩文祝福,https://vdse.bdstatic.com/h265/bd2ca07f42148a8257a8c3302663cf3b8d.mp4
+叶倩文选择,https://vdse.bdstatic.com//60f3ded8e9bb36f11b486ac6521ef646.mp4
+相思风雨中,https://vdse.bdstatic.com//00956a688208ddedb133dacda821d489.mp4
+Xjx6首好听情歌DJ🇨🇳,https://vdse.bdstatic.com//b9c765ede94b5d2bac8cb2a9afc70488.mp4
+潘美辰我不在乎,http://em.21dtv.com/songs/60044927.mkv
+潘美辰舍不得你离去,http://em.21dtv.com/songs/60038212.mkv
+潘美辰是你,http://em.21dtv.com/songs/60039446.mkv
+潘美辰原谅我改变,http://em.21dtv.com/songs/60056001.mkv
+潘美辰你冷不冷,http://em.21dtv.com/songs/60031887.mkv
+潘美辰不要走不要走,http://em.21dtv.com/songs/60011665.mkv
+潘美辰,http://em.21dtv.com/songs/60044949.mkv
+卓依婷爱的奉献,http://em.21dtv.com/songs/60007209.mkv
+卓依婷迟来的爱,http://em.21dtv.com/songs/60012788.mkv
+卓依婷潮湿的心,http://em.21dtv.com/songs/60012447.mkv
+卓依婷电话情思,http://em.21dtv.com/songs/60148418.mkv
+卓依婷杜十娘,http://em.21dtv.com/songs/60015875.mkv
+卓依婷九月九,http://em.21dtv.com/songs/60024360.mkv
+卓依婷梦驼铃,http://em.21dtv.com/songs/60165406.mkv
+卓依婷,http://em.21dtv.com/songs/60030012.mkv
+张帝14个问答,https://vdse.bdstatic.com/h265/bdcf36579c6341dd6574dc0dbc6665fc86.mp4
+爱不停息,https://txmov2.a.kwimgs.com/upic/2022/05/30/05/BMjAyMjA1MzAwNTI5MjhfOTU2MzA3MDg4Xzc1NTc5NTY1NjM3XzJfMw==_b_Bf28a861f732cc0b62d624c511423fc21.mp4
+爱的很绝对输的很狼
+
+狈,https://alimov2.a.kwimgs.com/upic/2022/05/19/12/BMjAyMjA1MTkxMjIzNTFfOTU2MzA3MDg4Xzc0NzUxMDc1MzM0XzJfMw==_b_B7306ca7d04de7e078b90489dbc10e37e.mp4
+爱火,https://vd3.bdstatic.com/mda-jiakuii545923s2y/sc/mda-jiakuii545923s2y.mp4
+爱你却不敢告诉
+
+你,https://alimov2.a.kwimgs.com/upic/2022/05/23/08/BMjAyMjA1MjMwODM0NTZfOTU2MzA3MDg4Xzc1MDY5NDM5NzAwXzJfMw==_b_B0c8c82903e2afac15903524fa3134fca.mp4
+爱你是那么的辛
+
+苦,https://txmov2.a.kwimgs.com/upic/2022/06/01/05/BMjAyMjA2MDEwNTUwMjZfOTU2MzA3MDg4Xzc1NzE0MjY5MDcxXzJfMw==_b_B07660f4a7402d9114c919791f2f84464.mp4
+爱悠悠情悠悠,https://txmov2.a.kwimgs.com/upic/2022/05/26/05/BMjAyMjA1MjYwNTIyMThfOTU2MzA3MDg4Xzc1MjYyMTk2MzkxXzJfMw==_b_B51654e4e6b3f3983ee060d725a36c66f.mp4
+白头到老不分
+
+离,https://txmov2.a.kwimgs.com/upic/2022/05/21/06/BMjAyMjA1MjEwNjA0MDdfOTU2MzA3MDg4Xzc0ODg3NDA1MzIxXzJfMw==_b_Be67c60b303816935515c988457de1f77.mp4
+表白,https://vd2.bdstatic.com/mda-ncg08dwicq36v88q/1080p/cae_h264_delogo/1647550851787171345/mda-ncg08dwicq36v88q.mp4
+别让我等候,https://alimov2.a.kwimgs.com/upic/2022/05/23/07/BMjAyMjA1MjMwNzMxMjRfOTU2MzA3MDg4Xzc1MDY3MTEwNzkyXzJfMw==_b_B7df6b39b462c226c5d0b54a3051d35a5.mp4
+不期而遇,https://alimov2.a.kwimgs.com/upic/2022/05/10/08/BMjAyMjA1MTAwODA2NTJfOTU2MzA3MDg4Xzc0MDcwNDI1MDA3XzJfMw==_b_Bcaa49b28dfb71c7701e64dbeaeb2821a.mp4
+不挽留没回
+
+头,https://alimov2.a.kwimgs.com/upic/2022/06/01/05/BMjAyMjA2MDEwNTM5MDdfOTU2MzA3MDg4Xzc1NzEzOTgyNTkwXzJfMw==_b_Bf42faac947f1873863830fe5f57402e5.mp4
+擦伤,https://txmov2.a.kwimgs.com/upic/2022/05/20/06/BMjAyMjA1MjAwNjA4MjhfOTU2MzA3MDg4Xzc0ODAzMjA5OTUxXzJfMw==_b_B07768896eaba698261192036b2b49f33.mp4
+藏爱,https://alimov2.a.kwimgs.com/upic/2022/05/17/07/BMjAyMjA1MTcwNzQ2MjlfOTU2MzA3MDg4Xzc0NjA0MjMwNzI2XzJfMw==_b_Ba76534d598d853d54c5bf4a18b597ced.mp4
+草原上最美的姑
+
+娘,https://alimov2.a.kwimgs.com/upic/2022/05/12/11/BMjAyMjA1MTIxMTIyMDNfOTU2MzA3MDg4Xzc0MjE3MTA2ODM3XzJfMw==_b_B42ecf15e138ea5b3fc699db51dcccd7a.mp4
+策马情歌,https://alimov2.a.kwimgs.com/upic/2022/05/26/05/BMjAyMjA1MjYwNTUzNDdfOTU2MzA3MDg4Xzc1MjYyNzkwMTY1XzJfMw==_b_Bb09b659e53ab1746c396c104f5cfdb7a.mp4
+茶山情歌,https://vd3.bdstatic.com/mda-nbbn51pswxeedzff/fhd/cae_h264_nowatermark_delogo/1644787225758354057/mda-nbbn51pswxeedzff.mp4
+潮湿的心,https://vd3.bdstatic.com/mda-ke4h5gqvwhygxwbv/v1-cae/sc/mda-ke4h5gqvwhygxwbv.mp4
+痴情换真心,https://alimov2.a.kwimgs.com/upic/2022/05/31/06/BMjAyMjA1MzEwNjM3MTRfOTU2MzA3MDg4Xzc1NjQ4MzAzMjI2XzJfMw==_b_B170255b9d94bb4ff57620e998c9c056a.mp4
+错过缘分错过你,https://vd4.bdstatic.com/mda-nak1ta9hr7uau7gi/fhd/cae_h264_nowatermark_delogo/1642800023084828200/mda-nak1ta9hr7uau7gi.mp4
+错位时空,https://alimov2.a.kwimgs.com/upic/2022/05/10/20/BMjAyMjA1MTAyMDI0MDZfOTU2MzA3MDg4Xzc0MTE0NzY0NTU3XzJfMw==_b_B344521e146d717ee6eec31aead272742.mp4
+待你厌倦江湖,https://txmov2.a.kwimgs.com/upic/2022/05/31/06/BMjAyMjA1MzEwNjMyNDJfOTU2MzA3MDg4Xzc1NjQ4MTAyMDQ1XzJfMw==_b_B62384350315b9200713c59062e1294a1.mp4
+等不到的爱,https://txmov2.a.kwimgs.com/upic/2022/06/10/14/BMjAyMjA2MTAxNDM2NDRfOTU2MzA3MDg4Xzc2NDQ2MjE5NDg4XzJfMw==_b_B362954b2c84869585267ae6d54943bff.mp4
+都说,https://vd3.bdstatic.com/mda-kckse34xbmavq1m9/v1-cae/sc/mda-kckse34xbmavq1m9.mp4
+二十年后再相
+
+会,https://alimov2.a.kwimgs.com/upic/2022/05/26/05/BMjAyMjA1MjYwNTI4MTJfOTU2MzA3MDg4Xzc1MjYyMjk3MzIxXzJfMw==_b_B39c4359419fad2026c8bfb9a83ff1a23.mp4
+风含情水含
+
+笑,https://alimov2.a.kwimgs.com/upic/2022/06/08/07/BMjAyMjA2MDgwNzE4NTBfOTU2MzA3MDg4Xzc2Mjg3Nzk4NzQ0XzJfMw==_b_B375987d14e51a79300421bd54ea37707.mp4
+风飘飘雨潇
+
+潇,https://alimov2.a.kwimgs.com/upic/2022/06/08/07/BMjAyMjA2MDgwNzIwNDRfOTU2MzA3MDg4Xzc2Mjg3ODY4NTM2XzJfMw==_b_B2cff790b56fd451f175022efebb2cef7.mp4
+浮生记,https://alimov2.a.kwimgs.com/upic/2022/05/26/05/BMjAyMjA1MjYwNTM1MDVfOTU2MzA3MDg4Xzc1MjYyNDIxMDg2XzJfMw==_b_B63801abb16fecd9ad093abf7f95d59e0.mp4
+高山青,https://vd2.bdstatic.com/mda-nbekkfmj84v41mdb/fhd/cae_h264_nowatermark_delogo/1645045236575576660/mda-nbekkfmj84v41mdb.mp4
+哥哥不要把我
+
+忘,https://alimov2.a.kwimgs.com/upic/2022/05/11/07/BMjAyMjA1MTEwNzIzMTlfOTU2MzA3MDg4Xzc0MTM2ODE2ODIyXzJfMw==_b_B34a8ce553bf382767cc3e00a3305ed0b.mp4
+歌在飞,https://alimov2.a.kwimgs.com/upic/2022/06/08/07/BMjAyMjA2MDgwNzIyMjZfOTU2MzA3MDg4Xzc2Mjg3OTIwOTA2XzJfMw==_b_Be741b982876637527a2cbd80287dc498.mp4
+故乡情,https://alimov2.a.kwimgs.com/upic/2022/05/27/06/BMjAyMjA1MjcwNjA4NTBfOTU2MzA3MDg4Xzc1MzMwMDgzNjM5XzJfMw==_b_B9aa844643fbe61eab56c3048c3db8f75.mp4
+海市蜃楼,https://alimov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTMyMTJfOTU2MzA3MDg4Xzc0ODAyNTEwNDEwXzJfMw==_b_Bd6c274b498d5514414127500fd36ff9f.mp4
+喝的是酒想的是
+
+你,https://txmov2.a.kwimgs.com/upic/2022/05/30/05/BMjAyMjA1MzAwNTE2NDlfOTU2MzA3MDg4Xzc1NTc5MzcwMDk0XzJfMw==_b_B68b336177ca5844d50a0c9e475874f67.mp4
+何必西天万里
+
+遥,https://alimov2.a.kwimgs.com/upic/2022/05/16/18/BMjAyMjA1MTYxODQwNThfOTU2MzA3MDg4Xzc0NTcxNTIwNzI4XzJfMw==_b_Bbb84c1cb7fcde72f03256f72ad1e3140.mp4
+花都开了你来不
+
+来,https://txmov2.a.kwimgs.com/upic/2022/05/17/09/BMjAyMjA1MTcwOTQyMTlfOTU2MzA3MDg4Xzc0NjA5MDE1MzE2XzJfMw==_b_Bfa12ca77060d8da457cf341b6d6cc7c1.mp4
+花蝴蝶飞,https://txmov2.a.kwimgs.com/upic/2022/05/17/10/BMjAyMjA1MTcxMDA2MjlfOTU2MzA3MDg4Xzc0NjEwMjM1NDQ3XzJfMw==_b_B1c02ebbc02beb90f424cc390d5a2ead3.mp4
+花开满山破,https://alimov2.a.kwimgs.com/upic/2022/05/31/06/BMjAyMjA1MzEwNjMyMjNfOTU2MzA3MDg4Xzc1NjQ4MDY4NDE4XzJfMw==_b_Bf90f84fb0fbbd2375d6c9a3d3c7db925.mp4
+画你,https://txmov2.a.kwimgs.com/upic/2022/05/10/07/BMjAyMjA1MTAwNzUyMTdfOTU2MzA3MDg4Xzc0MDY5ODk4ODkxXzJfMw==_b_B46351dd76db1f05450736c479fe62b5c.mp4
+欢乐中国年,https://txmov2.a.kwimgs.com/upic/2022/05/20/06/BMjAyMjA1MjAwNjA5MjBfOTU2MzA3MDg4Xzc0ODAzNDA2NTI2XzJfMw==_b_Bed16e3a5211b3f72cfb83ecc9b370f21.mp4
+回家的路,https://alimov2.a.kwimgs.com/upic/2022/06/06/05/BMjAyMjA2MDYwNTUyMDlfOTU2MzA3MDg4Xzc2MTQ1NTMxMTQ5XzJfMw==_b_Bd33b3e7c1136989b6380b87a54191e73.mp4
+活成自己想要的模
+
+样,https://alimov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTA0NTBfOTU2MzA3MDg4Xzc0ODAyMDE1NTMwXzJfMw==_b_Bc31218e294127507139f0741e3e36524.mp4
+活着,https://txmov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTI1MzZfOTU2MzA3MDg4Xzc0ODAyMzc4NDE2XzJfMw==_b_Baa0e5199b8317db9c99de08752e23c5f.mp4
+家乡的姑娘真漂
+
+亮,https://txmov2.a.kwimgs.com/upic/2022/05/30/06/BMjAyMjA1MzAwNjA2MTJfOTU2MzA3MDg4Xzc1NTgwMzY3NDY1XzJfMw==_b_B824cd9dc976d27015261c65bed6114f0.mp4
+家在御江南,https://alimov2.a.kwimgs.com/upic/2022/05/14/06/BMjAyMjA1MTQwNjAxMDdfOTU2MzA3MDg4Xzc0MzUwMjExODI4XzJfMw==_b_Ba06bf43c61aefa199d5cb913986d88ae.mp4
+剑魂,https://vd3.bdstatic.com/mda-nd4081njtb3u0k8h/1080p/cae_h264_delogo/1649193696481203927/mda-nd4081njtb3u0k8h.mp4
+江南梦,https://vd3.bdstatic.com/mda-neub5gdk4pte6xnp/sc/cae_h264/1653813326481476609/mda-neub5gdk4pte6xnp.mp4
+今生只为遇见
+
+你,https://alimov2.a.kwimgs.com/upic/2022/05/28/06/BMjAyMjA1MjgwNjIzNDBfOTU2MzA3MDg4Xzc1NDA1MDAzNTUwXzJfMw==_b_Bc6c0f3a2865d4118d981acfbd0628c01.mp4
+纠缠不休,https://txmov2.a.kwimgs.com/upic/2022/05/26/05/BMjAyMjA1MjYwNTU4MTJfOTU2MzA3MDg4Xzc1MjYyOTEwMTQ1XzJfMw==_b_B1a1dfbe5517362d8498f2785e658c392.mp4
+究竟是为了什么,https://vd3.bdstatic.com/mda-mmk1k0wnk23gm563/1080p/cae_h264_delogo/1643429260676843819/mda-mmk1k0wnk23gm563.mp4
+九十九步,https://txmov2.a.kwimgs.com/upic/2022/06/08/08/BMjAyMjA2MDgwODA3MTFfOTU2MzA3MDg4Xzc2Mjg5NjI3NzA3XzJfMw==_b_Bae94dea97ceae54fd1f29cd860961008.mp4
+九月九的酒,https://txmov2.a.kwimgs.com/upic/2022/05/31/06/BMjAyMjA1MzEwNjM0MzNfOTU2MzA3MDg4Xzc1NjQ4MTkyNzI1XzJfMw==_b_B03de42b67a7cf66e527e985a47d4bd70.mp4
+酒醉的蝴蝶,https://vd3.bdstatic.com/mda-kkejqw07bnzdja4f/sc/cae_h264_nowatermark/1605420816/mda-kkejqw07bnzdja4f.mp4
+旧梦,https://txmov2.a.kwimgs.com/upic/2022/05/13/05/BMjAyMjA1MTMwNTQzNTdfOTU2MzA3MDg4Xzc0MjcyMzg1NTY3XzJfMw==_b_B2dc0a00dda9afcecc75926fd06788fc8.mp4
+就让我爱你,https://alimov2.a.kwimgs.com/upic/2022/05/10/20/BMjAyMjA1MTAyMDIxMTJfOTU2MzA3MDg4Xzc0MTE0NDg1NDQ5XzJfMw==_b_B9bc48ad956e6a398111d603911977c57.mp4
+渴望,https://alimov2.a.kwimgs.com/upic/2022/05/29/07/BMjAyMjA1MjkwNzU4MDlfOTU2MzA3MDg4Xzc1NDk5MTkzMDcyXzJfMw==_b_Bc3332b978f8b5d438d934cfb2b274677.mp4
+狂沙,https://alimov2.a.kwimgs.com/upic/2022/06/07/06/BMjAyMjA2MDcwNjU5NDZfOTU2MzA3MDg4Xzc2MjE3Nzk5NDEwXzJfMw==_b_B923ca9f49ee544489344d4002972f581.mp4
+来生不再错过
+
+你,https://alimov2.a.kwimgs.com/upic/2022/06/01/06/BMjAyMjA2MDEwNjEyNTVfOTU2MzA3MDg4Xzc1NzE0NzkyMDQ4XzJfMw==_b_Bc46876778eea16365c432ad0fd637316.mp4
+浪迹天涯,https://vd2.bdstatic.com/mda-nc7zsmht6xm8nye2/1080p/cae_h264_delogo/1646860825962324580/mda-nc7zsmht6xm8nye2.mp4
+老乡,https://alimov2.a.kwimgs.com/upic/2022/06/01/05/BMjAyMjA2MDEwNTUzMzhfOTU2MzA3MDg4Xzc1NzE0MzQ1Mjc3XzJfMw==_b_Be2830ac29eb4a0099147eceab25fa6bb.mp4
+两个世界,https://alimov2.a.kwimgs.com/upic/2022/05/24/17/BMjAyMjA1MjQxNzE1MjZfOTU2MzA3MDg4Xzc1MTYzMzk2NTUzXzJfMw==_b_B447f1a925bb4fb7004ecd7af50be28c4.mp4
+流泪的飞蛾,https://vd3.bdstatic.com/mda-mmszwiraavrsffr0/1080p/cae_h264_delogo/1643524273204830134/mda-mmszwiraavrsffr0.mp4
+马缨花情歌,https://txmov2.a.kwimgs.com/upic/2022/05/29/12/BMjAyMjA1MjkxMjQzMDVfOTU2MzA3MDg4Xzc1NTIwMDQ0NDIxXzJfMw==_b_Ba67dd2a268ed8f364665fa1dd316aa25.mp4
+美丽的格桑
+
+花,https://alimov2.a.kwimgs.com/upic/2022/05/17/09/BMjAyMjA1MTcwOTU0MTBfOTU2MzA3MDg4Xzc0NjA5NTgxMzQzXzJfMw==_b_B0748e8cac06098e9e1527cd77f1b034e.mp4
+梦里全是你的温
+
+柔,https://alimov2.a.kwimgs.com/upic/2022/05/31/06/BMjAyMjA1MzEwNjQwMjhfOTU2MzA3MDg4Xzc1NjQ4Mzg2MTYzXzJfMw==_b_Be34d5c8ed696c2549f62012ecee53baa.mp4
+闽南摇,https://txmov2.a.kwimgs.com/upic/2022/05/31/06/BMjAyMjA1MzEwNjM5MzZfOTU2MzA3MDg4Xzc1NjQ4MzUwNjUxXzJfMw==_b_B86c40d8b4cb80db03598c2196ea1a156.mp4
+你的玫瑰,https://txmov2.a.kwimgs.com/upic/2022/06/03/06/BMjAyMjA2MDMwNjA1NTNfOTU2MzA3MDg4Xzc1ODY3NTQ1OTYwXzJfMw==_b_Bf05af300716d8ab8b63d039883e7ba98.mp4
+你的万水千山,https://vd3.bdstatic.com/mda-kgji1f4wbkue79t0/sc/cae_h264_nowatermark/mda-kgji1f4wbkue79t0.mp4
+你还是从前的你
+
+吗,https://alimov2.a.kwimgs.com/upic/2022/05/17/09/BMjAyMjA1MTcwOTU5MDVfOTU2MzA3MDg4Xzc0NjA5ODMyNTg4XzJfMw==_b_B16784bc1af8af88b37e768d580806409.mp4
+你能不能不要离开
+
+我,https://alimov2.a.kwimgs.com/upic/2022/05/29/08/BMjAyMjA1MjkwODAwMTVfOTU2MzA3MDg4Xzc1NDk5Mjk3NTI1XzJfMw==_b_Bc5ee9048e78ac7fdf1132decfec7cdeb.mp4
+你是恩赐也是
+
+劫,https://txmov2.a.kwimgs.com/upic/2022/05/27/06/BMjAyMjA1MjcwNjAxMTNfOTU2MzA3MDg4Xzc1MzI5OTYyMzUyXzJfMw==_b_B6da528d43caa536f6825e0ac42f4ccf3.mp4
+你是我的小苹
+
+果,https://alimov2.a.kwimgs.com/upic/2022/06/06/05/BMjAyMjA2MDYwNTUzNDdfOTU2MzA3MDg4Xzc2MTQ1NTk5NjczXzJfMw==_b_Bce46752475a8a4664a00cd145b007022.mp4
+你跳舞的样子是最
+
+美,https://txmov2.a.kwimgs.com/upic/2022/05/16/11/BMjAyMjA1MTYxMTI1NDVfOTU2MzA3MDg4Xzc0NTQ0ODM4OTM2XzJfMw==_b_B70e403cade69df78af7a20c7b991df83.mp4
+你在家乡还好
+
+吗,https://alimov2.a.kwimgs.com/upic/2022/05/25/04/BMjAyMjA1MjUwNDU4NDVfOTU2MzA3MDg4Xzc1MTk1NzI1OTIzXzJfMw==_b_B65ccf167f2af2a1c5842f9388923a053.mp4
+漂洋过海来看
+
+你,https://txmov2.a.kwimgs.com/upic/2022/05/10/20/BMjAyMjA1MTAyMDIzMzRfOTU2MzA3MDg4Xzc0MTE0Njk1Mzc5XzJfMw==_b_Bda1e74f5e3d53449cde1c79fcd7d2859.mp4
+青青河边草,https://alimov2.a.kwimgs.com/upic/2022/06/06/05/BMjAyMjA2MDYwNTQxMjRfOTU2MzA3MDg4Xzc2MTQ1MzUyNzc1XzJfMw==_b_B18c954e77b75945bbebf4191e0ea6dd8.mp4
+情歌轻轻唱,https://txmov2.a.kwimgs.com/upic/2022/05/19/08/BMjAyMjA1MTkwODEzMjFfOTU2MzA3MDg4Xzc0NzM4NTM3MzIwXzJfMw==_b_Bbfc85fc1485759dbbbcb92ebf537acd0.mp4
+情破了心碎了,https://txmov2.a.kwimgs.com/upic/2022/06/01/05/BMjAyMjA2MDEwNTQzNTlfOTU2MzA3MDg4Xzc1NzE0MDYxNTk3XzJfMw==_b_B152552e8b75265af958830cfd482f86f.mp4
+三生三幸,https://txmov2.a.kwimgs.com/upic/2022/05/27/05/BMjAyMjA1MjcwNTUzMDNfOTU2MzA3MDg4Xzc1MzI5NzY2NzE1XzJfMw==_b_B4bff592193b36fe88f88f8879425db11.mp4
+山谷里的思
+
+恋,https://alimov2.a.kwimgs.com/upic/2022/06/01/18/BMjAyMjA2MDExODE0MzZfOTU2MzA3MDg4Xzc1NzU3Nzc2NzAzXzJfMw==_b_B0e0875e36fe18d339049479f0cfb06c5.mp4
+山那边,https://alimov2.a.kwimgs.com/upic/2022/05/12/08/BMjAyMjA1MTIwODUxMDRfOTU2MzA3MDg4Xzc0MjA5MTAwMjAzXzJfMw==_b_B2862d8a760125751a5225f1758ef5a47.mp4
+伤心的酒吧,https://alimov2.a.kwimgs.com/upic/2022/05/27/05/BMjAyMjA1MjcwNTU0MzFfOTU2MzA3MDg4Xzc1MzI5ODIxMDg1XzJfMw==_b_Bca7ddb535d4088b7ff6262d28093f30f.mp4
+谁陪我到最后,https://txmov2.a.kwimgs.com/upic/2022/05/14/05/BMjAyMjA1MTQwNTM5MTRfOTU2MzA3MDg4Xzc0MzQ5Nzg1MTkwXzJfMw==_b_B0d78ac2acc32ba6bdda5e9b9ce452c5a.mp4
+谁在意我流下的
+
+泪,https://txmov2.a.kwimgs.com/upic/2022/05/20/06/BMjAyMjA1MjAwNjA3NDlfOTU2MzA3MDg4Xzc0ODAzMTE1NjE0XzJfMw==_b_Bc933688e6937bedad020c88de780482a.mp4
+神仙姑娘,https://vd4.bdstatic.com/mda-nciz5tc8dnbgx932/1080p/cae_h264_delogo/1647810046618895479/mda-nciz5tc8dnbgx932.mp4
+是酒也是泪,https://alimov2.a.kwimgs.com/upic/2022/06/08/08/BMjAyMjA2MDgwODAyMTFfOTU2MzA3MDg4Xzc2Mjg5NDI5NjA2XzJfMw==_b_B341a133fce010d62694991d47b5b6744.mp4
+熟悉的老情歌,https://txmov2.a.kwimgs.com/upic/2022/05/28/17/BMjAyMjA1MjgxNzAyNDlfOTU2MzA3MDg4Xzc1NDQ5MzgzOTMzXzJfMw==_b_B6d79792fb36617b506b1a1b2ba410fd7.mp4
+说再见不该在秋
+
+天,https://alimov2.a.kwimgs.com/upic/2022/05/27/05/BMjAyMjA1MjcwNTUzNTBfOTU2MzA3MDg4Xzc1MzI5ODA1NTM3XzJfMw==_b_B2605528ff042a8782fb357dcac5d658d.mp4
+斯卡布罗集
+
+市,https://alimov2.a.kwimgs.com/upic/2022/05/30/06/BMjAyMjA1MzAwNjQ1NDVfOTU2MzA3MDg4Xzc1NTgxNDY2MTE5XzJfMw==_b_Ba5053caeb26d09e5fb1eb0d12c66c7db.mp4
+太想恋,https://txmov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTAyNDNfOTU2MzA3MDg4Xzc0ODAxOTg2NjIzXzJfMw==_b_B9c47592126ef813a645cc825d7ac33fd.mp4
+桃花运,https://alimov2.a.kwimgs.com/upic/2022/06/02/07/BMjAyMjA2MDIwNzI2MzZfOTU2MzA3MDg4Xzc1NzkzOTI1OTA4XzJfMw==_b_B5256e525bf39d1bc72769b03bdaadad2.mp4
+特别的爱送特别的
+
+你,https://txmov2.a.kwimgs.com/upic/2022/05/24/17/BMjAyMjA1MjQxNzU3NTNfOTU2MzA3MDg4Xzc1MTY1OTQ5NjU4XzJfMw==_b_Bc946dba5a89e3d7b8b3e395581667a2d.mp4
+天籁传奇,https://alimov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTM2NDdfOTU2MzA3MDg4Xzc0ODAyNTg3OTk3XzJfMw==_b_B37ec7eed01d09c4f56cfcd32d28baef6.mp4
+天籁之爱,https://alimov2.a.kwimgs.com/upic/2022/06/04/06/BMjAyMjA2MDQwNjEyNDdfOTU2MzA3MDg4Xzc1OTY4NzYyNzQ3XzJfMw==_b_Bc726bbdd9606749ed44aa456f1487459.mp4
+天若有情,https://alimov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTM3MDBfOTU2MzA3MDg4Xzc0ODAyNjAxNjM4XzJfMw==_b_B568661cc6c7d32b4335833707176c7ad.mp4
+天知籁之爱,https://alimov2.a.kwimgs.com/upic/2022/05/31/06/BMjAyMjA1MzEwNjM0MDZfOTU2MzA3MDg4Xzc1NjQ4MTczNjA1XzJfMw==_b_Bd24f42bfcca7701744eca5de519be3d6.mp4
+听闻远方有
+
+你,https://alimov2.a.kwimgs.com/upic/2022/06/01/05/BMjAyMjA2MDEwNTM2MzRfOTU2MzA3MDg4Xzc1NzEzOTQ2NzEzXzJfMw==_b_B24d15fb25143455f60ecaddee30c6966.mp4
+听心,https://alimov2.a.kwimgs.com/upic/2022/05/19/11/BMjAyMjA1MTkxMTAyMjdfOTU2MzA3MDg4Xzc0NzQ2NjY0Mjk5XzJfMw==_b_Be901f1d46b1cbf6f1791016dd7905d9f.mp4
+晚秋,https://txmov2.a.kwimgs.com/upic/2022/05/15/21/BMjAyMjA1MTUyMTQ2MzJfOTU2MzA3MDg4Xzc0NTE3OTYyMTc5XzJfMw==_b_Be623a13bacee708ad853df23a146233a.mp4
+问心无愧最自
+
+在,https://alimov2.a.kwimgs.com/upic/2022/06/08/08/BMjAyMjA2MDgwODAwMjdfOTU2MzA3MDg4Xzc2Mjg5MzUzMTM5XzJfMw==_b_Ba66142d3999c91639933cf3ae3b75fae.mp4
+问星海,https://txmov2.a.kwimgs.com/upic/2022/05/26/05/BMjAyMjA1MjYwNTM3MjdfOTU2MzA3MDg4Xzc1MjYyNDYzOTQ3XzJfMw==_b_B468ef8193bb8e61d933e801f880166ac.mp4
+问自己,https://txmov2.a.kwimgs.com/upic/2022/05/23/07/BMjAyMjA1MjMwNzQ1MzJfOTU2MzA3MDg4Xzc1MDY3NjU5MzgwXzJfMw==_b_B48871de847641fd3b1c0005ec4edfa6e.mp4
+我的妹妹你真
+
+美,https://alimov2.a.kwimgs.com/upic/2022/06/06/20/BMjAyMjA2MDYyMDQ2NTNfOTU2MzA3MDg4Xzc2MTk3MDM2NzM4XzJfMw==_b_Bb9c0556093646d22559dc848a24a4304.mp4
+我的心只为你等
+
+待,https://txmov2.a.kwimgs.com/upic/2022/06/01/06/BMjAyMjA2MDEwNjA1MDZfOTU2MzA3MDg4Xzc1NzE0NjIxODAxXzJfMw==_b_B76de084f8e24bde1e6403ea6efb551aa.mp4
+我们还能不能回到从
+
+前,https://txmov2.a.kwimgs.com/upic/2022/06/01/05/BMjAyMjA2MDEwNTQ4MzdfOTU2MzA3MDg4Xzc1NzE0MTM0MTM1XzJfMw==_b_B641a2742bef537476971c811829f3d7d.mp4
+我心中的那片
+
+海,https://alimov2.a.kwimgs.com/upic/2022/05/26/05/BMjAyMjA1MjYwNTMxMjdfOTU2MzA3MDg4Xzc1MjYyMzY0Njg4XzJfMw==_b_B467459622819739d77e70ed5e7eb479d.mp4
+我要上班,https://txmov2.a.kwimgs.com/upic/2022/06/01/06/BMjAyMjA2MDEwNjA4MzdfOTU2MzA3MDg4Xzc1NzE0Njk2MDc4XzJfMw==_b_B22adf6880dc4d844f278e4ace963e65a.mp4
+我有故事谁有
+
+酒,https://alimov2.a.kwimgs.com/upic/2022/06/07/08/BMjAyMjA2MDcwODUzMDhfOTU2MzA3MDg4Xzc2MjIyMDY3ODQ1XzJfMw==_b_B46865ae2d338c397781d7f42762848ee.mp4
+我在家乡等着
+
+你,https://txmov2.a.kwimgs.com/upic/2022/06/08/08/BMjAyMjA2MDgwODAwMzVfOTU2MzA3MDg4Xzc2Mjg3OTc2MzI3XzJfMw==_b_Bc39c49da5e8e16f4633862a1ce9ddcf3.mp4
+我只想告诉
+
+你,https://alimov2.a.kwimgs.com/upic/2022/05/23/07/BMjAyMjA1MjMwNzI2MjJfOTU2MzA3MDg4Xzc1MDY2OTU2Mzc5XzJfMw==_b_B9439f85aa36acd594f45a3119f49d84c.mp4
+相思,https://vd2.bdstatic.com/mda-mmb0pntcm97258vr/480p/h264_delogo/1645602103008725852/mda-mmb0pntcm97258vr.mp4
+相遇那么美,https://alimov2.a.kwimgs.com/upic/2022/05/10/08/BMjAyMjA1MTAwODA1NThfOTU2MzA3MDg4Xzc0MDcwNDAzNzMxXzJfMw==_b_B184bd34b9ad0609efc72e1085c1402e6.mp4
+想你想不够,https://alimov2.a.kwimgs.com/upic/2022/06/08/08/BMjAyMjA2MDgwODA1MzVfOTU2MzA3MDg4Xzc2Mjg5NTUxMDM1XzJfMw==_b_Bf430dc5304b37e3b78a9788c68df8fc9.mp4
+潇小城,https://alimov2.a.kwimgs.com/upic/2022/05/13/05/BMjAyMjA1MTMwNTU1NDBfOTU2MzA3MDg4Xzc0MjcyNjQzMzQwXzJfMw==_b_Bbd6117a54c703ee711acc5321708b5be.mp4
+小城故事,https://alimov2.a.kwimgs.com/upic/2022/05/17/09/BMjAyMjA1MTcwOTU4MzBfOTU2MzA3MDg4Xzc0NjA5NzM2ODQ5XzJfMw==_b_B0de95ad9e2ffc011e14fa1c64a4f171d.mp4
+小芳,https://txmov2.a.kwimgs.com/upic/2022/05/18/22/BMjAyMjA1MTgyMjA5NDRfOTU2MzA3MDg4Xzc0NzIzNzM0OTExXzJfMw==_b_B02e310fc5e250b5b7ff360052f0a26b4.mp4
+小河边,https://txmov2.a.kwimgs.com/upic/2022/05/25/06/BMjAyMjA1MjUwNjU2MTlfOTU2MzA3MDg4Xzc1MTk4MzkxODExXzJfMw==_b_B3ae24817e9cee1d7c9f3fc43de52e681.mp4
+小酒娘,https://vd2.bdstatic.com/mda-nd50ddewvm3w1x52/1080p/cae_h264_delogo/1649281370508357247/mda-nd50ddewvm3w1x52.mp4
+小菊花,https://alimov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTEzMTNfOTU2MzA3MDg4Xzc0ODAyMTQ4OTA3XzJfMw==_b_Bd58b2e98ec5041c05ecaa839a4dbc558.mp4
+小可爱,https://alimov2.a.kwimgs.com/upic/2022/05/12/11/BMjAyMjA1MTIxMTM2MDhfOTU2MzA3MDg4Xzc0MjE3OTA0MTcxXzJfMw==_b_Bbeb31659bff7891ce7e68893d786a5c3.mp4
+小眼神儿,https://txmov2.a.kwimgs.com/upic/2022/06/11/06/BMjAyMjA2MTEwNjEwMzBfOTU2MzA3MDg4Xzc2NDk1MjcxMzQ0XzJfMw==_b_B0a6337e3320ce11099569586e7e22c9b.mp4
+心中最美的风景
+
+线,https://txmov2.a.kwimgs.com/upic/2022/06/01/05/BMjAyMjA2MDEwNTU0MDhfOTU2MzA3MDg4Xzc1NzE0MzU0MDc1XzJfMw==_b_B737114c6ee7766cbbdce7c02da898531.mp4
+幸福快车,https://alimov2.a.kwimgs.com/upic/2022/06/01/06/BMjAyMjA2MDEwNjEzNDRfOTU2MzA3MDg4Xzc1NzE0ODQ1NzUxXzJfMw==_b_B6fe42cefd98c69426c5799a01242484b.mp4
+雪山阿佳,https://txmov2.a.kwimgs.com/upic/2022/05/15/21/BMjAyMjA1MTUyMTM4MDFfOTU2MzA3MDg4Xzc0NTE3MTQ4NDE2XzJfMw==_b_B4c0462b674c8dd550827427f5f508232.mp4
+烟雨城,https://alimov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTQ2NTVfOTU2MzA3MDg4Xzc0ODAyNzk1NTY2XzJfMw==_b_Bac3fe3ff44f449ee531ba7020022ffa4.mp4
+燕雀南飞,https://txmov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTMwMThfOTU2MzA3MDg4Xzc0ODAyNDY2NDI4XzJfMw==_b_B0611ff1ab2bd444ebb3aefe464b3de28.mp4
+燕无歇,https://alimov2.a.kwimgs.com/upic/2022/05/15/21/BMjAyMjA1MTUyMTUzMThfOTU2MzA3MDg4Xzc0NTE4NDk5NTUxXzJfMw==_b_Bf282359c98f44edb4e8feb136fe943f9.mp4
+要爱你就来,https://txmov2.a.kwimgs.com/upic/2022/06/02/07/BMjAyMjA2MDIwNzI3MDZfOTU2MzA3MDg4Xzc1NzkzOTYxOTg4XzJfMw==_b_Bd233855057f07f1f3a843aa2d9750fb8.mp4
+野花香,https://vd3.bdstatic.com/mda-kkiij0tpgib4mvnm/sc/cae_h264_nowatermark/1605819994/mda-kkiij0tpgib4mvnm.mp4
+夜太深,https://alimov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTQ2NDBfOTU2MzA3MDg4Xzc0ODAyNzgzODMxXzJfMw==_b_Bb839935028f5d3423901f16a10baa9d6.mp4
+拥抱你的温
+
+柔,https://alimov2.a.kwimgs.com/upic/2022/05/30/05/BMjAyMjA1MzAwNTI2MzlfOTU2MzA3MDg4Xzc1NTc5NTE1NzIwXzJfMw==_b_Bac07adbe85bac838ddafc0bcc1f351d4.mp4
+余生好好爱自
+
+己,https://alimov2.a.kwimgs.com/upic/2022/05/30/05/BMjAyMjA1MzAwNTI5MDJfOTU2MzA3MDg4Xzc1NTc5NTU3NDc3XzJfMw==_b_Bae53b83a5d7949478c838084f2912814.mp4
+远方的朋友我想
+
+你,https://alimov2.a.kwimgs.com/upic/2022/05/16/08/BMjAyMjA1MTYwODMxNTVfOTU2MzA3MDg4Xzc0NTM1OTQzNzI0XzJfMw==_b_B08acb9cfa44d8a9c6ad9c3d4fc02d72f.mp4
+愿你,https://txmov2.a.kwimgs.com/upic/2022/05/26/05/BMjAyMjA1MjYwNTQwNDhfOTU2MzA3MDg4Xzc1MjYyNTM0ODAwXzJfMw==_b_B7fdec9006e5c36bf5c22ddc9f8c5e1b2.mp4
+愿为你守候,https://alimov2.a.kwimgs.com/upic/2022/05/16/08/BMjAyMjA1MTYwODMxNTlfOTU2MzA3MDg4Xzc0NTM1OTg4MzQzXzJfMw==_b_Bed1d42b1dc0deb3990857b9b53fa15ff.mp4
+月下情缘,https://alimov2.a.kwimgs.com/upic/2022/05/30/05/BMjAyMjA1MzAwNTAzNTlfOTU2MzA3MDg4Xzc1NTcxNjI4NjcyXzJfMw==_b_Bd55404d325f7b6b4bdc799a6562adc7a.mp4
+转身不必说再
+
+会,https://alimov2.a.kwimgs.com/upic/2022/06/06/15/BMjAyMjA2MDYxNTM2MDhfOTU2MzA3MDg4Xzc2MTczOTQ0NjM5XzJfMw==_b_B3f9ff9967952626bd173f1954d5adf87.mp4
+自己美,https://alimov2.a.kwimgs.com/upic/2022/05/12/11/BMjAyMjA1MTIxMTM4NThfOTU2MzA3MDg4Xzc0MjE4MDcwMTU2XzJfMw==_b_B56ef1a8255c2b22f475319b2da7819a9.mp4
+走破几双鞋,https://alimov2.a.kwimgs.com/upic/2022/05/10/20/BMjAyMjA1MTAyMDE4MTBfOTU2MzA3MDg4Xzc0MTE0MjAxNTM5XzJfMw==_b_B47bd636e2f80429ceeda31ab774a20ea.mp4
+最美不过你的笑,https://vd2.bdstatic.com/mda-nb7355pig9f1efq2/fhd/cae_h264_nowatermark_delogo/1644355224144532489/mda-nb7355pig9f1efq2.mp4
+醉倾城,https://txmov2.a.kwimgs.com/upic/2022/06/11/08/BMjAyMjA2MTEwODUzMTNfOTU2MzA3MDg4Xzc2NTAxOTgwNTA5XzJfMw==_b_B744fae1b95faa2f8b96efc598c1f5eea.mp4
+BYD蹦野迪,https://txmov2.a.kwimgs.com/upic/2022/05/20/06/BMjAyMjA1MjAwNjEwNDJfOTU2MzA3MDg4Xzc0ODAzNDM0NzE2XzJfMw==_b_B14d95469a28d1b07ed6d6565286a8ebf.mp4
+今夜为你醉,https://vdse.bdstatic.com//b68123a666cce39e7413da912e3675a3.mp4
+2021年最好听的DJ串烧,https://vdse.bdstatic.com//cd396057d1fbcb12f0600d38a16effbc.mp4
+方哥直播分享群,https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4
+2021热门伤感DJ,https://vdse.bdstatic.com//06b4e9b185b843e694e4d20e9b0a0aac.mp4
+几首比较火的DJ情歌,https://vdse.bdstatic.com//4d7e8fe409b2ba9e08b179de8e146fa3.mp4
+花都开了你来不来DJ,https://vd3.bdstatic.com/mda-mdee523swbezmsin/480p/h264/1618480997/mda-mdee523swbezmsin.mp4
+野花香dj,https://vd3.bdstatic.com/mda-mm68k5z0h1qjm8n0/sc/cae_h264/1638980550463660240/mda-mm68k5z0h1qjm8n0.mp4
+精选dj,https://vd3.bdstatic.com/mda-mm68drt808w1nins/720p/h264/1638861890075163680/mda-mm68drt808w1nins.mp4
+伤感情歌DJ,https://vd3.bdstatic.com/mda-mkv7idcnxrgc3cnd/sc/cae_h264/1638257251905732477/mda-mkv7idcnxrgc3cnd.mp4
+DJ情歌,https://vd2.bdstatic.com/mda-mm67ychk60q5n0d1/sc/cae_h264/1638893384360470440/mda-mm67ychk60q5n0d1.mp4
+爱情情歌dj网,https://vd2.bdstatic.com/mda-mkq4iax6ed1yimay/sc/cae_h264/1637837116068761026/mda-mkq4iax6ed1yimay.mp4
+绝美情歌dj,https://vd2.bdstatic.com/mda-mkp952u577gbq8uc/sc/cae_h264/1637737197319948432/mda-mkp952u577gbq8uc.mp4
+慢摇dj舞曲,https://vd2.bdstatic.com/mda-mkpi5r0xe92ja446/sc/cae_h264/1637775035132431598/mda-mkpi5r0xe92ja446.mp4
+情歌DJ合集,https://vd4.bdstatic.com/mda-mkp3tpu9ghk2ufev/sc/cae_h264/1637733480141753790/mda-mkp3tpu9ghk2ufev.mp4
+新世纪舞曲,https://vd4.bdstatic.com/mda-mkq704rtr59i9jtj/sc/cae_h264/1637823373696903055/mda-mkq704rtr59i9jtj.mp4
+日韩舞曲DJ,https://vd4.bdstatic.com/mda-mknatf58h2evy18i/sc/cae_h264/1637653930525484478/mda-mknatf58h2evy18i.mp4
+国际舞曲,https://vd4.bdstatic.com/mda-mkpde77et4yvqx7e/sc/cae_h264/1637766610977026004/mda-mkpde77et4yvqx7e.mp4
+dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638069225501294830/mda-mkt45tnypacz3smk.mp4
+今夜回望dj,https://vd2.bdstatic.com/mda-mkv7cbzq5xdtf9ms/sc/cae_h264/1638478442002383579/mda-mkv7cbzq5xdtf9ms.mp4
+小鱼授权,https://vd4.bdstatic.com/mda-mkn4iq79ihtufbc1/sc/cae_h264/1637639849265611965/mda-mkn4iq79ihtufbc1.mp4
+舞曲视频1,https://vd4.bdstatic.com/mda-mkf4g5p5hpevqbx6/sc/cae_h264/1637033781127837401/mda-mkf4g5p5hpevqbx6.mp4
+舞曲视频4,https://vd2.bdstatic.com/mda-mkn56h2g8ux3dtxq/sc/cae_h264/1637642599802363137/mda-mkn56h2g8ux3dtxq.mp4
+车载DJ视频6,https://vdse.bdstatic.com//7e9d2da860d4ac39c0ea86502360d6fe.mp4
+方哥直播分享群,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgksy04wUo17eY6Qc.mp4
+新歌上线,https://vd4.bdstatic.com/mda-nc005jwr87jrdssh/sc/cae_h264_delogo/1646179767551234681/mda-nc005jwr87jrdssh.mp4
+情歌DJ舞曲,https://vd2.bdstatic.com/mda-nag6y4ryfy5a0hjb/720p/h264_delogo/1642396108696963578/mda-nag6y4ryfy5a0hjb.mp4
+方哥软件库,https://vd3.bdstatic.com/mda-ndvf6i90f43hxwj9/sc/bd265_cae_v4_delogo/1651382899118193225/mda-ndvf6i90f43hxwj9.mp4
+花都开了你来不来DJ,https://vd3.bdstatic.com/mda-mdee523swbezmsin/480p/h264/1618480997/mda-mdee523swbezmsin.mp4#
+6首伤感情歌DJ,https://vdse.bdstatic.com//f2829db2c58928d71dd969ecb438e1a7.mp4#
+6首好听情歌DJ,https://vdse.bdstatic.com//b9c765ede94b5d2bac8cb2a9afc70488.mp4#
+爱你是这样苦DJ,https://vd4.bdstatic.com/mda-nca7s910919tw2qb/720p/h264_delogo/1646976619006116412/mda-nca7s910919tw2qb.mp4#
+精选七首DJ情歌,https://vd3.bdstatic.com/mda-nc6a3qnsy1yruwa1/720p/h264_delogo/1646637449945468450/mda-nc6a3qnsy1yruwa1.mp4#
+推荐9首DJ舞曲,https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
+忘记你需要多久(DJ小鱼儿版),https://vd2.bdstatic.com/mda-mc1sm1r5s9azchjv/v1-cae/1080p/mda-mc1sm1r5s9azchjv.mp4
+4K高清岳云鹏,https://vd2.bdstatic.com/mda-meqitprx5ti8ed1a/720p/h264/1621948823045463060/mda-meqitprx5ti8ed1a.mp4
+疯疯疯,https://vd3.bdstatic.com/mda-ndk6wn1pf4bf8uye/480p/h264_delogo/1650516770231448538/mda-ndk6wn1pf4bf8uye.mp4
+真心太难求,https://vdse.bdstatic.com//19652aae08e5960c7ec9694e87e0d1f0.mp4
+DJ此生已过半,https://vd3.bdstatic.com/mda-mdaprhx095djift2/hd/mda-mdaprhx095djift2.mp4
+DJ没理由,https://bj.bcebos.com/v1/baidu-little-video/vod-gechgi84v43uhfhp/mda-kmbyf4x2aeqt8cds.mp4
+背叛情歌,https://vd2.bdstatic.com/mda-nd9g7g9pdc9d06hz/sc/cae_h264_delogo/1649669454990045825/mda-nd9g7g9pdc9d06hz.mp4
+花儿笑了DJ,https://vd4.bdstatic.com/mda-ncj7vawq5rnk5v59/hd/cae_h264_delogo/1647759626623363912/mda-ncj7vawq5rnk5v59.mp4
+DJ老歌60-70-80爱听,https://vd2.bdstatic.com/mda-nd59vsq0r1e2j3g2/sc/cae_h264_delogo/1649230737582909591/mda-nd59vsq0r1e2j3g2.mp4
+光明DJ4K,https://vd4.bdstatic.com/mda-ma7y4ug97hcdf710/v1-cae/1080p/mda-ma7y4ug97hcdf710.mp4
+为爱疯狂,https://vd2.bdstatic.com/mda-maiq19kmh7y0q6wz/v1-cae/1080p/mda-maiq19kmh7y0q6wz.mp4
+再不珍惜你就失去我了,https://vd2.bdstatic.com/mda-nc2atthveb54m8pm/1080p/cae_h264_delogo/1646474471600456394/mda-nc2atthveb54m8pm.mp4
+黄昏的恋歌,https://vd2.bdstatic.com/mda-mfjhek73d5y40hq8/sc/cae_h264/1624192351506251038/mda-mfjhek73d5y40hq8.mp4
+刘涛-说不出口,https://video.yinyuetai.com/7be03d214b7f4d759f7b2943b695433b.mp4
+如果云知道,https://bos.nj.bpc.baidu.com/tieba-smallvideo/358_42cc5ff326e8c090cf0ca9d7194d1d3e.mp4
+花言巧语有何用,https://vd2.bdstatic.com/mda-nbfbr99k0mx0k3cb/sc/cae_h264_delogo/1644999744049606500/mda-nbfbr99k0mx0k3cb.mp4
+半吨兄弟39首无损音乐,https://txmov2.a.kwimgs.com/bs3/video-hls/5236842040854840391_hlsb.m3u8
+青木林里青木
+
+秧,http://jsmov2.a.yximgs.com/upic/2022/12/11/09/BMjAyMjEyMTEwOTE0MzlfMTMzMDAzMDY4OF85MDg1MDAwOTI4NF8yXzM=_b_Bfe34243979b69fd615ece64adc328048.mp4
+有点甜,https://vd3.bdstatic.com/mda-kmmit1upkntz17qq/sc/bd265_nowatermark/1608631881/mda-kmmit1upkntz17qq.mp4
+花好月圆夜,https://vd4.bdstatic.com/mda-jjbmfp4as9f0eib2/v1-cae/sc/mda-jjbmfp4as9f0eib2.mp4
+忘记时间,https://vd3.bdstatic.com/mda-nedewsa4vwr212k3/hd/cae_h264/1652539451367005768/mda-nedewsa4vwr212k3.mp4
+串烧歌曲,https://vd3.bdstatic.com/mda-mmpgmu9qnrdctwza/hd/cae_h264/1640350134589718126/mda-mmpgmu9qnrdctwza.mp4
+月亮啊月亮,https://txmov2.a.kwimgs.com/bs3/video-hls/5198279972604377841_hlsb.m3u8
+爱情地图,https://txmov2.a.kwimgs.com/bs3/video-hls/5207568644277176790_hlsb.m3u8
+爱多深情恨多痛,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575845032023947_hlsb.m3u8
+爱把我包围,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205345619284859_hlsb.m3u8
+金莲的爱,https://txmov2.a.kwimgs.com/bs3/video-hls/5189554244470644378_hlsb.m3u8
+亲爱的不能没有你,https://txmov2.a.kwimgs.com/bs3/video-hls/5243315968452106222_hlsb.m3u8
+邓丽君演唱会(收藏精品),https://txmov2.a.kwimgs.com/bs3/video-hls/5250352781639513597_hlsb.m3u8
+爱情是什么东西,https://txmov2.a.kwimgs.com/bs3/video-hls/5212072245425012814_hlsb.m3u8
+孤独的夜里谁来安慰,https://txmov2.a.kwimgs.com/bs3/video-hls/5257952666920024382_hlsb.m3u8
+心碎爱上了眼泪,https://txmov2.a.kwimgs.com/bs3/video-hls/5234871719101769906_hlsb.m3u8
+世间的酒你醉了没有,https://txmov2.a.kwimgs.com/bs3/video-hls/5245849239862387651_hlsb.m3u8
+伤心的酒吧伤心的雨,https://txmov2.a.kwimgs.com/bs3/video-hls/5222768292229481631_hlsb.m3u8
+好你个陈世美,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960742650458807_hlsb.m3u8
+飘,https://vd3.bdstatic.com/mda-ne8nihg8cefenzmd/hd/cae_h264/1652138180329496706/mda-ne8nihg8cefenzmd.mp4
+邓紫棋专辑,https://txmov2.a.kwimgs.com/bs3/video-hls/5233745817961799164_hlsb.m3u8
+学猫叫,https://vd3.bdstatic.com/mda-masjedkvyxfa0uin/sc/bd265_nowatermark/1611743300/mda-masjedkvyxfa0uin.mp4
+黄家驹   旧日足迹,http://vd3.bdstatic.com/mda-pd937qr12ydtm6k3/hd/bd265_cae_visr_v5/1681103756453188020/mda-pd937qr12ydtm6k3.mp4
+想你的时候问月亮,https://vdse.bdstatic.com//ec33a3aaab2aafb34d5816962f2a5ae5.mp4
+你莫走,https://vd3.bdstatic.com/mda-mdkgh39qducdyw38/sc/bd265_nowatermark/1621027809898589418/mda-mdkgh39qducdyw38.mp4
+丢了我你愿意吗,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339288984532686_hlsb.m3u8
+吻过你的唇,https://txmov2.a.kwimgs.com/upic/2022/04/15/22/BMjAyMjA0MTUyMjI4MDFfNDgxMDc1MjAyXzcyMTQ0ODYzNzE5XzBfMw==_b_Ba2a1c93713f05450c802ce1df543b6ea.mp4
+没有结果的结果,https://txmov2.a.kwimgs.com/bs3/video-hls/5192087523054845025_hlsb.m3u8
+伤心的雨,https://txmov2.a.kwimgs.com/bs3/video-hls/5205879795988127777_hlsb.m3u8
+爱我是你说的谎,https://txmov2.a.kwimgs.com/bs3/video-hls/5212916670534605932_hlsb.m3u8
+我不做风也不做雨,https://txmov2.a.kwimgs.com/bs3/video-hls/5249508415462090421_hlsb.m3u8
+爱情不是传说,https://txmov2.a.kwimgs.com/bs3/video-hls/5200531769588246884_hlsb.m3u8
+4K高清夜店经典DJ舞曲,https://vd4.bdstatic.com/mda-me42p2149u3w00xa/720p/h264/1620179745210912217/mda-me42p2149u3w00xa.mp4
+4K高清DJ夜店舞曲胡蜜丹,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjpvz81f3fsb0m4v.mp4
+高音质车载DJ舞曲,https://vd2.bdstatic.com/mda-kihpyr361d6fg51d/sc/mda-kihpyr361d6fg51d.mp4
+最近很火的车载DJ舞曲明歆悦,https://vd4.bdstatic.com/mda-kifwywyz3t3qd51z/sc/mda-kifwywyz3t3qd51z.mp4
+4K高清车载夜店DJ舞曲张韶涵,https://vd3.bdstatic.com/mda-kife2iqvj58uu623/sc/mda-kife2iqvj58uu623.mp4
+几许风雨,https://vd4.bdstatic.com/mda-niqnwkxr1xe0td7x/sc/cae_h264/1664272915711924607/mda-niqnwkxr1xe0td7x.mp4
+芒种,https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4
+今天你要嫁给我,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/48a8d5d41dfa4ee5944a6da99465d6b6/1200.m3u8
+我不想说,https://vd2.bdstatic.com/mda-pcu854funsj9572n/sc/cae_h264/1680069595304346549/mda-pcu854funsj9572n.mp4
+求佛dj,https://vdse.bdstatic.com//68a1b89e79d7d9add230585a90f81391.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-04-
+
+09T03%3A27%3A08Z%2F-1%2Fhost%2F8ee273c655e618233a03b59750e537394083a7050eaf693d0c840e149f39a04e
+音频怪物-劫,https://vd7.bdstatic.com/mda-pcd4pbry7gmv7qe7/sc/cae_h264/1678764339082879694/mda-pcd4pbry7gmv7qe7.mp4
+泫雅,https://vd3.bdstatic.com/mda-jm4qdifynsh4qx53/sc/mda-jm4qdifynsh4qx53.mp4
+孟子坤-晚枫歌,https://vd4.bdstatic.com/mda-pd46xj2qkq9zvm2x/sc/cae_h264/1680671090620407564/mda-pd46xj2qkq9zvm2x.mp4
+迫不及待,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg75_b4gUogP7C2QY.mp4
+琪大妈-青衣,https://vd2.bdstatic.com/mda-pcj3wcdx5mxp3xeu/sc/cae_h264/1679280722965579110/mda-pcj3wcdx5mxp3xeu.mp4
+等什么君-难渡,https://vd7.bdstatic.com/mda-pd5bwktwukyqb9gs/sc/cae_h264/1680769975748618781/mda-pd5bwktwukyqb9gs.mp4
+不才-拂雪,https://vd2.bdstatic.com/mda-pc489zc05u5gqd86/sc/cae_h264/1677995923284542424/mda-pc489zc05u5gqd86.mp4
+王启文-老鼠爱大米,https://vd3.bdstatic.com/mda-pd3dun5ckgtdf71z/sc/cae_h264/1680602128481942845/mda-pd3dun5ckgtdf71z.mp4
+叶弦清-归去来兮,https://vd2.bdstatic.com/mda-pc3ehnng4wk6jf7a/sc/cae_h264/1677925573265006809/mda-pc3ehnng4wk6jf7a.mp4
+ycccc-满天星辰不及你,https://vd7.bdstatic.com/mda-pcea0pjybya97xsx/sc/cae_h264/1678864519543864753/mda-pcea0pjybya97xsx.mp4
+阿悠悠-悠殇叹,https://vd4.bdstatic.com/mda-pd47d6hs6bdriz7z/sc/cae_h264/1680672162318444423/mda-pd47d6hs6bdriz7z.mp4
+为什么变了心,https://vdse.bdstatic.com//52f6836b14d407c88e0131e350f7cb95.mp4
+让世界充满爱,https://vd4.bdstatic.com/mda-pcgn9bzvhu0mkdmx/sc/cae_h264/1679285022155114372/mda-pcgn9bzvhu0mkdmx.mp4
+我的眼泪为谁飞,https://vd3.bdstatic.com/mda-nh92gcfpbx2v0mhp/sc/cae_h264/1660097097166704736/mda-nh92gcfpbx2v0mhp.mp4
+坏姐姐,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkPu-4gUohMyExQM.mp4
+你不来我不老,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnLzE4gUoxaHkBg.mp4
+音乐520,https://vdse.bdstatic.com//7b2f1b020851df0037ed7b5013a8887d.mp4
+网络情歌精选,https://vd3.bdstatic.com/mda-mm1eqirhmt0293u0/480p/h264/1638443831616522299/mda-mm1eqirhmt0293u0.mp4
+超强车载重音乐,https://vdse.bdstatic.com//be2987198eb242f59daaea05ac1d95ee.mp4
+5首绝美情歌,https://vd3.bdstatic.com/mda-mjtb7bbvk98u8z58/480p/h264/1635409459813822543/mda-mjtb7bbvk98u8z58.mp4
+最新伤感5首歌,https://vd4.bdstatic.com/mda-mmm51m2ep4vqhhst/480p/h264/1640146053815826024/mda-mmm51m2ep4vqhhst.mp4
+车载DJ舞曲精选,https://vd3.bdstatic.com/mda-mktgbuw1tgftu9r3/1080p/cae_h264/1638416019802849347/mda-mktgbuw1tgftu9r3.mp4
+我的好兄弟,https://vd3.bdstatic.com/mda-ka7dxmtidw4hvsr4/sc/mda-ka7dxmtidw4hvsr4.mp4
+破碎的梦,https://vdse.bdstatic.com//19a5f8e49cec345c83472373bd6577c6.mp4
+你曾对天发过誓,https://vd3.bdstatic.com/mda-nd2xfmkag7tqsq26/576p/cae_h264/1652117446819442159/mda-nd2xfmkag7tqsq26.mp4
+红颜知己,https://vd3.bdstatic.com/mda-naiekchiugka34rp/hd/cae_h264_delogo/1642588712759747497/mda-naiekchiugka34rp.mp4
+洒梦,https://txmov2.a.kwimgs.com/upic/2021/09/13/22/BMjAyMTA5MTMyMjMyMDRfMjQ0NzQ3NjQ4Nl81NzEyNTUzNjg2Nl8wXzM=_b_Bc7abc424980ded43a76cb0f496b5d7e2.mp4
+残雪,https://txmov2.a.kwimgs.com/upic/2021/11/15/14/BMjAyMTExMTUxNDU1MDVfMjQ0NzQ3NjQ4Nl82MDkxNTkwNzMwOF8wXzM=_b_Bd90e0c4d9c0befd2e9a9b314fbd53d00.mp4
+天灰灰,https://txmov2.a.kwimgs.com/upic/2021/11/17/20/BMjAyMTExMTcyMDI5MjRfMjQ0NzQ3NjQ4Nl82MTA0NTQ0OTM4OF8wXzM=_b_B0e9d7241a40103b476bd3a85bc588d6a.mp4
+爱情错觉,https://txmov2.a.kwimgs.com/upic/2021/12/03/17/BMjAyMTEyMDMxNzUzMzZfMTAyMTczODk5MF82MjAwNTc5ODc1MF8yXzM=_b_B9501f37b5a1fd5ce0863dbf40c56c696.mp4
+DJ流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629972852606533219/mda-mhrdtax1km0idkc5.mp4
+几首绝美情歌DJ,https://vdse.bdstatic.com//c5c64b60c9fdfbdfa3e959bb1d56c4b0.mp4
+追光者,https://vd3.bdstatic.com/mda-paq8uh3cnx0v6bvb/sc/cae_h264/1674627706077214573/mda-paq8uh3cnx0v6bvb.mp4
+程jiajia-别错过,https://vd3.bdstatic.com/mda-nh0cca7hkrpxazas/720p/h264/1659343484380643139/mda-nh0cca7hkrpxazas.mp4
+郑星妤-沉默寡言,https://vd2.bdstatic.com/mda-nj56w7iy4anq1wpu/sc/cae_h264/1665032169740077032/mda-nj56w7iy4anq1wpu.mp4
+韩宝仪-几度花落时,https://vd2.bdstatic.com/mda-pd0chept9m0iiys3/sc/cae_h264/1680339580292418129/mda-pd0chept9m0iiys3.mp4
+我的未来不是梦,https://vd3.bdstatic.com/mda-nm5cih9mfkp9t2ss/sc/cae_h264/1670420134389195130/mda-nm5cih9mfkp9t2ss.mp4
+大哥你好吗,https://vd2.bdstatic.com/mda-njfs5ri0iww7kpw7/720p/h264/1665945072697136168/mda-njfs5ri0iww7kpw7.mp4
+陈慧娴-谁可改变 谭咏麟银河岁月40周年演唱会,https://vd4.bdstatic.com/mda-pe8mpintgpb8dgjz/sc/cae_h264/1683686453932813197/mda-pe8mpintgpb8dgjz.mp4
+张学友-爱的比你深,https://vd4.bdstatic.com/mda-pdf27k9v4znp3jf7/sc/cae_h264/1681635097473526624/mda-pdf27k9v4znp3jf7.mp4
+蔡国权-用手去走路,https://vd3.bdstatic.com/mda-pdrhfjthugz58533/sc/cae_h264/1682559151357710705/mda-pdrhfjthugz58533.mp4
+周慧敏-痴心换情深,https://vd2.bdstatic.com/mda-pe149jv4g64zjrkq/sc/cae_h264/1683105245483119888/mda-pe149jv4g64zjrkq.mp4
+经典老歌DJ舞曲七首,https://vd2.bdstatic.com/mda-mhwbtsnrmm6v6x5r/sc/cae_h264/1630403250895754314/mda-mhwbtsnrmm6v6x5r.mp4
+我的小心肝dj
+
+版,http://alimov2.a.kwimgs.com/upic/2023/05/02/10/BMjAyMzA1MDIxMDE3NDhfMjQ4MTA5ODU2NF8xMDE5MDc2NTA0OThfMF8z_b_B80de2d02f1f8dd6a769bf64ff606a787.mp4
+高音质小姐姐火辣热舞,https://vd4.bdstatic.com/mda-pdi1yskmcypvtfmc/1080p/cae_h264/1681870271060006908/mda-pdi1yskmcypvtfmc.mp4
+甜甜咸咸,https://vd4.bdstatic.com/mda-ma3ikksnhxtimd0y/v1-cae/sc/mda-ma3ikksnhxtimd0y.mp4
+朋友情,https://vd4.bdstatic.com/mda-jdvp9fphc27r6g5e/v1-cae/sc/mda-jdvp9fphc27r6g5e.mp4
+朋友情,https://vd2.bdstatic.com/mda-je1fedk1gxdg229j/v1-cae/hd/mda-je1fedk1gxdg229j.mp4
+烧酒话,https://vd3.bdstatic.com/mda-jdvphdexuphgijzt/v1-cae/sc/mda-jdvphdexuphgijzt.mp4
+忍,https://vd2.bdstatic.com/mda-je1d1ywww05g1e45/v1-cae/sc/mda-je1d1ywww05g1e45.mp4
+免失志,https://vd4.bdstatic.com/mda-je7nte3m37r5t44a/hd/mda-je7nte3m37r5t44a.mp4
+思慕的形影,https://vd3.bdstatic.com/mda-je5pb5t9em3841zv/hd/bd265_cae_delogo/1648225091349038647/mda-je5pb5t9em3841zv.mp4
+为你打拼,https://vd4.bdstatic.com/mda-jfmmhyrpec3bt2gy/v1-cae/hd/mda-jfmmhyrpec3bt2gy.mp4
+车站,https://vd3.bdstatic.com/mda-nbaei5sc9xa843zh/480p/h264_delogo/1644574959111245054/mda-nbaei5sc9xa843zh.mp4
+白白嫩嫩DJ,http://gcw.bdcdn.shoujiduoduo.com/201805/0247-477.mp4
+DJ感情我赌输,https://vd4.bdstatic.com/mda-ncvd174zfzapmvyb/hd/cae_h264_delogo/1648859000164993023/mda-ncvd174zfzapmvyb.mp4
+7首车载DJ情歌,https://vd4.bdstatic.com/mda-nd79nt67wda0rz2m/hd/cae_h264_delogo/1649401825584808774/mda-nd79nt67wda0rz2m.mp4
+精选韩宝仪经典歌曲10首FHD,https://vdse.bdstatic.com//42d5ac65a9070eeab2513bf6bc65ea4d.mp4
+美酒加咖啡 龙飘飘FHD,https://vdse.bdstatic.com//816c73543ede254586a625cacc67ea0f.mp4
+一去不回头,http://em.21dtv.com/songs/60053468.mkv
+张学友只想一生跟你走,https://vdse.bdstatic.com/h265/bd8fe9f94c3cd33cbceef019ec531e1c80.mp4
+张学友每天爱你多一些,https://vdse.bdstatic.com/h265/bd27405c5e29e5dc7cb96489521643e801.mp4
+张学友一路上有你,https://vdse.bdstatic.com/h265/bd7818d01f525a857e6f98d5d5d0a06b9d.mp4
+张学友一路上有你,http://em.21dtv.com/songs/60053285.mkv
+一身何求,https://vdse.bdstatic.com/h265/bd89fe4db440906460afd00487c34b6f92.mp4
+张雨生雨一直下,http://em.21dtv.com/songs/60055735.mkv
+林谦谦《我等到花儿也谢了》,https://vdse.bdstatic.com//881a3eec1f2f632ae9f2e8226df6065c.mp4
+借我一点爱,https://vd3.bdstatic.com/mda-pd14bg34kh44v3ca/hd/cae_h264/1680405309496453589/mda-pd14bg34kh44v3ca.mp4
+邓丽君在水一方,https://vdse.bdstatic.com/h265/bdb4952a55f59d8e0177628770f1b9d7be.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=11206164547102341304&vt=-1&svt=-
+
+1&cr_max=1&s_score=-1.000000&pt=0&av=14.3&vid=13091234699915727896&mvt=-1&did=3a1a6edbf01db4ea97abff6fb97de656&cr=1&h265_s=1&sl=222&sle=1&split=490223
+一千零一夜,https://vdse.bdstatic.com/h265/bdd100cf72feec9c71066ebd37fb008c8d.mp4
+杨坤那一天,http://em.21dtv.com/songs/60030828.mkv
+让我一次爱个够,http://em.21dtv.com/songs/60117296.mkv
+叶倩文真心真意过一生,https://vdse.bdstatic.com/h265/bd553f4b8ee861ae5ea9859fe431beddb4.mp4
+潘美辰你就是我唯一的爱,http://em.21dtv.com/songs/60031833.mkv
+潘美辰只要一丝温柔,http://em.21dtv.com/songs/60091663.mkv
+爱你一生不舍
+
+弃,https://alimov2.a.kwimgs.com/upic/2022/06/01/05/BMjAyMjA2MDEwNTQxMTRfOTU2MzA3MDg4Xzc1NzEzOTk1MzA4XzJfMw==_b_B90fec61fb2776e18607e3163b4d99b86.mp4
+爱你一万年,https://txmov2.a.kwimgs.com/upic/2022/05/28/17/BMjAyMjA1MjgxNzAwNTNfOTU2MzA3MDg4Xzc1NDQ5MTc5MDgxXzJfMw==_b_B86b66fa638ba1b70c664281181494236.mp4
+点燃一根烟,https://alimov2.a.kwimgs.com/upic/2022/05/16/18/BMjAyMjA1MTYxODU4NThfOTU2MzA3MDg4Xzc0NTczMDE1MjQ5XzJfMw==_b_B746d452d34b45ca092a246c5ed00c7e1.mp4
+何不潇洒走一
+
+回,https://txmov2.a.kwimgs.com/upic/2022/05/17/09/BMjAyMjA1MTcwOTU4NTFfOTU2MzA3MDg4Xzc0NjA5ODAyNDI5XzJfMw==_b_B223b68034c3516559843ae46ee9a78fc.mp4
+虽然不能一起
+
+走,https://txmov2.a.kwimgs.com/upic/2022/05/19/08/BMjAyMjA1MTkwODA5NTJfOTU2MzA3MDg4Xzc0NzM4MzkwMDY0XzJfMw==_b_Bccb8fe314de4c46057eaa9100c4e7a96.mp4
+叹这一生,https://alimov2.a.kwimgs.com/upic/2022/05/27/06/BMjAyMjA1MjcwNjIzNTlfOTU2MzA3MDg4Xzc1MzMwNTQyNzY0XzJfMw==_b_B3ce0f99a4292f63035c623eea883ebce.mp4
+我一直在等
+
+你,https://alimov2.a.kwimgs.com/upic/2022/05/28/06/BMjAyMjA1MjgwNjI1NTZfOTU2MzA3MDg4Xzc1NDA1MDcyMzU1XzJfMw==_b_Bac86b06eba1ae810bd847b75663920d4.mp4
+许你一世情缘,https://txmov2.a.kwimgs.com/upic/2022/06/10/14/BMjAyMjA2MTAxNDM5NDJfOTU2MzA3MDg4Xzc2NDQ2MzgyMjY2XzJfMw==_b_Baad23a5c247d69c646044214fd3aee51.mp4
+一路生花,https://txmov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTIzMjZfOTU2MzA3MDg4Xzc0ODAyMzM2MTg0XzJfMw==_b_Be5527eb67c325ba55f9c099f838e34c7.mp4
+一起向未来,https://alimov2.a.kwimgs.com/upic/2022/05/20/06/BMjAyMjA1MjAwNjA5MDdfOTU2MzA3MDg4Xzc0ODAzMzk3MTAzXzJfMw==_b_B3acd20b4a433fa68540745c3f71007e8.mp4
+一生守候这份
+
+情,https://txmov2.a.kwimgs.com/upic/2022/05/30/05/BMjAyMjA1MzAwNTE2MTlfOTU2MzA3MDg4Xzc1NTc5MzQ2MDc0XzJfMw==_b_B368ce8aded27aea1c1107fde7955e460.mp4
+余生快乐每一
+
+天,https://alimov2.a.kwimgs.com/upic/2022/06/02/07/BMjAyMjA2MDIwNzI1MjVfOTU2MzA3MDg4Xzc1NzkzODYzOTk1XzJfMw==_b_Bfe5369610488c6327536cd2246ff1024.mp4
+余生只爱一个
+
+你,https://txmov2.a.kwimgs.com/upic/2022/06/04/06/BMjAyMjA2MDQwNjA3NDdfOTU2MzA3MDg4Xzc1OTY4NjYwNDEzXzJfMw==_b_B97126a09fb97d88184b49ebe2b9a1be8.mp4
+新歌来了《点燃一根烟》《雪花寄相思》优美歌声值得珍藏,https://vd4.bdstatic.com/mda-ndh6iph1cjnpbx5v/1080p/cae_h264_delogo/1650258726083919516/mda-
+
+ndh6iph1cjnpbx5v.mp4
+新歌推荐《今生的唯一》《今夜的雨是谁的眼泪》相当好听,https://vd2.bdstatic.com/mda-ndg6psg9zd12ihzs/1080p/cae_h264_delogo/1650236539803095703/mda-
+
+ndg6psg9zd12ihzs.mp4
+思念情歌《我是真的好爱你》《永远放你在心底》百听不厌,https://vd3.bdstatic.com/mda-ndea5au6knwizprv/1080p/cae_h264_delogo/1650064725615866173/mda-
+
+ndea5au6knwizprv.mp4
+经典歌曲《许你一世情缘》《为你一生去守候》,https://vd2.bdstatic.com/mda-ndafz4xaqsmvrcse/1080p/cae_h264_delogo/1649676821854920299/mda-ndafz4xaqsmvrcse.mp4
+思念情歌民谣《等你等了那么久》《想让雨滴问问你》,https://vd4.bdstatic.com/mda-nda3uu9cm73hfc9q/1080p/cae_h264_delogo/1649646197104551642/mda-
+
+nda3uu9cm73hfc9q.mp4
+《爱难求情难断…》,https://vdse.bdstatic.com//0c8ed110c5522e9bd31752ecb999b1ab.mp4
+车载DJ舞曲《大风吹》《浪子闲话》《玛尼情歌》《沙漠骆驼》,https://vdse.bdstatic.com//7002925e04c4c451cfa8aafc9b4190c7.mp4
+《拈花一笑》《对面的小姐姐》《想你了小哥哥》《一朵情花开》,https://vdse.bdstatic.com//7cfaf27a4db89583e069a40fbc2ed84b.mp4
+网络金曲《拈花一笑》《陪你千山万水》《对面小姐姐》,https://vdse.bdstatic.com//c2deba4d320384736569e542ac531aff.mp4
+好歌分享《精选6首伤感DJ舞曲》HD,https://vdse.bdstatic.com//0c87c8977d0a33498fe7362d3c60c22c.mp4
+情歌DJ《怎么可以如此冷血》《为爱受尽相思罪》HD,https://vdse.bdstatic.com//61e318ea76e984f2bedb66f1ed1583be.mp4
+DJ情歌串烧《痴情恋歌》《红颜知己》《事与愿违》《缘分相遇》HD,https://vdse.bdstatic.com//904548e7bec804905906557ed2752017.mp4
+动听DJ情歌《红颜知己》《今夜为你醉》《别忘了我在等你》等HD,https://vdse.bdstatic.com//92d49c2aebc0bbbe08149b8e08e4a443.mp4
+DJ伤感好听《红颜知己》《事与愿违》《缘分相遇》《知情念歌》HD,https://vdse.bdstatic.com//1a7b05ab4eab2d68a679e442f4d80fab.mp4
+《给我一把爱情火》《无情风雨无情的你》《昨夜的我又梦到了你》HD,https://vdse.bdstatic.com//63a770491e7bae0ebe661452c27eaf33.mp4
+《十首伤感DJ情歌》,https://vdse.bdstatic.com//5319e5b5cd1ad9d27a21b9bf4ad534ba.mp4#
+《没有那杯忘情水》DJ版,https://vd3.bdstatic.com/mda-nc9fzq74hdukrgjd/480p/h264_delogo/1646911280223966865/mda-nc9fzq74hdukrgjd.mp4?pd=19&vt=1#
+DJ情歌《我就是这么可爱》,https://vd3.bdstatic.com/mda-nc6cy9nxk5e11v7b/sc/bd265_cae_delogo/1646679460838781470/mda-nc6cy9nxk5e11v7b.mp4#
+情歌DJ《红尘没有错＋你为何说了不算＋陪你千山万水》,https://vd3.bdstatic.com/mda-nadfng7qz0sr3ff3/sc/bd265_cae_delogo/1643480883586586354/mda-
+
+nadfng7qz0sr3ff3.mp4#
+《哥还是当年的哥》超好听,https://vd3.bdstatic.com/mda-nbgnipfqnp99z7zq/sc/bd265_cae_delogo/1645155978347002274/mda-nbgnipfqnp99z7zq.mp4#
+邻家小哥哥—欣宝儿DJ,https://vd2.bdstatic.com/mda-kmmc2zf4whqmxsag/v1-cae/1080p/mda-kmmc2zf4whqmxsag.mp4#
+今日热歌DJ《如果爱还在》,https://vd2.bdstatic.com/mda-mhhf5mr00yyhpfjs/1080p/cae_h264/1629284581057661229/mda-mhhf5mr00yyhpfjs.mp4
+动感DJ《苦了累了听听歌》,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
+车载必备DJ《殇雪》,https://vd3.bdstatic.com/mda-mhve4gb9hi8cstzk/1080p/cae_h264/1630319514896018158/mda-mhve4gb9hi8cstzk.mp4
+DJ《心在跳情在烧》,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
+郭镐鸣《野摩托》,https://vd3.bdstatic.com/mda-mekfm7wu6f4rtt99/1080p/cae_h264/1621595318412084671/mda-mekfm7wu6f4rtt99.mp4
+海来阿木《浪子心》DJ沈念版,https://vd3.bdstatic.com/mda-mgr9s5pv0jeqbcm8/1080p/cae_h264/1627298307874491239/mda-mgr9s5pv0jeqbcm8.mp4
+DJ版《三月里的小雨》,https://vd2.bdstatic.com/mda-mgwegh0bzv4cy6cb/1080p/cae_h264/1627727251470197083/mda-mgwegh0bzv4cy6cb.mp4
+DJ版《望爱却步》,https://vd4.bdstatic.com/mda-mh3ei4sg2jypty79/1080p/cae_h264/1628072927342489970/mda-mh3ei4sg2jypty79.mp4
+《唱着情歌流着泪》,https://vd3.bdstatic.com/mda-mhwaejanf0ie6b8j/1080p/cae_h264/1630409563129833732/mda-mhwaejanf0ie6b8j.mp4
+《爱你到最后一刻》,https://vd3.bdstatic.com/mda-mhr9c7q9xzgy1812/1080p/cae_h264/1630062648077583523/mda-mhr9c7q9xzgy1812.mp4
+伤感DJ《等》,https://vd2.bdstatic.com/mda-mhq92a7nafrh8dma/1080p/cae_h264/1629977686796490849/mda-mhq92a7nafrh8dma.mp4
+DJ《我们不再是从前》,https://vd2.bdstatic.com/mda-mhne550wq5m66zvj/1080p/cae_h264/1629803514331462220/mda-mhne550wq5m66zvj.mp4
+DJ舞曲《让我做你的眼睛》,https://vd2.bdstatic.com/mda-mhaargrart2qrkdz/1080p/cae_h264/1629630942996744682/mda-mhaargrart2qrkdz.mp4
+DJ版《时间会知道你好不好》,https://vd3.bdstatic.com/mda-mhairve7gvye1192/1080p/cae_h264/1629457148988604256/mda-mhairve7gvye1192.mp4
+DJ版《爱不得忘不舍》,https://vd3.bdstatic.com/mda-mh8j8egnj8idbvd8/1080p/cae_h264/1629367979662473678/mda-mh8j8egnj8idbvd8.mp4
+DJ版《蜜雪冰城》,https://vd3.bdstatic.com/mda-mhbae2pwwxhyxjcz/1080p/cae_h264/1628767594518574030/mda-mhbae2pwwxhyxjcz.mp4
+《无味》 DJ版,https://vd3.bdstatic.com/mda-mgqiagirsmmpuarm/1080p/cae_h264/1627218846577884242/mda-mgqiagirsmmpuarm.mp4
+DJ版《原谅你的谎》,https://vd4.bdstatic.com/mda-mhacxx5vhr2we882/1080p/cae_h264/1628673933350116053/mda-mhacxx5vhr2we882.mp4
+DJ《等爱》,https://vd2.bdstatic.com/mda-mfhh1e0hwq212rrt/sc/h264/1623988905898256147/mda-mfhh1e0hwq212rrt.mp4
+DJ《醉过多少回》,https://vd4.bdstatic.com/mda-megp46e98a4f2b9g/sc/h264/1621239560364992817/mda-megp46e98a4f2b9g.mp4
+DJ情歌《爱情迷了路》,https://vd4.bdstatic.com/mda-mdbrb7fns70avrmt/1080p/cae_h264/1618222287/mda-mdbrb7fns70avrmt.mp4
+车载DJ《多年以后》,https://vd3.bdstatic.com/mda-mhqekuegbh6112js/1080p/cae_h264/1629891559415737083/mda-mhqekuegbh6112js.mp4
+韩可可《错位时空》DJ版,https://vd3.bdstatic.com/mda-mgciytzb45z6z8yj/1080p/cae_h264/1626183756603775947/mda-mgciytzb45z6z8yj.mp4
+老歌DJ《化蝶》,https://vd4.bdstatic.com/mda-nd0if1hnkf4zzh2r/hd/cae_h264_delogo/1648822586944230351/mda-nd0if1hnkf4zzh2r.mp4
+《2首车载DJ歌曲联唱》,https://vd2.bdstatic.com/mda-jiugyuw4xwqiwzet/sc/mda-jiugyuw4xwqiwzet.mp4
+DJ《等爱的玫瑰》,https://vd2.bdstatic.com/mda-jfsusw53dxs6kyvc/sc/mda-jfsusw53dxs6kyvc.mp4
+DJ《潮湿的心》,https://vd3.bdstatic.com/mda-jfsre2z1s4xk012w/sc/mda-jfsre2z1s4xk012w.mp4
+DJ《小薇》,https://vd3.bdstatic.com/mda-nd6jimimnfwyjuar/sc/cae_h264_delogo/1649345922829980302/mda-nd6jimimnfwyjuar.mp4
+《野狼的士高》,https://vd2.bdstatic.com/mda-ncp47pjrm7kqjfwq/720p/h264_delogo/1648091187992655346/mda-ncp47pjrm7kqjfwq.mp4
+任妙音《天在下雨我在想你》DJ版,https://vd3.bdstatic.com/mda-makbbuxuhfwrbbjv/v1-cae/1080p/mda-makbbuxuhfwrbbjv.mp4
+郑亦辰《消遣》DJ版,https://vd4.bdstatic.com/mda-mapavg9qcn4t5hm6/v2-hknm/1080p/mda-mapavg9qcn4t5hm6.mp4
+情歌《你是我今生不能忘的唯一》DJ版,https://vd4.bdstatic.com/mda-mbdzgfvp4bz1hhg8/v1-cae/1080p/mda-mbdzgfvp4bz1hhg8.mp4
+一首《爱一回错一回》DJ版,https://vd4.bdstatic.com/mda-mbim69siwwsgwp7d/v1-cae/1080p/mda-mbim69siwwsgwp7d.mp4
+《阿依莫》越南
+
+鼓,http://jsmov2.a.yximgs.com/upic/2022/12/13/19/BMjAyMjEyMTMxOTE3MDVfMTMzMDAzMDY4OF85MTA0NzIxNDI3Ml8yXzM=_b_Bb93f2dcf0e29af2ed7dc31950e3e8a52.mp4
+爱多一次伤多一次,https://txmov2.a.kwimgs.com/bs3/video-hls/5250352842906861136_hlsb.m3u8
+心上一道伤,https://txmov2.a.kwimgs.com/bs3/video-hls/5189835721897741706_hlsb.m3u8
+我要爱你一辈子,https://txmov2.a.kwimgs.com/bs3/video-hls/5229242219394120732_hlsb.m3u8
+DJ舞曲《三月里的小
+
+雨》,https://txmov2.a.kwimgs.com/upic/2022/02/09/16/BMjAyMjAyMDkxNjQxMDRfNzM5MzQzNzIyXzY3MTA3OTE3NTMyXzJfMw==_b_Ba7c5a89dd9a598be8d05e6492119a7c6.mp4
+DJ《让你做我的眼睛》蓝光
+
+1080P,https://txmov2.a.kwimgs.com/upic/2022/02/09/11/BMjAyMjAyMDkxMTQyMjZfNzM5MzQzNzIyXzY3MDg0MDQxNTM0XzJfMw==_b_Bb93df815a35a6539a9b50d46b53d3530.mp4
+【经典回忆】年轻的朋友来相会,https://vd3.bdstatic.com/mda-mg7ez868p9n3i2ck/sc/cae_h264/1625741125840222642/mda-mg7ez868p9n3i2ck.mp4
+王蓉&东山少爷《叶问》,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgupzx5gUoyLmp9wc.mp4
+如果苍天给我一个轮
+
+回,https://txmov2.a.kwimgs.com/upic/2021/10/06/17/BMjAyMTEwMDYxNzA2MTBfMjQ0NzQ3NjQ4Nl81ODU3NDkzNDYxNl8wXzM=_b_Bb1ed73f50faa7f158d8235a132f56cae.mp4
+“全球最大唱片公司”宝丽金《成立20周年 1990群星演唱会完整版》,https://vd3.bdstatic.com/mda-pbp4sapcn5kmpxhg/sc/cae_h264/1677214872183868613/mda-
+
+pbp4sapcn5kmpxhg.mp4
+“全球最大唱片公司”宝丽金《成立25周年 群星演唱会完整版》,https://vd2.bdstatic.com/mda-pbq9cde2ii3ti6dc/sc/cae_h264/1677313014207602418/mda-
+
+pbq9cde2ii3ti6dc.mp4
+“全球最大唱片公司”宝丽金《成立30周年 群星演唱会完整版》,https://vd2.bdstatic.com/mda-pbr4g2edssnu2heu/720p/h264/1677381477864191175/mda-
+
+pbr4g2edssnu2heu.mp4
+我们不一样,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4Nfx9wUojcTB7Qc.mp4
+温奕心 一路生花,https://vd2.bdstatic.com/mda-paicz1638ntzwct7/sc/cae_h264/1674120080609952072/mda-paicz1638ntzwct7.mp4
+情歌DJ《拈花一笑》《对面的小姐姐》《酒醉的蝴蝶》FHD,https://vdse.bdstatic.com//4eece717c6cc2fb9086a59a13ce30623.mp4
+情歌皇后林翠萍《相见不如不见》FHD,https://vdse.bdstatic.com//1f65ad884619a069c68572f1ac9e2b0e.mp4
+林翠萍经典老歌《相会在梦里》FHD,https://vdse.bdstatic.com//00fb72cd0b27bec6d9c0cd915874b50e.mp4
+林翠萍经典情歌《相思豆》FHD,https://vdse.bdstatic.com//986498bb0ccd2114ba1274df22fae332.mp4
+龙飘飘《我没醉》FHD,https://vdse.bdstatic.com//3d48e45e47836cd75c202ec957260837.mp4
+龙飘飘《往事》FHD,https://vdse.bdstatic.com//a28e362e15fa8c361219944bfb59b596.mp4
+韩国歌舞,https://vd3.bdstatic.com/mda-kasdx4z9kq62e918/sc/mda-kasdx4z9kq62e918.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+站在草原望北京,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp6PA4gUo_LGSwQQ.mp4
+澳门酒吧音乐,https://vd3.bdstatic.com/mda-mkpi5r0xe92ja446/480p/h264/1637759253085791346/mda-mkpi5r0xe92ja446.mp4
