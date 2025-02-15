@@ -1683,7 +1683,33 @@ KIX,https://aktv.132.us.kg/AKTV/live/aktv3/kix/AKTV.m3u8
 NH东京综合,https://aktv.132.us.kg/AKTV/live/aktv3/nhk/AKTV.m3u8
 THRILL,https://aktv.132.us.kg/AKTV/live/aktv3/thrill/AKTV.m3u8
 ZOOMOO,https://aktv.132.us.kg/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-
+民视频道,http://37.27.111.214:8080/live/6/hls.m3u8
+华视频道,http://37.27.111.214:8080/live/8/hls.m3u8
+龙华洋片,http://37.27.111.214:8080/live/19/hls.m3u8
+博斯高球,http://37.27.111.214:8080/live/13/hls.m3u8
+博斯运动1,http://37.27.111.214:8080/live/14/hls.m3u8
+博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
+中视频道,http://37.27.111.214:8080/live/7/hls.m3u8
+猪哥亮歌厅,http://37.27.111.214:8080/live/35/hls.m3u8
+亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
+HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
+HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
+CINEMA,http://37.27.111.214:8080/live/30/hls.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+中视频道,http://37.27.111.214:8080/live/7/hls.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰资讯,https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
+博斯运动1,http://37.27.111.214:8080/live/14/hls.m3u8
+博斯高球1,http://37.27.111.214:8080/live/13/hls.m3u8
+台视频道,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+唯心电视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+大爱1,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
@@ -1701,7 +1727,7 @@ VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 星河台,http://php.jdshipin.com/smt.php?id=Xinhe
 星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-美亚电影频粤,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -1833,7 +1859,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 华丽翡翠,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 亚洲武侠,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 星河台,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-NHK新闻英,http://61.221.215.25:8800/hls/51/index.m3u8
+NHK新闻,http://61.221.215.25:8800/hls/51/index.m3u8
 亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
 CINEMA WORLD,http://37.27.111.214:8080/live/30/hls.m3u8
 豬哥亮,http://37.27.111.214:8080/live/35/hls.m3u8
@@ -1854,10 +1880,10 @@ jc1,https://stream.jc1.cz/hls/jc1.m3u8
 VIYANA,http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 星光综合台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 EBS,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/chunklist.m3u8
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+ELEVEN体育2台,rtmp://f13h.mine.nu/sat/tv741
 星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-大爱1台,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
-大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱1,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 黄金翡翠,http://zb.xmzb.xyz/123.php?id=OOO黄金翡翠
 星河台,http://zb.xmzb.xyz/123.php?id=OOO星河
 靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
