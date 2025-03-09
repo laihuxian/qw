@@ -1188,7 +1188,7 @@ RTFRANCE,http://69.64.57.208/rtfrance/playlist.m3u8
 FRANCE2,http://69.64.57.208/france2/playlist.m3u8
 BBCNEWS,http://81.137.213.119:4200/bysid/4352
 BBCPARLIAMENT,http://81.137.213.119:4200/bysid/4736
-AMC,http://170.254.18.106/AMC/index.m3u8
+AMC电影台,http://170.254.18.106/AMC/index.m3u8
 HBOFAMILY,http://170.254.18.106/HBO_FAMILY/index.m3u8
 HBOSIGNATURE,http://170.254.18.106/HBO_SIG/index.m3u8
 翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
@@ -1200,7 +1200,7 @@ HBOSIGNATURE,http://170.254.18.106/HBO_SIG/index.m3u8
 香港台34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 香港台35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 TVBPLUS,http://grandprix2023.asuscomm.com:8892/bysid/82
-香港台33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 TVBPLUS,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVBPLUS,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
@@ -1216,7 +1216,7 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 星空卫视,http://171.217.58.79:8088/udp/239.93.1.10:2193
 澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
-澳门MACAU,http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8
+澳门Macau,http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8
 澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
 澳视卫星,https://cdn.163189.xyz/live/as/stream.m3u8
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
@@ -1247,10 +1247,10 @@ CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 Plus综合,https://cdn.163189.xyz/live/tvbp/stream.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
-有线新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
+HOY78新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
 有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-翡翠频4k,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+翡翠台4k,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,https://cdn3.163189.xyz/live/live2.1.php?id.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
@@ -1262,7 +1262,7 @@ Plus综合,https://cdn.163189.xyz/live/tvbp/stream.m3u8
 星河台,http://php.jdshipin.com/smt.php?id=Xinhe
 星河台,http://go1.bkpcp.top/tl/null-7
 娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-无线娱乐,http://go1.bkpcp.top/tl/null-14
+娱乐新闻台,http://go1.bkpcp.top/tl/null-14
 无线综合,http://go1.bkpcp.top/tl/null-3
 无线戏曲,http://go1.bkpcp.top/tl/null-15
 无线粤片,http://go1.bkpcp.top/tl/null-10
@@ -1273,7 +1273,7 @@ Plus综合,https://cdn.163189.xyz/live/tvbp/stream.m3u8
 美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影台,http://go1.bkpcp.top/tl/null-5
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳视Macau,http://php.jdshipin.com/TVOD/iptv.php?id=as
 VIUTV粤,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
@@ -1319,17 +1319,17 @@ ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 明珠台英,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 香港31台,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 香港32台,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-TVBJ1综合高,http://cdn5.1678520.xyz/live/?id=j1
+TVBJ1,http://cdn5.1678520.xyz/live/?id=j1
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 无线新闻台,http://go1.bkpcp.top/tl/null-11
 凤凰资讯,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 凤凰香港,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-无线新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+无线新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 明珠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
-TVBJ1美,http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+TVBJ1,http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 pₒₚc电影,http://go1.bkpcp.top/tl/popc
@@ -1366,7 +1366,7 @@ NIPPON,https://ntv4.mov3.co/hls/ntv.m3u8
 QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 COURT,http://72.46.118.193/Court/index.m3u8
 BRAVO,http://170.254.18.106/BRAVO/index.m3u8
-红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 LAFF,http://72.46.118.193/Laff/index.m3u8
 JACKSON,http://173.225.32.123/JACKSON-2371/index.m3u8
 RUSSIATODAY,http://69.64.57.208:8080/russiatoday/playlist.m3u8
@@ -1410,7 +1410,7 @@ TNT,http://170.254.18.106/TNT/index.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-韩国|EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 소상공인방송,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
 한국가요채널KOREANSONG,http://live.kytv.co.kr:8080/hls/stream.m3u8
 BBSTV(불교),http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
