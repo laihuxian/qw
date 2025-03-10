@@ -2,7 +2,7 @@
   "spider": "./fix250304.jar;md5;8daf5742df26cea8aa51000dd4188226",
   "wallpaper": "https://bing.img.run/uhd.php",
   "sites": [
-   {
+    {
       "key": "腾讯",
       "name": "腾讯视频",
       "type": 3,
