@@ -1,158 +1,57 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]//
 {
   "urls": [
-    {
-      "url": "http://110.42.45.218:520/yunfensi/yunfensi4k.json",
-      "name": "💕奇迹云💓"
-    },
-    {
-      "url": "https://11405.kstore.space/xiaye/z4k.json",
-      "name": "💕夏夜4K💕"
-    },
-    {
-      "name": "新年快乐影视✨✨",
-      "url": "https://codeberg.org/mzjk0/api/raw/branch/main/vip.json"
-    },
-    {
-      "url": "https://6492.kstore.space/xnf/xnf.json",
-      "name": "❤️🐅环宇轩"
-    },
-    {
-      "name": "🎁❤少爷影视",
-      "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/gta6664/c/refs/heads/main/无敌凯少爷躺平单仓接口加载快禁止贩卖...举报贩卖有奖.json"
-    },
-    {
-      "name": "❤️书虫影视",
-      "url": "https://d.kstore.dev/download/6726/%E4%B9%A6%E8%99%AB%E5%BD%B1%E8%A7%86%E4%B8%93%E7%89%88%EF%BC%88%E5%A4%87%E7%94%A8%E7%BA%BF%E8%B7%AF%EF%BC%89.txt"
-    },
-    {
-      "name": "🎁海宇影视",
-      "url": "https://pan.xccld.icu/f/YQptY/kanhai海宇影视.json"
-    },
-    {
-      "url": "https://hb.xyyh.online/tvbox",
-      "name": "-🐯小虎斑"
-    },
-  {
-      "name": "🎁瓜子影视",
-      "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin "
-    },  
-    {
-      "name": "🎁白云智教",
-      "url": "https://gitee.com/ltby1/blue-sky-education/raw/master/蓝天白云智教.json"
-    },
-    {
-      "name": "🌺兄弟影视",
-      "url": "http://ficfac.com/box/box.json"
-    },
-    {
-      "url": "http://mdxgh.tpddns.cn:9999/md.json",
-      "name": "码点玫瑰仓🌹"
-    },
-    {
-      "name": "🎁幸福年年影院",
-      "url": "https://gitlab.hk/iii/qq/-/raw/main/20.json"
-    },
-    {
-      "name": "🌹爱尚专线🌹",
-      "url": "http://211.101.234.24:68/%E7%88%B1%E5%B0%9A.txt"
-    },
-    {
-      "name": "❤️苦短影视💙",
-      "url": "https://fs-im-kefu.7moor-fs1.com:443/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733486568088/%E8%8B%A6%E7%9F%AD%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "name": "❤️小狐狸影视",
-      "url": "https://gitea.moe/xiaozhuaizhuai/ZJ/raw/branch/main/ZJ.4k"
-    },
-    {
-      "name": "❤️爱梦影视❤️",
-      "url": "https://d.kstore.dev/download/6375/爱梦单仓免费接口禁止贩卖.json"
-    },
-    {
-      "name": "🎁🥮幸福年年❤️仓库/小鹿影视",
-      "url": "https://gitee.com/zhuaijiejie/zhuaijie/raw/master/ZJ.json"
-    },
-    {
-      "name": "❤️🥮幸福年年❤️仓库/幸福年年影视💓备用1",
-      "url": "https://d.kstore.dev/download/4684/hgrc.json"
-    },
-    {
-      "url": "https://6446.kstore.vip/fmys.json",
-      "name": "🌺🏠驸马影视"
-    },
-    {
-      "name": "❤️小鹿可可",
-      "url": "https://codeberg.org/xiaohuli/ZJ.4K/raw/branch/main/zj.png"
-    },
-    {
-      "name": "❤️🥮幸福年年教育",
-      "url": "https://d.kstore.dev/download/4684/api.json?password=53889b4301c033c63bbb0cd0e6d07001-1732730182556"
-    },
-    {
-      "name": "❤️幸福年年影视",
-      "url": "https://d.kstore.dev/download/4684/1api.json?password=d0e28b9dbb9d51773f231238b787789c-1732729526488"
-    },
-    {
-      "name": "❤️🥮幸福年年文艺",
-      "url": "https://d.kstore.dev/download/4684/55api.json"
-    },
-    {
-      "name": "❤️🥮幸福年年刺刺音乐",
-      "url": "https://d.kstore.dev/download/8975/刺刺专用音乐接口.json"
-    },
-  {
-      "name": "💕王小二放牛线路",
-      "url": "http://tvbox.王二小放牛娃.top"
-    },
-    {
-      "name": "❤️DG音乐",
-      "url": "https://ddzb.fun/dgmusic/api.json"
-    },
-    {
-      "url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv",
-      "name": "欧歌线路（影视专用）"
-    },
-    {
-      "name": "小米仓库",
-      "url": "http://www.mpanso.com/小米/DEMO.json"
-    },
-    {
-      "name": "华影视仓库",
-      "url": "http://vip.hys.cool//app/api.json"
-    },
-    {
-      "name": "💚瞄影视",
-      "url": "http://meowtv.cn/tv"
-    },
-    {
-      "name": "💚青木",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/foxccs/tvbox/main/m.json"
-    },
-    {
-      "name": "◶魔盒",
-      "url": "https://git.acwing.com/999/tvbox/-/raw/main/%E9%AD%94%E7%9B%92.json"
-    },
-    {
-      "name": "蓝天白云影视🌲",
-      "url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json"
-    },
-    {
-      "name": "🍆茄子影视💕",
-      "url": "https://700sjro44343.vicp.fun/eggp/tv.json"
-    },
-    {
-      "name": "💕云星日记",
-      "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
-    },
-  
-    {
-      "name": "🍚饭太硬",
-      "url": "http://www.饭太硬.com/tv"
-    },
-    {
-      "name": "影视",
-      "url": "http://meowtv.cn/tv"
-    }
+{"url": "https://8919.kstore.space/hezi/qiaoji.json","name": "自用接口"},
+{"url": "http://110.42.45.218:520/yunfensi/yunfensi4k.json","name": "💕奇迹云💓"},
+{"url": "https://11405.kstore.space/xiaye/z4k.json","name": "💕夏夜4K💕"},
+{"name": "新年快乐影视✨✨","url": "https://codeberg.org/mzjk0/api/raw/branch/main/vip.json"},
+{"url": "https://6492.kstore.space/xnf/xnf.json","name": "❤️🐅环宇轩"},
+{"name": "🎁❤少爷影视","url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/gta6664/c/refs/heads/main/无敌凯少爷躺平单仓接口加载快禁止贩卖...举
+
+报贩卖有奖.json"},
+{"name": "❤️书虫影视","url": "https://d.kstore.dev/download/6726/%E4%B9%A6%E8%99%AB%E5%BD%B1%E8%A7%86%E4%B8%93%E7%89%88%EF%BC%88%E5%A4%87%E7%94%A8%E7%BA%BF
+
+%E8%B7%AF%EF%BC%89.txt"},
+{"name": "🎁海宇影视","url": "https://pan.xccld.icu/f/YQptY/kanhai海宇影视.json"},
+{"url": "https://hb.xyyh.online/tvbox","name": "-🐯小虎斑"},
+{"name": "🎁瓜子影视","url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin "},  
+{"name": "🎁白云智教","url": "https://gitee.com/ltby1/blue-sky-education/raw/master/蓝天白云智教.json"},
+{"name": "🌺兄弟影视","url": "http://ficfac.com/box/box.json"},
+{"url": "http://mdxgh.tpddns.cn:9999/md.json","name": "码点玫瑰仓🌹"},
+{"name": "🎁幸福年年影院","url": "https://gitlab.hk/iii/qq/-/raw/main/20.json"},
+{"name": "🌹爱尚专线🌹","url": "http://211.101.234.24:68/%E7%88%B1%E5%B0%9A.txt"},
+{"name": "❤️苦短影视💙","url": "https://fs-im-kefu.7moor-fs1.com:443/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733486568088/%E8%8B%A6%E7%9F%AD%E5%BD
+
+%B1%E8%A7%86.json"},
+{"name": "❤️小狐狸影视","url": "https://gitea.moe/xiaozhuaizhuai/ZJ/raw/branch/main/ZJ.4k"},
+{"name": "❤️爱梦影视❤️","url": "https://d.kstore.dev/download/6375/爱梦单仓免费接口禁止贩卖.json"},
+{"name": "🎁🥮幸福年年❤️仓库/小鹿影视","url": "https://gitee.com/zhuaijiejie/zhuaijie/raw/master/ZJ.json"},
+{"name": "❤️🥮幸福年年❤️仓库/幸福年年影视💓备用1","url": "https://d.kstore.dev/download/4684/hgrc.json"},
+{"url": "https://6446.kstore.vip/fmys.json","name": "🌺🏠驸马影视"},
+{"name": "❤️小鹿可可","url": "https://codeberg.org/xiaohuli/ZJ.4K/raw/branch/main/zj.png"},
+{"name": "❤️🥮幸福年年教育","url": "https://d.kstore.dev/download/4684/api.json?password=53889b4301c033c63bbb0cd0e6d07001-1732730182556"},
+{"name": "❤️幸福年年影视","url": "https://d.kstore.dev/download/4684/1api.json?password=d0e28b9dbb9d51773f231238b787789c-1732729526488"},
+{"name": "❤️🥮幸福年年文艺","url": "https://d.kstore.dev/download/4684/55api.json"},
+{ "name": "❤️🥮幸福年年刺刺音乐","url": "https://d.kstore.dev/download/8975/刺刺专用音乐接口.json"},
+{"name": "💕王小二放牛线路","url": "http://tvbox.王二小放牛娃.top"},
+{"url": "http://肥猫.com/","name": "肥猫"},
+{"url": "https://7337.kstore.space/twvip/自用测试.json","name": "天微科技"},
+{"url": "http://ok321.top/tv","name": "ok接口"},
+{"url": "http://www.fish2018.us.kg/p/jsm.json","name": "PG(影视专用)"},
+{"url": "https://tvbox.catvod.com/catvod.json","name": "Catvod"},
+{"url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json","name": "短剧"},
+{"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer","name": "少儿"},
+{"name": "❤️DG音乐","url": "https://ddzb.fun/dgmusic/api.json"},
+{"url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv","name": "欧歌线路（影视专用）"},
+{"name": "小米仓库","url": "http://www.mpanso.com/小米/DEMO.json"},
+{"name": "华影视仓库","url": "http://vip.hys.cool//app/api.json"},
+{"name": "💚瞄影视","url": "http://meowtv.cn/tv"},
+{"name": "💚青木","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/foxccs/tvbox/main/m.json"},
+{"name": "◶魔盒","url": "https://git.acwing.com/999/tvbox/-/raw/main/%E9%AD%94%E7%9B%92.json"},
+{"name": "蓝天白云影视🌲","url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json"},
+{"name": "🍆茄子影视💕","url": "https://700sjro44343.vicp.fun/eggp/tv.json"},
+{"name": "💕云星日记","url": "http://itvbox.cc/tvbox/云星日记/1.m3u8"},
+{"name": "🍚饭太硬","url": "http://www.饭太硬.com/tv"},
+{"name": "影视","url": "http://meowtv.cn/tv"}
   ]
 }
