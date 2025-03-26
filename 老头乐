@@ -4681,7 +4681,7 @@ FOX NEWS,http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 翡翠台,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台,http://198.16.100.186:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台,http://198.16.100.186:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-HBO亞洲,http://122.117.71.103:8556/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
+HBO亚洲,http://122.117.71.103:8556/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
 HBO原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 HBO原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
@@ -4701,7 +4701,7 @@ EYE戏剧,http://150.138.77.132:10037/Smartv.php?id=eyetvxiju_twn
 EYE旅游,http://150.138.77.132:10037/Smartv.php?id=eyetvtravel_twn
 HBO,http://150.138.77.132:10037/Smartv.php?id=hbohd_twn
 HBO Family,http://150.138.77.132:10037/Smartv.php?id=fyi_twn
-好莱坞电影台,http://150.138.77.132:10037/Smartv.php?id=hollywoodmovies_twn
+好莱坞电影,http://150.138.77.132:10037/Smartv.php?id=hollywoodmovies_twn
 TLC旅游生活,http://150.138.77.132:10037/Smartv.php?id=tlc_twn
 亚洲旅游台,http://150.138.77.132:10037/Smartv.php?id=asiatravel_twn
 亚洲美食,http://150.138.77.132:10037/Smartv.php?id=afc_twn
@@ -4742,7 +4742,7 @@ Astro QJ,http://150.138.77.132:10037/Smartv.php?id=Quanjia
 爱奇艺,http://150.138.77.132:10037/Smartv.php?id=Qiyi
 Animal Planet (Eng),http://150.138.77.132:10037/Smartv.php?id=AnimalPlanet
 tvN Movie,http://150.138.77.132:10037/Smartv.php?id=Tvnmovie
-CNN),http://150.138.77.132:10037/Smartv.php?id=cnn_twn
+CNN,http://150.138.77.132:10037/Smartv.php?id=cnn_twn
 CNBC,http://150.138.77.132:10037/Smartv.php?id=cnbc_twn
 RTM Sports HD,http://150.138.77.132:10037/Smartv.php?id=Rtmsport
 TLC,http://150.138.77.132:10037/Smartv.php?id=Tlc
@@ -4818,7 +4818,7 @@ MTV Live,http://150.138.77.132:10037/Smartv.php?id=mtvhd_twn
 龙华戏剧,http://150.138.77.132:10037/Smartv.php?id=lunghuaxiju_twn
 龙华洋片,http://150.138.77.132:10037/Smartv.php?id=lunghuawestern_twn
 龙华电影,http://150.138.77.132:10037/Smartv.php?id=xingwei_movie
-TVBS HD,http://150.138.77.132:10037/Smartv.php?id=tvbs
+TVBS,http://150.138.77.132:10037/Smartv.php?id=tvbs
 TVBS新闻台,http://150.138.77.132:10037/Smartv.php?id=tvbs_n
 TVBS欢乐台,http://150.138.77.132:10037/Smartv.php?id=tvbshuanle_twn
 TVB Jade,http://150.138.77.132:10037/Smartv.php?id=Tvbjade
@@ -4832,8 +4832,8 @@ TVBJ2,http://150.138.77.132:10037/Smartv.php?id=j2_twn
 翡翠台,http://150.138.77.132:10037/Smartv.php?id=jade_twn
 凤凰资讯,http://150.138.77.132:10037/Smartv.php?id=phoenixinfo_hd
 凤凰香港,http://150.138.77.132:10037/Smartv.php?id=hkphoenix_twn
-法国時尚,http://150.138.77.132:10037/Smartv.php?id=fashiontv_twn
-纬来日本台,http://150.138.77.132:10037/Smartv.php?id=videolandjapan
+法国时尚,http://150.138.77.132:10037/Smartv.php?id=fashiontv_twn
+纬来日本,http://150.138.77.132:10037/Smartv.php?id=videolandjapan
 CN卡通,http://150.138.77.132:10037/Smartv.php?id=momo1_twn
 
 凤凰中文,http://b.j.bkpcp.top/bjyd/fhzw
@@ -4859,7 +4859,7 @@ AstroAEC,http://z.b.bkpcp.top/m.php?id=aec
 星空卫视,http://j.s.bkpcp.top/js/xkws1
 龙祥电影,http://j.s.bkpcp.top/js/lxdy
 纬来电影,http://j.s.bkpcp.top/js/wldy
-AXN頻道,http://j.s.bkpcp.top/js/axn
+AXN频道,http://j.s.bkpcp.top/js/axn
 千禧经典台,http://j.s.bkpcp.top/js/qxjdt
 tvN,http://j.s.bkpcp.top/js/tvn
 HBO,http://j.s.bkpcp.top/js/hbohd
@@ -4953,10 +4953,10 @@ Now爆谷台,http://j.s.bkpcp.top/js/nowbgt1
 iQIYI爱奇艺,http://j.s.bkpcp.top/js/aqy
 TVB星河,http://j.s.bkpcp.top/js/xht
 TVB星河,http://j.s.bkpcp.top/js/xht1
-Astro 欢喜台,http://j.s.bkpcp.top/js/hxt
-Astro 欢喜台,http://z.b.bkpcp.top/m.php?id=hxt
+Astro欢喜台,http://j.s.bkpcp.top/js/hxt
+Astro欢喜台,http://z.b.bkpcp.top/m.php?id=hxt
 东森洋片,http://j.s.bkpcp.top/js/dsyp
-AXN頻道,http://j.s.bkpcp.top/js/axn1
+AXN频道,http://j.s.bkpcp.top/js/axn1
 千禧经典台1,http://j.s.bkpcp.top/js/qxjdt1
 HBO,http://j.s.bkpcp.top/js/hbo1
 HBO HD,http://j.s.bkpcp.top/js/hbohd
@@ -5075,7 +5075,7 @@ HBO2,http://170.254.18.106/HBO2/index.m3u8
 香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 乌克兰台,https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
 翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 凤凰资讯,http://ttkx.cc:1658/公开源454/fh.php?id=fhzx
