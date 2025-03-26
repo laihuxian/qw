@@ -1,23 +1,18 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]//
 🇹🇼台湾频道,#genre#
 中天新闻,http://ali.hlspull.yximgs.com/live/_duan_ju_bao_bao_bao_xiao_shi_hou_zuo_guo_ya___CTI__HD.flv
+中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+中天新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中天新闻2,http://ali.hlspull.yximgs.com/live/_duan_ju_bao_bao_bao_xiao_shi_hou_zuo_guo_ya___CTI_2_HD.flv
-
-
 Channel 8 HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
 Channel U HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
-PopC,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+PopC电影,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-中天新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 娱乐新闻台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-寰宇新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-东森新闻,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 49号,http://61.221.215.25:8800/hls/49/index.m3u8
 好消息,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-纬来电影,http://j.s.bkpcp.top/js/wldy
-AXN频道,http://j.s.bkpcp.top/js/axn
 NOW爆谷台,http://j.s.bkpcp.top/jj/bgt
 AMC电影台,http://j.s.bkpcp.top/js/amc1
 NOW体育1,http://j.s.bkpcp.top/js/nowty
@@ -40,24 +35,25 @@ ARIRANGTV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 ANIMAX(HK),http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+中天新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+寰宇新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+东森新闻,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 台湾蕃薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 台湾蕃薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-龙祥时代,http://j.s.bkpcp.top/js/lxsd
 中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 华视频道,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 华视频道,rtmp://f13h.mine.nu/sat/tv111
-民视频道,rtmp://f13h.mine.nu/sat/tv051
 华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
 博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
 台视频道,rtmp://f13h.mine.nu/sat/tv071
-中天新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中天新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
-东森新闻,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 CN卡通,http://j.s.bkpcp.top/jj/cnkt
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
+
+
 中天新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctinews/playlist.m3u8
 TVBS新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n/playlist.m3u8
 年代新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/niandainews_twn/playlist.m3u8
@@ -260,13 +256,9 @@ NOW星影台,http://j.s.bkpcp.top/jj/xyt
 美亚电影台,http://j.s.bkpcp.top/jj/mydy
 东森电影,http://j.s.bkpcp.top/js/dsdy
 美亚电影台,http://j.s.bkpcp.top/js/mydy5
-美亚电影,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/daili/Smartv.php?
-
-id=meiyamovie_twn
+美亚电影,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/daili/Smartv.php?id=meiyamovie_twn
 TV8,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/daili/Smartv.php?id=TV8
-美亚电影台国,http://ali.hlspull.yximgs.com/live/aibcdhisbsbsbilddsshabibscbmlmeiyadytwl00eqoklhdjhflhfsddagksh-4664122236-8845f-
-
-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjfsbiiillll1lilllllllllll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
+美亚电影台国,http://ali.hlspull.yximgs.com/live/aibcdhisbsbsbilddsshabibscbmlmeiyadytwl00eqoklhdjhflhfsddagksh-4664122236-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjfsbiiillll1lilllllllllll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
 Now华剧台,http://ali.hlspull.yximgs.com/live/4a44814dbb12a2d2642d6c3f90dbc37a.flv
 PopC电影,http://ali.hlspull.yximgs.com/live/712f0b32aa049b0923e8909765fd9bfc.flv
 黄金华剧台,http://ali.hlspull.yximgs.com/live/7ca0922eb61fbf1897386a1730b21c9e.flv
@@ -276,9 +268,7 @@ Now爆谷台,http://ali.hlspull.yximgs.com/live/4ee8a9f8e5a95b40f784aa91daa6bf91
 Now星影台,http://ali.hlspull.yximgs.com/live/b2a7212f3d6c73c2ffda25c2f40b230a.flv
 Now紫金国际,http://ali.hlspull.yximgs.com/live/4c6a45a371fa015160d8d9c6e66c7f5e.flv
 美亚电影台粤,http://ali.hlspull.yximgs.com/live/273b9cc2bacd4a41ba5375987a5ee95a.flv
-TVB生活台,http://ali.hlspull.yximgs.com/live/aibcdhisbsbsbishenghuojjjjjksh-4664122236-8845f-
-
-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjfsbiiillll1lilllllllllll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
+TVB生活台,http://ali.hlspull.yximgs.com/live/aibcdhisbsbsbishenghuojjjjjksh-4664122236-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjfsbiiillll1lilllllllllll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
 亚洲武侠国语,http://ali.hlspull.yximgs.com/live/212d9c39e7b1545e794dda7ab84d8d69.flv
 TVB星河国语,http://ali.hlspull.yximgs.com/live/69add15a3c63e0313c4dc5dedc310619.flv
 黄金翡翠台,http://ali.hlspull.yximgs.com/live/a38bb7f60c0036eda98b049726e7fcf6.flv
