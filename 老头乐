@@ -4613,10 +4613,10 @@ id=meiyamovie_twn
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-中视频道,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
-民视频道,http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
+中视,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
+民视,http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 三立新闻,http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8
-民视频道,http://122.117.71.103:8504/http/220.130.87.218:8081/hls/85/80/Ftv4max.m3u8
+民视,http://122.117.71.103:8504/http/220.130.87.218:8081/hls/85/80/Ftv4max.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
@@ -4638,11 +4638,12 @@ id=meiyamovie_twn
 中天娛乐,http://122.117.71.103:8526/http/220.130.87.218:8081/hls/67/809/ch026.m3u8
 中天綜合,http://122.117.71.103:8525/http/220.130.87.218:8081/hls/67/809/ch025.m3u8
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
-中视频道,http://122.117.71.103:8503/http/220.13087.218/hls/89/80/.m3u8
+中视,http://122.117.71.103:8503/http/220.13087.218/hls/89/80/.m3u8
 ESPN,http://41.205.93.154/ESPN/index.m3u8
 BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 BBC Drama,https://amg00793-amg00793c42-rakuten-fr-5446.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramafrance-rakutenfr/playlist.m3u8
 NHK World-Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+欧洲华文一套,http://oh.eztv.vip/live/eztv1.m3u8
 欧洲华文二套,http://oh.eztv.vip/live/eztv2.m3u8
 欧洲华文三套,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 欧洲华文四套,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
@@ -4810,10 +4811,10 @@ TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxh
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台北美版(TVB J1),http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
+翡翠台北美版(TVBJ1),http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Wlt
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
@@ -4832,7 +4833,7 @@ TVBPLUS,http://8hb85846je10.vicp.fun:5000/bysid/82
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-TVB娱乐新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
+娱乐新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 TVBPLUS,http://cdn.132.us.kg/live/tvbp/stream.m3u8
@@ -4856,8 +4857,8 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
 HBOFamily,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbofamily/playlist.m3u8
-HBO频道,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbo/playlist.m3u8
-mtv频道,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/mtvhd_twn/playlist.m3u8
+HBO,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbo/playlist.m3u8
+mtv,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/mtvhd_twn/playlist.m3u8
 WARNER,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/WarnerTV/playlist.m3u8
 Moviesnow,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/moviesnow_raj/playlist.m3u8
 StarMovies,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/starmovies_raj/playlist.m3u8
@@ -4951,7 +4952,6 @@ TVBPLUS,http://grandprix2023.asuscomm.com:8892/bysid/82
 TVBPLUS,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 翡翠台4k,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台4k,http://cdn.163189.xyz/live/fct4k/stream.m3u8
-华文一套,http://oh.eztv.vip/live/eztv1.m3u8
 澳视澳门,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
 澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
@@ -4970,9 +4970,9 @@ TVBPLUS,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 韩国KCTV_HV2,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 法国时尚,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
-民视频道,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
-民视频道,http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
-民视频道,http://198.16.100.186:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+民视,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
+民视,http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
+民视,http://198.16.100.186:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
 FOX SPORTS 1 US,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/7322/index.m3u8
 FOX NEWS,https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 FOX News,http://38.96.178.201:80/live/FOXNEWS/index.m3u8
@@ -4980,14 +4980,14 @@ FOX NEWS,http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
 FOX NEWS,http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 HBO2  DIRECTV,https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 Antena 3 CNN,https://live3vox.antenaplay.ro/a3free/a3free.m3u8
-VTV Canal 32 (1080p),https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
+VTV Canal 32,https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 Xtra TV,https://cnn.essastream.com:3387/live/xtratvlive.m3u8
-Hermanas Mirabal TV (720p) [Not 24/7],https://cnn.essastream.com:3091/live/hmtvlive.m3u8
-Oepm TV (720p),https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
-CromTV (480p),https://cnn.essastream.com:3333/live/cromtvlive.m3u8
-Ruta66 TV (720p),https://cnn.livestreaminggroup.info:3796/live/ruta66tvlive.m3u8
+Hermanas Mirabal TV,https://cnn.essastream.com:3091/live/hmtvlive.m3u8
+Oepm TV,https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
+CromTV,https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+Ruta66 TV,https://cnn.livestreaminggroup.info:3796/live/ruta66tvlive.m3u8
 Fox Sports 1,http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-Fox News Channel (720p),https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+Fox News Channel,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 华丽翡翠,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
 HBO亚洲,http://122.117.71.103:8556/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
 HBO原创,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
@@ -5070,13 +5070,13 @@ MTV Live,http://150.138.77.132:10037/Smartv.php?id=mtvhd_twn
 三立台湾台,http://150.138.77.132:10037/Smartv.php?id=sanlitaiwan
 三立戏剧台,http://150.138.77.132:10037/Smartv.php?id=sanlixiju_twn
 三立綜合台,http://150.138.77.132:10037/Smartv.php?id=sanlizhonghe
-民视频道,http://150.138.77.132:10037/Smartv.php?id=ftvhd_taiwan
+民视,http://150.138.77.132:10037/Smartv.php?id=ftvhd_taiwan
 民视第一台,http://150.138.77.132:10037/Smartv.php?id=lunghuajingdian_twn
 民视台湾台,http://150.138.77.132:10037/Smartv.php?id=ftvtaiwan_twn
 民视新闻台,http://150.138.77.132:10037/Smartv.php?id=ftvnew_taiwan
-台视频道,http://150.138.77.132:10037/Smartv.php?id=ttv_taiwan
+台视,http://150.138.77.132:10037/Smartv.php?id=ttv_taiwan
 台视新闻台,http://150.138.77.132:10037/Smartv.php?id=ttvnews_twn
-华视频道,http://150.138.77.132:10037/Smartv.php?id=ctshd_twn
+华视,http://150.138.77.132:10037/Smartv.php?id=ctshd_twn
 年代新闻,http://150.138.77.132:10037/Smartv.php?id=niandainews_twn
 博斯网球,http://150.138.77.132:10037/Smartv.php?id=bositennis_twn
 博斯运动2,http://150.138.77.132:10037/Smartv.php?id=bosisport2_twn
@@ -5347,7 +5347,7 @@ AMC电影台,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_T
 中视新闻,http://50.7.234.10:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 镜新闻,http://122.117.71.103:8552/http/220.130.87.218:8092/upload/114/MNEWS_TS-1111_1.m3u8
 星卫电影,http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-49号频道,http://61.221.215.25:8800/hls/49/index.m3u8
+49号,http://61.221.215.25:8800/hls/49/index.m3u8
 HOY77资讯,https://cdn.163189.xyz/live/hoy/stream.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
@@ -5362,7 +5362,7 @@ CEC3,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 东森幼幼,http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
 邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
 纬来电影,http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
-POPC电影,http://go1.bkpcp.top/tl/popc
+PopC电影,http://go1.bkpcp.top/tl/popc
 无线综合,http://go1.bkpcp.top/tl/null-3
 无线粤片,http://go1.bkpcp.top/tl/null-10
 无线华剧,http://go1.bkpcp.top/tl/null-4
@@ -5396,7 +5396,7 @@ CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_
 凤凰中文,http://110.81.206.138:49231/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0
 中国电影,http://go1.bkpcp.top/tl/null-6
 凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MDFD5624054756240547&ct=19235&tsum=3d8e21403954d488cd95d367f1f90d8b
-中视频道,rtmp://f13h.mine.nu/sat/tv091
+中视,rtmp://f13h.mine.nu/sat/tv091
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1台,rtmp://f13h.mine.nu/sat/tv731
@@ -5412,7 +5412,7 @@ Zarok,https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 ASTROAOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-星河台,http://php.jdshipin.com/smt.php?id=Xinhe
+TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 凤凰中文,http://61.163.58.154:1321/ms/IPTV.php?id=123
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 纬来育乐,rtmp://f13h.mine.nu:1935/sat/tv701
@@ -5676,10 +5676,10 @@ HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
 美亚电影台,http://go1.bkpcp.top/tl/null-5
 美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 中天综合,http://122.117.71.103:8525/http/220.130.87.218:8081/hls/67/809/ch025.m3u8
-华视频道,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
+华视,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
-民视频道,rtmp://f13h.mine.nu/sat/tv051
-台视频道,rtmp://f13h.mine.nu/sat/tv071
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
 台湾番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
@@ -5697,9 +5697,9 @@ HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklistw1266569526.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-台视频道,http://60.248.77.83/sat/tv071.flv
-民视频道,http://60.248.77.83/sat/tv051.flv
-华视频道,http://60.248.77.83/sat/tv111.flv
+台视,http://60.248.77.83/sat/tv071.flv
+民视,http://60.248.77.83/sat/tv051.flv
+华视,http://60.248.77.83/sat/tv111.flv
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 动物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 动物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MF9F9255818592558185&ct=19344&tsum=749eaebb64cf95e20862c56226a8446e
@@ -5725,7 +5725,7 @@ HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 韩国SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 法国FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-美国HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 法国时尚,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
@@ -5739,7 +5739,7 @@ HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
 韩国-EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 韩国SBSCJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 韩国KBSLIVECAMDOKDO,http://kbs-dokdo.gscdn.com/dokdo_300/definst/dokdo_300.stream/playlist.m3u8
-法国时尚FTV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 韩国BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
 [美国]CHRISTIANYOUTHCHANNEL(CYC),http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
 [斯洛伐克]TVRU?INOV,http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
@@ -5765,7 +5765,7 @@ HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+华丽翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVBS新闻台,http://122.117.71.103:8543/http/220.130.87.218:8081/hls/75/817/ch059.m3u8
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 香港32台,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
@@ -5828,7 +5828,7 @@ TVBPLUSs,http://8hb85846je10.vicp.fun:5000/bysid/82.m3u8
 明珠台,http://tri-metal.dsmynas.net:8001/bysid/2.m3u8
 无线新闻台,http://tri-metal.dsmynas.net:8001/bysid/83.m3u8
 凤凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
-TVBplus,http://cdn.163189.xyz/live/?id=tvbp
+TVBPLUS,http://cdn.163189.xyz/live/?id=tvbp
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
 无线新闻台,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
@@ -5877,7 +5877,7 @@ TVBPLUS,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 TVBJ1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+TVBPLUS,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 龙华卡通台,http://122.117.71.103:8516/http/61.222.53.250:8068/hls/14/80/cstv14.m3u8
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
@@ -5893,7 +5893,7 @@ TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 CCTV-1综合,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
-tvbs新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n/playlist.m3u8
+TVBS新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n/playlist.m3u8
 非凡新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/feifannews_twn/playlist.m3u8
 中视新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhongshinews_twn/playlist.m3u8
 tvbs,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs/playlist.m3u8
@@ -5903,12 +5903,12 @@ tvbs欢乐,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbsh
 东森幼幼,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/yoyo_twn/playlist.m3u8
 大爱2,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/catchplay_twn/playlist.m3u8
 阿里郎频道,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/arirang_twn/playlist.m3u8
-美亚电影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/meiyamovie_twn/playlist.m3u8
+美亚电影台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/meiyamovie_twn/playlist.m3u8
 龙祥电影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lungxiangtime_twn/playlist.m3u8/playlist.m3u8
 好莱坞电影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hollywoodmovies_twn/playlist.m3u8
 AXN电影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/axn_twn/playlist.m3u8
 HBOFamily,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbofamily/playlist.m3u8
-HBO频道,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbo/playlist.m3u8
+HBO,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbo/playlist.m3u8
 HBO强档,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8
 HBO原创,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohits_twn/playlist.m3u8
 mtv频道,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/mtvhd_twn/playlist.m3u8
@@ -5926,9 +5926,9 @@ EYETV戏剧,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eyet
 年代新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/niandainews_twn/playlist.m3u8
 民视新闻台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvnew_taiwan/playlist.m3u8
 台视新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttvnews_twn/playlist.m3u8
-民视频道,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvhd_taiwan/playlist.m3u8
-华视频道,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctshd_twn/playlist.m3u8
-台视频道,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttv_taiwan/playlist.m3u8
+民视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvhd_taiwan/playlist.m3u8
+华视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctshd_twn/playlist.m3u8
+台视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttv_taiwan/playlist.m3u8
 民视台湾台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvtaiwan_twn/playlist.m3u8
 龙华戏剧,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaxiju_twn/playlist.m3u8
 龙华偶像,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaidol_twn/playlist.m3u8
@@ -5970,7 +5970,7 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
 AXN频道,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
 CINEMAX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
-AM电影台,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
+AMC电影台,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
 纬来戏剧,http://122.117.71.103:8532/http/61.222.53.250:8081/hls/69/811/ch33.m3u8
 龙华戏剧,http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8
 八大戏剧台,http://122.117.71.103:8530/http/61.222.53.250:8081/hls/66/808/ch23.m3u8
@@ -12029,14 +12029,12 @@ WarpAstron,http://www.goodiptv.club/bilibili/30206484
 俄罗斯AKKOND进口馆,http://www.goodiptv.club/bilibili/30129063
 🐦YY专区,#genre#
 周润发,http://3501776.xyz:35455/yy/1354889044
-李连杰,http://3501776.xyz:35455/yy/74613175
 经典港片,http://3501776.xyz:35455/yy/344652
 国内动作电影,http://3501776.xyz:35455/yy/1382745176
 国内动作片,http://3501776.xyz:35455/yy/1382735561
 国内动作大片,http://3501776.xyz:35455/yy/1382749917
 电影06,http://3501776.xyz:35455/yy/1382749940
 国外动作大片,http://3501776.xyz:35455/yy/1382735540
-国内科幻,http://3501776.xyz:35455/yy/1354936170
 机场超燃警匪片,http://3501776.xyz:35455/yy/1382735576
 华子系列,http://3501776.xyz:35455/yy/1354888726
 国内科幻片来袭,http://3501776.xyz:35455/yy/1354930821
@@ -12062,8 +12060,6 @@ WarpAstron,http://www.goodiptv.club/bilibili/30206484
 经典喜剧片,http://124.248.69.76:26781/huya/11352894
 经典谍战片,http://124.248.69.76:26781/huya/21059585
 经典电视剧,http://zzy789.xyz/douyu1.php?id=5261342
-香港动作大片,http://3501776.xyz:35455/yy/1382736816
-经典港片②,http://124.248.69.76:26781/huya/11602043
 天龙八部,https://fmbox.cc/yy.php?id=1351814644
 神雕侠侣,https://fmbox.cc/yy.php?id=1351762426
 笑傲江湖,https://fmbox.cc/yy.php?id=1354936128
@@ -12133,7 +12129,6 @@ YY-剧集_新三国,https://fmbox.cc/yy.php?id=23512910
 YY-蔡明小品,https://fmbox.cc/yy.php?id=1354936177
 YY-今夜欢乐颂,https://fmbox.cc/yy.php?id=1382735572
 YY-笑声传奇,https://fmbox.cc/yy.php?id=1382736880
-YY-笑傲江湖第一季,https://fmbox.cc/yy.php?id=1382749896
 YY-倚天屠龙记,https://fmbox.cc/yy.php?id=1449856066
 YY-新白娘子传奇,https://fmbox.cc/yy.php?id=1354490667
 YY-西游记后传,https://fmbox.cc/yy.php?id=1353392400
@@ -12147,7 +12142,6 @@ YY-金装四大才子,https://fmbox.cc/yy.php?id=1354926600
 YY-公主嫁到,https://fmbox.cc/yy.php?id=1382736915
 YY-耀舞长安,https://fmbox.cc/yy.php?id=1382741640
 YY-法证先锋,https://fmbox.cc/yy.php?id=1354930965
-YY-法证先锋Ⅲ,https://fmbox.cc/yy.php?id=1382736802
 YY-陀枪师姐,https://fmbox.cc/yy.php?id=1382688521
 YY-功夫婆媳,https://fmbox.cc/yy.php?id=1382736883
 YY-飞虎之潜行极战,https://fmbox.cc/yy.php?id=1354932420
@@ -12157,12 +12151,10 @@ YY-安家,https://fmbox.cc/yy.php?id=12086226
 YY-欢乐颂,https://fmbox.cc/yy.php?id=1382735624
 YY-平凡岁月,https://fmbox.cc/yy.php?id=1382745117
 YY-苦乐村官,https://fmbox.cc/yy.php?id=1382736864
-YY-一代枭雄,https://fmbox.cc/yy.php?id=1355917294
 YY-勇敢的心,https://fmbox.cc/yy.php?id=1354792480
 YY-大唐双龙传,https://fmbox.cc/yy.php?id=1354930979
 YY-大明王朝,https://fmbox.cc/yy.php?id=1382736879
 YY-大江大河,https://fmbox.cc/yy.php?id=1382736806
-YY-天下第一,https://fmbox.cc/yy.php?id=1355554637
 YY-宝莲灯前传,https://fmbox.cc/yy.php?id=1354931631
 YY-宫心计,https://fmbox.cc/yy.php?id=1354932429
 YY-情满四合院,https://fmbox.cc/yy.php?id=1382736848
@@ -12199,19 +12191,15 @@ YY-24H国漫热播,https://fmbox.cc/yy.php?id=1353937086
 YY-布丁-玄幻电影正在直播,https://fmbox.cc/yy.php?id=1455460998
 YY-星爷经典-百看不厌,https://fmbox.cc/yy.php?id=1382736808
 YY-经典港片电影,https://fmbox.cc/yy.php?id=1382793140
-YY-二龙湖浩哥【经典搞笑】,https://fmbox.cc/yy.php?id=28205255
 YY-经典港片 3000部,https://fmbox.cc/yy.php?id=1353059120
 YY-地下交通站,https://fmbox.cc/yy.php?id=1382736795
 YY-野山鹰-影视剧,https://fmbox.cc/yy.php?id=1354932395
 YY-新主播，求照顾,https://fmbox.cc/yy.php?id=1382690406
 YY-小敏,https://fmbox.cc/yy.php?id=1382736890
-YY-第一滴血全集,https://fmbox.cc/yy.php?id=1354932355
 YY-洪金宝福星系列,https://fmbox.cc/yy.php?id=1354924839
 YY-张国荣与周润发的兄弟情,https://fmbox.cc/yy.php?id=1354930961
 YY-拆弹专家-刘德华,https://fmbox.cc/yy.php?id=1382745111
-YY-澳门风云,https://fmbox.cc/yy.php?id=1459243913
 YY-战争大片,https://fmbox.cc/yy.php?id=1382735556
-YY-【玄幻电影】,https://fmbox.cc/yy.php?id=1355065896
 YY-你最爱的宋小宝,https://fmbox.cc/yy.php?id=1354936198
 YY-家花与野花,https://fmbox.cc/yy.php?id=1354420982
 YY-国外科幻,https://fmbox.cc/yy.php?id=1382736800
@@ -12224,17 +12212,14 @@ YY-超英集结,https://fmbox.cc/yy.php?id=1382745091
 YY-热血抗日电影,https://fmbox.cc/yy.php?id=1382749907
 YY-宋小宝小品合集,https://fmbox.cc/yy.php?id=1354931577
 YY-经典搞笑影片,https://fmbox.cc/yy.php?id=1382749878
-YY-【科幻】超炫特效,https://fmbox.cc/yy.php?id=37988782
 YY-宋小宝春晚小品合集,https://fmbox.cc/yy.php?id=1382736866
 YY-传奇英雄,https://fmbox.cc/yy.php?id=1382735578
 YY-漫威超级英雄系列,https://fmbox.cc/yy.php?id=1354932402
 YY-怀旧好电影,https://fmbox.cc/yy.php?id=1382627144
-YY-【周星驰】星爷 喜剧,https://fmbox.cc/yy.php?id=21092633
 YY-X战警系列电影,https://fmbox.cc/yy.php?id=1382736893
 YY-战争大片-国外电影,https://fmbox.cc/yy.php?id=1382736857
 YY-舌尖上的中国第2季,https://fmbox.cc/yy.php?id=1354930943
 YY-河山,https://fmbox.cc/yy.php?id=1382749952
-YY-单挑荒野第一季,https://fmbox.cc/yy.php?id=1354933535
 YY-铭记历史-甲午大海战,https://fmbox.cc/yy.php?id=1354936195
 YY-欢乐集结号3,https://fmbox.cc/yy.php?id=1382736822
 YY-欢乐集结号,https://fmbox.cc/yy.php?id=1382735550
@@ -12242,7 +12227,6 @@ YY-密子君,https://fmbox.cc/yy.php?id=1382736717
 YY-高分动作大片-热血出击,https://fmbox.cc/yy.php?id=1382736909
 YY-小宝让你乐翻天：6到9集,https://fmbox.cc/yy.php?id=1354930971
 YY-超级英雄系列电影,https://fmbox.cc/yy.php?id=1382736863
-YY-体验另一种生活！,https://fmbox.cc/yy.php?id=1354936229
 YY-请回答1988,https://fmbox.cc/yy.php?id=1354932362
 YY-战火中的故事,https://fmbox.cc/yy.php?id=1382735625
 YY-科幻大片,https://fmbox.cc/yy.php?id=1382745181
@@ -12250,7 +12234,6 @@ YY-农家小菜,https://fmbox.cc/yy.php?id=1382736894
 YY-金星脱口秀：我敢说你敢听吗,https://fmbox.cc/yy.php?id=1382735552
 YY-漫威十年老粉福利来了,https://fmbox.cc/yy.php?id=1354930233
 YY-热血动作片合集,https://fmbox.cc/yy.php?id=1382735627
-YY-动物世界,https://fmbox.cc/yy.php?id=1382749889
 YY-超激烈的猎食场面,https://fmbox.cc/yy.php?id=1382749898
 YY-老广的味道 第3季-美食纪录片,https://fmbox.cc/yy.php?id=1382735565
 YY-小小飞虎队,https://fmbox.cc/yy.php?id=1382749888
@@ -12267,7 +12250,6 @@ YY-精彩动作电影,https://fmbox.cc/yy.php?id=1382736823
 YY-碟中谍系列-国外动作大片,https://fmbox.cc/yy.php?id=1354930181
 YY-寻味顺德-美食纪录片,https://fmbox.cc/yy.php?id=1382736844
 YY-超燃科幻大片：明日边缘,https://fmbox.cc/yy.php?id=1382736835
-YY-香港动作大片,https://fmbox.cc/yy.php?id=1382736816
 YY-小鬼当家-童年回忆,https://fmbox.cc/yy.php?id=1382745104
 YY-岳云鹏宋小宝也来演电影了？,https://fmbox.cc/yy.php?id=1354926612
 YY-华子系列,https://fmbox.cc/yy.php?id=1354888726
@@ -12285,7 +12267,6 @@ YY-奇缘39262港台影院,https://fmbox.cc/yy.php?id=1354889234
 YY-真心想让你幸福,https://fmbox.cc/yy.php?id=1382736876
 YY-国外动作大片,https://fmbox.cc/yy.php?id=1382735540
 YY-飞虎之雷霆极战,https://fmbox.cc/yy.php?id=1382736869
-YY-记忆中的TVB,https://fmbox.cc/yy.php?id=1382749951
 YY-冲上云霄2,https://fmbox.cc/yy.php?id=1354933556
 YY-本山快乐营2,https://fmbox.cc/yy.php?id=1382736718
 YY-国内科幻片,https://fmbox.cc/yy.php?id=1382745110
@@ -12295,7 +12276,6 @@ YY-尽享国内精彩战争片,https://fmbox.cc/yy.php?id=1382745094
 YY-苦咖啡,https://fmbox.cc/yy.php?id=1382736908
 YY-中年计划,https://fmbox.cc/yy.php?id=1354658051
 YY-催泪战争,https://fmbox.cc/yy.php?id=1382745124
-YY-一起来笑吧,https://fmbox.cc/yy.php?id=1454859415
 YY-攻壳机动队,https://fmbox.cc/yy.php?id=1382745089
 YY-热播喜剧,https://fmbox.cc/yy.php?id=1354936169
 YY-花儿开心吧-小品,https://fmbox.cc/yy.php?id=1382736917
@@ -12323,15 +12303,12 @@ YY-相声相声搜38528频道,https://fmbox.cc/yy.php?id=34025318
 YY-绝版电影 港片女鬼,https://fmbox.cc/yy.php?id=1455988450
 YY-港片 喜剧 动作,https://fmbox.cc/yy.php?id=1355480591
 YY-幸福满院,https://fmbox.cc/yy.php?id=1382737886
-YY-【狂飙2老默】首播,https://fmbox.cc/yy.php?id=1354790484
 YY-经典鬼片3000部,https://fmbox.cc/yy.php?id=29460894
 YY-古惑仔,https://fmbox.cc/yy.php?id=1458015189
 YY-林正英-经典电影,https://fmbox.cc/yy.php?id=34229877
-YY-【战狼3吴京】首播,https://fmbox.cc/yy.php?id=1456668939
 YY-打狗棍  4K超清,https://fmbox.cc/yy.php?id=39736069
 YY-港片电影集,https://fmbox.cc/yy.php?id=1455225203
 YY-林正英电影,https://fmbox.cc/yy.php?id=1382841203
-YY-赵本山《蓝光版》,https://fmbox.cc/yy.php?id=32160832
 YY-雪豹,https://fmbox.cc/yy.php?id=28099939
 YY-英叔僵尸 3000部,https://fmbox.cc/yy.php?id=1353685311
 YY-豪哥带我们发财,https://fmbox.cc/yy.php?id=23402146
@@ -12340,19 +12317,15 @@ YY-超喜剧地下交通站男神贾贵,https://fmbox.cc/yy.php?id=1353428972
 YY-李连杰功夫 经典武侠,https://fmbox.cc/yy.php?id=74613175
 YY-(周星驰)超经典搞笑电影,https://fmbox.cc/yy.php?id=29945997
 YY-66车讯,https://fmbox.cc/yy.php?id=1382571192
-YY-【战狼3吴京】独播,https://fmbox.cc/yy.php?id=37999586
 YY-动作武侠港片电影,https://fmbox.cc/yy.php?id=1459801818
 YY-鹿鼎记-周星驰版,https://fmbox.cc/yy.php?id=1354658049
 YY-丸子,https://fmbox.cc/yy.php?id=1382851588
 YY-倚天屠龙记,https://fmbox.cc/yy.php?id=1354755003
 YY-抗战经典,https://fmbox.cc/yy.php?id=1382824983
 YY-摸金 盗暮,https://fmbox.cc/yy.php?id=1459714870
-YY-【动漫】斗罗斗破,https://fmbox.cc/yy.php?id=1353098382
 YY-二号交通站,https://fmbox.cc/yy.php?id=1382735582
 YY-笑傲江湖,https://fmbox.cc/yy.php?id=1354930909
 YY-纪晓岚,https://fmbox.cc/yy.php?id=1382781415
-YY-赵本山《超清版》,https://fmbox.cc/yy.php?id=1382683959
-YY-【成龙经典】动作,https://fmbox.cc/yy.php?id=34460526
 YY-港片赌片 3000部,https://fmbox.cc/yy.php?id=1355076627
 YY-超级吓人鬼片 恐怖片,https://fmbox.cc/yy.php?id=1355641195
 YY-天龙神雕经典回忆,https://fmbox.cc/yy.php?id=68260522
@@ -12362,13 +12335,10 @@ YY-狄仁杰等你哦,https://fmbox.cc/yy.php?id=1457579747
 YY-港片鬼片全集,https://fmbox.cc/yy.php?id=1459869766
 YY-好先生,https://fmbox.cc/yy.php?id=79382500
 YY-神探狄仁杰,https://fmbox.cc/yy.php?id=38338029
-YY-【港台】鬼片 惊悚 喜剧,https://fmbox.cc/yy.php?id=1351030377
 YY-燕双鹰专场,https://fmbox.cc/yy.php?id=23026835
 YY-战狼4 吴京首播,https://fmbox.cc/yy.php?id=1354784966
 YY-新三国,https://fmbox.cc/yy.php?id=26744898
 YY-军旅电视剧,https://fmbox.cc/yy.php?id=1352575322
-YY-【新三国】萌儿陪看,https://fmbox.cc/yy.php?id=29216766
-YY-【新三国】蓝光版,https://fmbox.cc/yy.php?id=1382705738
 YY-港片 恐怖片 鬼片,https://fmbox.cc/yy.php?id=1353850051
 YY-燕双鹰,https://fmbox.cc/yy.php?id=1354143942
 YY-进来 陪你看动漫,https://fmbox.cc/yy.php?id=1352866135
@@ -12380,7 +12350,6 @@ YY-我和僵尸有个约会,https://fmbox.cc/yy.php?id=1354143966
 YY-斗破苍穹斗罗大玄幻修仙剧,https://fmbox.cc/yy.php?id=1356051105
 YY-燕双鹰,https://fmbox.cc/yy.php?id=1352227153
 YY-皮蛋影视 正在直播,https://fmbox.cc/yy.php?id=23055599
-YY-特一营,https://fmbox.cc/yy.php?id=1507704566
 YY-少年包青天,https://fmbox.cc/yy.php?id=1356043677
 YY-鹊刀门传奇,https://fmbox.cc/yy.php?id=1382745997
 YY-案发现场（1-3）,https://fmbox.cc/yy.php?id=31368110
@@ -12394,8 +12363,6 @@ YY-电影电影,https://fmbox.cc/yy.php?id=1458819360
 YY-斗罗斗破动漫,https://fmbox.cc/yy.php?id=1420843376
 YY-新主播，求照顾,https://fmbox.cc/yy.php?id=29197808
 YY-林正英全集,https://fmbox.cc/yy.php?id=1335509613
-YY-24【动漫】正在直播,https://fmbox.cc/yy.php?id=1350984033
-YY-【破案 悬疑 港剧】,https://fmbox.cc/yy.php?id=1382800083
 YY-泡芙陪你看电影,https://fmbox.cc/yy.php?id=24407222
 YY-经典动漫,https://fmbox.cc/yy.php?id=22777075
 YY-交友林正英女鬼电影,https://fmbox.cc/yy.php?id=1453996620
@@ -12404,7 +12371,6 @@ YY-港片经典电影,https://fmbox.cc/yy.php?id=32326398
 YY-鬼经典老片,https://fmbox.cc/yy.php?id=1463783198
 YY-狂飙老莫请你吃鱼,https://fmbox.cc/yy.php?id=1382881866
 YY-孙红雷高清频道,https://fmbox.cc/yy.php?id=1351059494
-YY-国漫 一起看正在直播,https://fmbox.cc/yy.php?id=1351417866
 YY-鬼片恐怖私人影院,https://fmbox.cc/yy.php?id=1354952229
 YY-鬼片 恐怖片,https://fmbox.cc/yy.php?id=1455891197
 YY-我的兄弟叫顺溜,https://fmbox.cc/yy.php?id=1459331991
@@ -12413,11 +12379,8 @@ YY-大家车言论,https://fmbox.cc/yy.php?id=1382570702
 YY-鬼怪恐怖惊辣,https://fmbox.cc/yy.php?id=1382748585
 YY-动漫,https://fmbox.cc/yy.php?id=23993334
 YY-特种兵系列,https://fmbox.cc/yy.php?id=1508456184
-YY-破案TVB港剧,https://fmbox.cc/yy.php?id=1354932707
 YY-雪中悍刀行,https://fmbox.cc/yy.php?id=1462996362
 YY-真实案件系列,https://fmbox.cc/yy.php?id=1382671124
-YY-【赌神片 动作片 港片】,https://fmbox.cc/yy.php?id=1355112116
-YY-【林正英】僵尸 鬼片,https://fmbox.cc/yy.php?id=30668277
 YY-武侠港片电影,https://fmbox.cc/yy.php?id=1451866697
 YY-雪中悍刀行,https://fmbox.cc/yy.php?id=1460836818
 YY-惊恐盗暮鬼怪,https://fmbox.cc/yy.php?id=1382749525
@@ -12440,53 +12403,38 @@ YY-同桌的你,https://fmbox.cc/yy.php?id=1382851477
 YY-鹿鼎记-高清全集,https://fmbox.cc/yy.php?id=1382704650
 YY-倚天屠龙记,https://fmbox.cc/yy.php?id=33300793
 YY-精彩玄幻电影,https://fmbox.cc/yy.php?id=1382688400
-YY-【动漫】斗罗斗破超清全屏,https://fmbox.cc/yy.php?id=28796627
-YY-【经典港片】佟瑶,https://fmbox.cc/yy.php?id=23531261
 YY-2024盗幕鬼怪,https://fmbox.cc/yy.php?id=1355171231
-YY-【电影】超然巨作,https://fmbox.cc/yy.php?id=29170933
 YY-三国演义,https://fmbox.cc/yy.php?id=32788000
 YY-纪晓岚,https://fmbox.cc/yy.php?id=22982216
 YY-绝版鬼片电影,https://fmbox.cc/yy.php?id=1382743247
 YY-破案港剧,https://fmbox.cc/yy.php?id=1350670730
 YY-斗罗斗破精彩动漫,https://fmbox.cc/yy.php?id=1507304388
 YY-24小时陪你看,https://fmbox.cc/yy.php?id=1331686180
-YY-【电影】顶级动作电影,https://fmbox.cc/yy.php?id=24923327
-YY-【动漫】斗罗斗破超清全屏,https://fmbox.cc/yy.php?id=1382689904
 YY-国漫动漫,https://fmbox.cc/yy.php?id=1354768828
 YY-开饭了大熊猫,https://fmbox.cc/yy.php?id=1382741641
 YY-盗暮惊悚妖魔,https://fmbox.cc/yy.php?id=1382765507
-YY-《武林外传》武侠,https://fmbox.cc/yy.php?id=1394000563
 YY-战狼7吴京退役,https://fmbox.cc/yy.php?id=1382773714
 YY-探案！探案！,https://fmbox.cc/yy.php?id=1382829413
 YY-经典动漫,https://fmbox.cc/yy.php?id=24180320
-YY-【电影】超然巨作,https://fmbox.cc/yy.php?id=26623173
-YY-【没病走两步】,https://fmbox.cc/yy.php?id=1382851464
 YY-公主陪看老酒馆,https://fmbox.cc/yy.php?id=1356254650
 YY-神雕侠侣,https://fmbox.cc/yy.php?id=1460913377
 YY-彭禺厶鬼怪奇幻系列电影,https://fmbox.cc/yy.php?id=1355249116
 YY-少年包青天,https://fmbox.cc/yy.php?id=1382701828
 YY-24小时循环播电视剧,https://fmbox.cc/yy.php?id=53320802
-YY-【电视剧】天下第一,https://fmbox.cc/yy.php?id=1354780649
 YY-M恐怖片正在直播,https://fmbox.cc/yy.php?id=1352956876
-YY-【陪你看】金刚葫芦娃,https://fmbox.cc/yy.php?id=1353323999
 YY-少年包青天三,https://fmbox.cc/yy.php?id=61318527
 YY-24H地下交通站全,https://fmbox.cc/yy.php?id=37880083
-YY-奇领 铁山靠【Y 正在直播,https://fmbox.cc/yy.php?id=41584371
-YY-【周星驰】搞笑电影,https://fmbox.cc/yy.php?id=38670875
-YY-飞哥全集乐乐陪看】,https://fmbox.cc/yy.php?id=1352946111
 YY-爆笑小品,https://fmbox.cc/yy.php?id=1354931503
 YY-欧美惊悚,https://fmbox.cc/yy.php?id=1382656234
 YY-动漫奥斯卡正在直播,https://fmbox.cc/yy.php?id=1382626335
 YY-动漫,https://fmbox.cc/yy.php?id=26664495
 YY-经典电视剧联播,https://fmbox.cc/yy.php?id=1356338181
 YY-动漫,https://fmbox.cc/yy.php?id=1382747970
-YY-【电视剧】士兵突击,https://fmbox.cc/yy.php?id=22852190
 YY-士兵突击电视剧,https://fmbox.cc/yy.php?id=1456622512
 YY-燃爆动作片,https://fmbox.cc/yy.php?id=1382736801
 YY-神探狄仁杰1,https://fmbox.cc/yy.php?id=1382851575
 YY-欢乐集结号,https://fmbox.cc/yy.php?id=1354931582
 YY-神探狄仁杰2,https://fmbox.cc/yy.php?id=1382851146
-YY-天下第一,https://fmbox.cc/yy.php?id=1382736838
 YY-父母爱情,https://fmbox.cc/yy.php?id=1382746276
 YY-魔幻手机,https://fmbox.cc/yy.php?id=1382851541
 YY-小兵张嘎,https://fmbox.cc/yy.php?id=1354930225
@@ -12502,30 +12450,22 @@ YY-最可爱的人,https://fmbox.cc/yy.php?id=1354585554
 YY- 潘磕惺康谝患 -国产喜剧,https://fmbox.cc/yy.php?id=1382741637
 YY-士兵突击,https://fmbox.cc/yy.php?id=1382828766
 YY-花儿开心吧,https://fmbox.cc/yy.php?id=1354930984
-YY-一分钟学道菜,https://fmbox.cc/yy.php?id=1382736901
 YY-雪儿动漫,https://fmbox.cc/yy.php?id=1354143938
 YY-胡歌24小时播放,https://fmbox.cc/yy.php?id=1354555195
-YY-【天龙八部】蓝光超清,https://fmbox.cc/yy.php?id=28996058
 YY-全职高手,https://fmbox.cc/yy.php?id=26870427
-YY-【动漫】斗罗斗破,https://fmbox.cc/yy.php?id=35742228
 YY-港片鬼片老电影,https://fmbox.cc/yy.php?id=1355269576
 YY-雯子：鹿鼎记  寻秦记,https://fmbox.cc/yy.php?id=1456829119
-YY-【神探狄仁杰】,https://fmbox.cc/yy.php?id=66821259
 YY-火炬手,https://fmbox.cc/yy.php?id=1382851618
 YY-距离你200米,https://fmbox.cc/yy.php?id=1354887062
-YY-【新三国】吕布,https://fmbox.cc/yy.php?id=1382851459
 YY-笑傲帮,https://fmbox.cc/yy.php?id=1382735555
 YY-军旅剧（回忆经典）,https://fmbox.cc/yy.php?id=1356306672
 YY-法证先锋,https://fmbox.cc/yy.php?id=1354930939
 YY-斗罗斗破,https://fmbox.cc/yy.php?id=1354768831
-YY-【新三国】,https://fmbox.cc/yy.php?id=1382851415
 YY-言情古装剧 正在直播,https://fmbox.cc/yy.php?id=67857780
 YY- 逋鞠盗 -国产喜剧,https://fmbox.cc/yy.php?id=1382736856
 YY-彭禺厶鬼怪奇幻系列电影,https://fmbox.cc/yy.php?id=1353200190
 YY-笑傲江湖,https://fmbox.cc/yy.php?id=1352833750
-YY-神探狄仁杰1—5部全集,https://fmbox.cc/yy.php?id=1382705592
 YY-的直播间,https://fmbox.cc/yy.php?id=1354129442
-YY-【新三国】日版,https://fmbox.cc/yy.php?id=1382851457
 YY-战狼10086,https://fmbox.cc/yy.php?id=1382773686
 YY-动漫,https://fmbox.cc/yy.php?id=1382788679
 YY-绝版电影 3000部,https://fmbox.cc/yy.php?id=1355263385
@@ -12535,7 +12475,6 @@ YY-进来 陪你看电视,https://fmbox.cc/yy.php?id=1353518742
 YY-案发现场全集,https://fmbox.cc/yy.php?id=1354775242
 YY-赌神-发哥,https://fmbox.cc/yy.php?id=1354889044
 YY-魔幻手机,https://fmbox.cc/yy.php?id=1382735544
-YY-欢乐一起看,https://fmbox.cc/yy.php?id=1354930926
 YY-院线动作大片,https://fmbox.cc/yy.php?id=1382736900
 YY-双月之城-国漫,https://fmbox.cc/yy.php?id=1382736907
 YY-木乃伊全集,https://fmbox.cc/yy.php?id=1354889024
@@ -12544,11 +12483,9 @@ YY-叶问全集,https://fmbox.cc/yy.php?id=1382828771
 YY-法证先锋2,https://fmbox.cc/yy.php?id=1382736870
 YY-聊斋志异S1,https://fmbox.cc/yy.php?id=1382736975
 YY-科幻片：来看神奇的地球,https://fmbox.cc/yy.php?id=1354930897
-YY-法证先锋Ⅱ,https://fmbox.cc/yy.php?id=1354888736
 YY-国产大片电影,https://fmbox.cc/yy.php?id=1354926655
 YY-暖暖1999,https://fmbox.cc/yy.php?id=1382851591
 YY-热血战争巨作,https://fmbox.cc/yy.php?id=1382745087
-YY-动物世界-领略原始野性,https://fmbox.cc/yy.php?id=1382743138
 YY-热门喜剧,https://fmbox.cc/yy.php?id=1354931495
 YY-你是最美的风景,https://fmbox.cc/yy.php?id=1382851599
 YY-非诚勿扰,https://fmbox.cc/yy.php?id=1382735583
@@ -12566,12 +12503,10 @@ YY-热血动作电影,https://fmbox.cc/yy.php?id=1382736804
 YY-活力满满,https://fmbox.cc/yy.php?id=1382851585
 YY-人生必看的科幻片,https://fmbox.cc/yy.php?id=1382745114
 YY-天龙八部,https://fmbox.cc/yy.php?id=1382749944
-YY-美国队长史蒂夫,https://fmbox.cc/yy.php?id=1382736813
 YY-高分科幻动作片,https://fmbox.cc/yy.php?id=1382749948
 YY-情满四合院,https://fmbox.cc/yy.php?id=1382736888
 YY-非诚勿扰,https://fmbox.cc/yy.php?id=1382745106
 YY-欢天喜地七仙女,https://fmbox.cc/yy.php?id=1382735553
-YY-黑衣人1、2—动作喜剧大片,https://fmbox.cc/yy.php?id=1354930936
 YY-恋歌,https://fmbox.cc/yy.php?id=1382851594
 YY-非诚勿扰,https://fmbox.cc/yy.php?id=1382745100
 YY-欢乐集结号2,https://fmbox.cc/yy.php?id=1354930919
@@ -12583,8 +12518,6 @@ YY-叛逆者,https://fmbox.cc/yy.php?id=1382736868
 YY-穿越时空的爱恋,https://fmbox.cc/yy.php?id=1382735567
 YY-小欢喜,https://fmbox.cc/yy.php?id=1382737888
 YY-宫心计,https://lunbo.freetv.top/yy/1354933540
-YY-电影17,https://lunbo.freetv.top/yy/1354930924
-YY-少年歌行,https://lunbo.freetv.top/yy/1354806550
 YY-勇敢的心,https://lunbo.freetv.top/yy/1354744544
 YY-短剧轮播,https://lunbo.freetv.top/yy/1382881708
 YY-赵本山小品,https://lunbo.freetv.top/yy/1354936217
@@ -12598,7 +12531,6 @@ YY-黄大妮,https://lunbo.freetv.top/yy/1354930904
 YY-俺娘田小草,https://lunbo.freetv.top/yy/1382741638
 YY-布丁-玄幻电影正在直播,https://lunbo.freetv.top/yy/1455460998
 YY-战争大片,https://lunbo.freetv.top/yy/1382735556
-YY-【玄幻电影】,https://lunbo.freetv.top/yy/1355065896
 YY-你最爱的宋小宝,https://lunbo.freetv.top/yy/1354936198
 YY-超英集结,https://lunbo.freetv.top/yy/1382745091
 YY-经典搞笑影片,https://lunbo.freetv.top/yy/1382749878
@@ -12606,24 +12538,17 @@ YY-怀旧好电影,https://lunbo.freetv.top/yy/1382627144
 YY-X战警系列电影,https://lunbo.freetv.top/yy/1382736893
 YY-战争大片-国外电影,https://lunbo.freetv.top/yy/1382736857
 YY-铭记历史-甲午大海战,https://lunbo.freetv.top/yy/1354936195
-YY-小宝让你乐翻天：6到9集,https://lunbo.freetv.top/yy/1354930971
-YY-体验另一种生活！,https://lunbo.freetv.top/yy/1354936229
 YY-金星脱口秀：我敢说你敢听吗,https://lunbo.freetv.top/yy/1382735552
 YY-热血动作片合集,https://lunbo.freetv.top/yy/1382735627
-YY-小小飞虎队,https://lunbo.freetv.top/yy/1382749888
-YY-我比你更懂车 你偏不信,https://lunbo.freetv.top/yy/85042287
 YY-馋哭了！川味来袭,https://lunbo.freetv.top/yy/1382736913
 YY-妖神记,https://lunbo.freetv.top/yy/1382745171
 YY-绝美！航拍中国第1季,https://lunbo.freetv.top/yy/1354936136
 YY-寻味顺德-美食纪录片,https://lunbo.freetv.top/yy/1382736844
 YY-超燃科幻大片：明日边缘,https://lunbo.freetv.top/yy/1382736835
-YY-香港动作大片,https://lunbo.freetv.top/yy/1382736816
-YY-岳云鹏宋小宝也来演电影了？,https://lunbo.freetv.top/yy/1354926612
 YY-国外高分大片,https://lunbo.freetv.top/yy/1382736867
 YY-来看修牛蹄,https://lunbo.freetv.top/yy/1382749887
 YY-国内科幻,https://lunbo.freetv.top/yy/1354936170
 YY-娘亲舅大,https://lunbo.freetv.top/yy/1354932360
-YY-真心想让你幸福,https://lunbo.freetv.top/yy/1382736876
 YY-国外动作大片,https://lunbo.freetv.top/yy/1382735540
 YY-飞虎之雷霆极战,https://lunbo.freetv.top/yy/1382736869
 YY-冲上云霄2,https://lunbo.freetv.top/yy/1354933556
@@ -12633,17 +12558,78 @@ YY-无罪推定,https://lunbo.freetv.top/yy/1354936208
 YY-苦咖啡,https://lunbo.freetv.top/yy/1382736908
 YY-热播喜剧,https://lunbo.freetv.top/yy/1354936169
 YY-花儿开心吧-小品,https://lunbo.freetv.top/yy/1382736917
-YY-了不起的萝莉小玲,https://lunbo.freetv.top/yy/1382736799
-YY-吾儿可教,https://lunbo.freetv.top/yy/1354932391
 YY-李茶的姑妈-开心麻花,https://lunbo.freetv.top/yy/1354936191
 YY-国内侦探电影大全,https://lunbo.freetv.top/yy/1354936134
 YY-吐槽大会 第5季,https://lunbo.freetv.top/yy/1354889009
 YY-国内动作电影,https://lunbo.freetv.top/yy/1382745176
-YY-能耐大了第1季,https://lunbo.freetv.top/yy/1354930195
 YY-洗地毯,https://lunbo.freetv.top/yy/1382736859
 YY-吐槽大会 第1季,https://lunbo.freetv.top/yy/1354936210
-YY-国外动作片,https://lunbo.freetv.top/yy/1382749913
 YY-相声相声搜38528频道,https://lunbo.freetv.top/yy/34025318
+香港动作大片,http://3501776.xyz:35455/yy/1382736816
+YY-香港动作大片,https://fmbox.cc/yy.php?id=1382736816
+YY-记忆中的TVB,https://fmbox.cc/yy.php?id=1382749951
+YY-破案TVB港剧,https://fmbox.cc/yy.php?id=1354932707
+YY-香港动作大片,https://lunbo.freetv.top/yy/1382736816
+经典港片②,http://124.248.69.76:26781/huya/11602043
+YY-笑傲江湖第一季,https://fmbox.cc/yy.php?id=1382749896
+YY-法证先锋Ⅲ,https://fmbox.cc/yy.php?id=1382736802
+YY-一代枭雄,https://fmbox.cc/yy.php?id=1355917294
+YY-天下第一,https://fmbox.cc/yy.php?id=1355554637
+YY-二龙湖浩哥【经典搞笑】,https://fmbox.cc/yy.php?id=28205255
+YY-第一滴血全集,https://fmbox.cc/yy.php?id=1354932355
+YY-【玄幻电影】,https://fmbox.cc/yy.php?id=1355065896
+YY-【科幻】超炫特效,https://fmbox.cc/yy.php?id=37988782
+YY-【周星驰】星爷 喜剧,https://fmbox.cc/yy.php?id=21092633
+YY-单挑荒野第一季,https://fmbox.cc/yy.php?id=1354933535
+YY-体验另一种生活！,https://fmbox.cc/yy.php?id=1354936229
+YY-一起来笑吧,https://fmbox.cc/yy.php?id=1454859415
+YY-【狂飙2老默】首播,https://fmbox.cc/yy.php?id=1354790484
+YY-【战狼3吴京】首播,https://fmbox.cc/yy.php?id=1456668939
+YY-赵本山《蓝光版》,https://fmbox.cc/yy.php?id=32160832
+YY-【战狼3吴京】独播,https://fmbox.cc/yy.php?id=37999586
+YY-【动漫】斗罗斗破,https://fmbox.cc/yy.php?id=1353098382
+YY-赵本山《超清版》,https://fmbox.cc/yy.php?id=1382683959
+YY-【成龙经典】动作,https://fmbox.cc/yy.php?id=34460526
+YY-【港台】鬼片 惊悚 喜剧,https://fmbox.cc/yy.php?id=1351030377
+YY-【新三国】萌儿陪看,https://fmbox.cc/yy.php?id=29216766
+YY-【新三国】蓝光版,https://fmbox.cc/yy.php?id=1382705738
+YY-特一营,https://fmbox.cc/yy.php?id=1507704566
+YY-24【动漫】正在直播,https://fmbox.cc/yy.php?id=1350984033
+YY-【破案 悬疑 港剧】,https://fmbox.cc/yy.php?id=1382800083
+YY-国漫 一起看正在直播,https://fmbox.cc/yy.php?id=1351417866
+YY-【赌神片 动作片 港片】,https://fmbox.cc/yy.php?id=1355112116
+YY-【林正英】僵尸 鬼片,https://fmbox.cc/yy.php?id=30668277
+YY-【动漫】斗罗斗破超清全屏,https://fmbox.cc/yy.php?id=28796627
+YY-【经典港片】佟瑶,https://fmbox.cc/yy.php?id=23531261
+YY-【电影】超然巨作,https://fmbox.cc/yy.php?id=29170933
+YY-【电影】顶级动作电影,https://fmbox.cc/yy.php?id=24923327
+YY-【动漫】斗罗斗破超清全屏,https://fmbox.cc/yy.php?id=1382689904
+YY-《武林外传》武侠,https://fmbox.cc/yy.php?id=1394000563
+YY-【电影】超然巨作,https://fmbox.cc/yy.php?id=26623173
+YY-【没病走两步】,https://fmbox.cc/yy.php?id=1382851464
+YY-【电视剧】天下第一,https://fmbox.cc/yy.php?id=1354780649
+YY-【陪你看】金刚葫芦娃,https://fmbox.cc/yy.php?id=1353323999
+YY-奇领 铁山靠【Y 正在直播,https://fmbox.cc/yy.php?id=41584371
+YY-【周星驰】搞笑电影,https://fmbox.cc/yy.php?id=38670875
+YY-飞哥全集乐乐陪看】,https://fmbox.cc/yy.php?id=1352946111
+YY-【电视剧】士兵突击,https://fmbox.cc/yy.php?id=22852190
+YY-天下第一,https://fmbox.cc/yy.php?id=1382736838
+YY-一分钟学道菜,https://fmbox.cc/yy.php?id=1382736901
+YY-【天龙八部】蓝光超清,https://fmbox.cc/yy.php?id=28996058
+YY-【动漫】斗罗斗破,https://fmbox.cc/yy.php?id=35742228
+YY-【神探狄仁杰】,https://fmbox.cc/yy.php?id=66821259
+YY-【新三国】吕布,https://fmbox.cc/yy.php?id=1382851459
+YY-【新三国】,https://fmbox.cc/yy.php?id=1382851415
+YY-神探狄仁杰1—5部全集,https://fmbox.cc/yy.php?id=1382705592
+YY-【新三国】日版,https://fmbox.cc/yy.php?id=1382851457
+YY-欢乐一起看,https://fmbox.cc/yy.php?id=1354930926
+YY-法证先锋Ⅱ,https://fmbox.cc/yy.php?id=1354888736
+YY-黑衣人1、2—动作喜剧大片,https://fmbox.cc/yy.php?id=1354930936
+YY-【玄幻电影】,https://lunbo.freetv.top/yy/1355065896
+YY-澳门风云,https://fmbox.cc/yy.php?id=1459243913
+YY-动物世界,https://fmbox.cc/yy.php?id=1382749889
+YY-动物世界-领略原始野性,https://fmbox.cc/yy.php?id=1382743138
+YY-美国队长史蒂夫,https://fmbox.cc/yy.php?id=1382736813
 💫️科幻片区,#genre#
 第三类外星人(英国科幻片),https://vip.lz-cdn3.com/20230319/18180_12c4aa8b/index.m3u8
 神秘博士：博士之力(英国科幻片),https://vip1.lz-cdn1.com/20230502/20962_2d77cafe/index.m3u8
