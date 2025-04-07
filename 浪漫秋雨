@@ -643,9 +643,7 @@ CCTV-17农村,http://183.223.157.33:9901/tsfile/live/0016_1.m3u8
 
 
 🌐全球频道,#genre#
-Channel 8 HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
-PopC,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+PopC电影,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 Love_The_Planet,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
 好消息,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -666,7 +664,7 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-astro-QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+astro巧家,http://php.jdshipin.com/smt.php?id=Quanjia
 astroAod,http://php.jdshipin.com/smt.php?id=Aodhd
 astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 astro爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
@@ -731,7 +729,6 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来日本,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandjapan/playlist.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-
 凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8
 翡翠华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
@@ -901,13 +898,6 @@ IZTV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 ZVEZDA,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 СУСП?ЛЬНЕКУЛЬТУРА,http://ott.watch/stream/E9LDH2ZCN7/435.m3u8
 NTM,http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-SCIFI,http://ott.watch/stream/D9YWLQJUKKF/180.m3u8
-HM4A,http://ott.watch/stream/D9YWLQJUKKF/181.m3u8
-SBTO,http://ott.watch/stream/D9YWLQJUKKF/186.m3u8
-BPEM,http://ott.watch/stream/D9YWLQJUKKF/237.m3u8
-DAV,http://ott.watch/stream/D9YWLQJUKKF/238.m3u8
-EXP,http://ott.watch/stream/D9YWLQJUKKF/239.m3u8
-PLAN,http://ott.watch/stream/D9YWLQJUKKF/240.m3u8
 К?НОТАСЕР?АЛИ,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4867/stream.m3u8
 НТН,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/129/stream.m3u8
 М1,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4598/stream.m3u8
@@ -974,8 +964,8 @@ TVBplus,http://cdn.163189.xyz/live/?id=tvbp
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-TVBplus,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
-TVBplus,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+TVBPLUS,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
+TVBPL,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
