@@ -639,7 +639,7 @@ CCTV-17农村,http://183.223.157.33:9901/tsfile/live/0016_1.m3u8
 广西贺州,http://zhz.gxhzxw.com:2935/live/HZXW-HD/chunklist.m3u8
 
 移动ITV,#genre#
-itv有时看不了,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=toShengfen&mode=1&
+CCTV-1综合,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=toShengfen&mode=1&
 CCTV-1综合,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=toShengfen&mode=1&
 CCTV-1综合,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=toShengfen&mode=1&
 CCTV-1综合,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=5068253659616166748&livemode=1&stbId=toShengfen&mode=1&
@@ -1416,8 +1416,6 @@ CETV4,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wa
 
 
 🌐全球频道,#genre#
-PopC电影,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
-Love_The_Planet,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
 好消息,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -1474,7 +1472,6 @@ EYE-戏剧,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eyetv
 华视频道,rtmp://f13h.mine.nu/sat/tv111
 民视频道,rtmp://f13h.mine.nu/sat/tv051
 台视频道,rtmp://f13h.mine.nu/sat/tv071
-中天新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 年代新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/niandainews_twn/playlist.m3u8
 民视新闻台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvnew_taiwan/playlist.m3u8
 台视新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttvnews_twn/playlist.m3u8
