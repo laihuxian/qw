@@ -172,7 +172,7 @@
             "key": "讴歌影视",
             "name": "🌹┃欧歌┃影视",
             "type": 4,
-            "api": "https://xn--qeeq-rp5imh.v.nxog.top/apitv.php?id=1",
+            "api": "https://xn--qeeq-rp5imh.v.nxog.top/apitv.php?id=1?&ZG9",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
