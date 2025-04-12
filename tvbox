@@ -74,14 +74,14 @@
 
     "sites": [
 {
-     "key": "🎁龙门影视",
-            "name": "🎁┃龙门┃影视",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0,
-            "changeable": 1,
-            "ext": "http://box.iqinu.com/"
-        },
+      "key": "drpy_js_豆瓣",
+      "name": "DRPY┃豆瓣排行",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 1,
+      "ext": "http://box.iqinu.com/json/douban.json"
+    },
         {
             "key": "网盘配置",
             "name": "🍭┃配置┃中心",
