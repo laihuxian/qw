@@ -1,20 +1,4 @@
 //仓库接口均为互联网搜集，纯公益资源，免费测试。//
-{
-    "spider": "http://fmys.top/lib/fm.jar;md5;f3dca7d84b5733964c22b049ae84dfe0",
-    "logo": "http://fmys.top/images/logo.png",
-    "wallpaper": "http://fmys.top/img.php",
-    "warningText": "❤旺客影仓❤",
-    "lives": [
-          {
-            "name": "老头乐",
-            "type": 0,
-            "url": "http://b.mtw.so/5VB3tL",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-   ],
-"sites": [
-
 {"urls": [
 { "url": "https://8919.kstore.space/isz/isz.json","name": "❤️自用接口"},
 { "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json","name": "🎁茄子库"},
