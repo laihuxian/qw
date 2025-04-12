@@ -155,7 +155,6 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        
         {
             "key": "戏曲",
             "name": "🅱️┃戏曲┃大全",
@@ -168,15 +167,7 @@
                 "json": "http://fmys.top/lib/xiqu.json"
             }
         },
-{
-            "key": "讴歌影视",
-            "name": "🌹┃欧歌┃影视",
-            "type": 4,
-            "api": "https://8919.kstore.space/isz/isz.json",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+  {"key": "讴歌接口","name": "🅱️┃讴歌┃接口","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": {"json": "https://xn--qeeq-rp5imh.v.nxog.top/apitv.php?id=1" } },
         {
             "key": "影视",
             "name": "💂┃驸马┃影视",
@@ -223,7 +214,7 @@
             "key": "欧乐影院",
             "name": "🌹┃欧乐┃影院",
             "type": 4,
-            "api": "https://ys.mohuajz.eu.org/天天开心/api.json",
+            "api": "https://py.doube.eu.org/spider?site=OleVod",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
