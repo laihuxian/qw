@@ -163,8 +163,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": {json": "http://fmys.top/lib/xiqu.json"},
-  {"key": "讴歌接口","name": "🅱️┃讴歌┃接口","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": {"json": "https://xn--qeeq-rp5imh.v.nxog.top/apitv.php?id=1"},
+            "ext": {json": "http://fmys.top/lib/xiqu.json" }},
+  {"key": "讴歌接口","name": "🅱️┃讴歌┃接口","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": {"json": "https://xn--qeeq-rp5imh.v.nxog.top/apitv.php?id=1" }},
         {
             "key": "影视",
             "name": "💂┃驸马┃影视",
@@ -204,7 +204,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "site": "https://ddys.pro"
+                "site": "https://ddys.pro" }
         },
         {
             "key": "欧乐影院",
