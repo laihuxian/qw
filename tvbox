@@ -73,15 +73,14 @@
     ],
 
     "sites": [
-      {"url": "http://box.iqinu.com/","name": "🎁东曦视界"},  
 {
-            "key": "豆瓣",
-            "name": "点【主页】切换线路",
+            "key": "🎁东曦视界",
+            "name": "🎁┃东曦┃视界",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
-            "ext": "http://fmys.top/lib/douban.json"
+            "ext": "http://box.iqinu.com/","name"
         },
         {
             "key": "网盘配置",
