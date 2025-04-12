@@ -1,4 +1,19 @@
 //仓库接口均为互联网搜集，纯公益资源，免费测试。//
+{
+    "spider": "http://fmys.top/lib/fm.jar;md5;f3dca7d84b5733964c22b049ae84dfe0",
+    "logo": "http://fmys.top/images/logo.png",
+    "wallpaper": "http://fmys.top/img.php",
+    "warningText": "❤旺客影视❤",
+    "lives": [
+          {
+            "name": "老头乐",
+            "type": 0,
+            "url": "http://b.mtw.so/5VB3tL",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+   ],
+
 {"urls": [
 { "url": "https://8919.kstore.space/isz/isz.json","name": "❤️自用接口"},
 { "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json","name": "🎁茄子库"},
@@ -22,9 +37,7 @@
 {"name": "🎁瓜子影视","url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin"},
 {"name": "🌲蓝天白云影视","url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json"},
 {"url": "https://ys.mohuajz.eu.org/凯少爷/凯少爷本地包.json","name": "💕凯少爷本地包"},
-{"name": "🎁书虫影视","url": "https://d.kstore.dev/download/6726/%E4%B9%A6%E8%99%AB%E5%BD%B1%E8%A7%86%E4%B8%93%E7%89%88%EF%BC%88%E5%A4%87%E7%94%A8%E7%BA%BF
-
-%E8%B7%AF%EF%BC%89.txt"},
+{"name": "🎁书虫影视","url": "https://d.kstore.dev/download/6726/%E4%B9%A6%E8%99%AB%E5%BD%B1%E8%A7%86%E4%B8%93%E7%89%88%EF%BC%88%E5%A4%87%E7%94%A8%E7%BA%BF%E8%B7%AF%EF%BC%89.txt"},
 {"url": "http://121.5.220.231:8899/?explorer/share/file&hash=9058xnpcZQE_77YHhLZmnTLJilNoKx4qOfNjFCDElhVQh_t87RQwPOye4xhf-0dvKumN","name": "🎁神仙接口"},
 {"url": "https://yydsok.com/api/bendi/yydsapi/nf/api.json","name": "💠春秋导航"},
 {"url": "http://zb.gjds.love/公众号搞机大师/gaoji.json","name": "🚀搞机大师"},
@@ -76,11 +89,7 @@
 {"url": "http://175.178.251.183:6689/tv.txt","name": "🌪️懒人线路"},
 {"url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json","name": "🌪️One线路"},
 {"url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json","name": "💕青龙接口"},
-{"url": "https://doget-api.oopscloud.xyz/api/download?
-
-token=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwOi8vd3d3LmZpc2gyMDE4LmlwLWRkbnMuY29tL3AvanNtLmpzb24ifQ.ekeeVkMlivCs-12FJDSAyo56XYgHpLXzjwL4ROHYJWQ","name": "💕PG
-
-接口"},
+{"url": "https://doget-api.oopscloud.xyz/api/download?token=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwOi8vd3d3LmZpc2gyMDE4LmlwLWRkbnMuY29tL3AvanNtLmpzb24ifQ.ekeeVkMlivCs-12FJDSAyo56XYgHpLXzjwL4ROHYJWQ","name": "💕PG接口"},
 {"name": " 🐱俊宇接口","url": "http://home.jundie.top:81/top98.json"},
 {"url": "https://api.hgyx.vip/hgyx.json","name": "💕HG接口"},
 {"url": "https://盒子迷.top/禁止贩卖","name": "💕盒子迷"},
@@ -88,9 +97,7 @@ token=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwOi8vd3d3LmZpc2gyMDE4LmlwLWRkbnMuY29tL
 {"url": "http://xhztv.top/xhz","name": "💕聚玩盒子"},
 {"url": "http://tv.laohu.cool/tvbox.json","name": "💕老虎线路"},
 {"url": "https://gitee.com/lukei7/lib/raw/Luck/自建.json","name": "💕蓝天线路"},
-{"url": "https://fs-im-kefu.7moor-fs1.com:443/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733486568088/%E8%8B%A6%E7%9F%AD%E5%BD%B1%E8%A7%86.json","name": "💕苦
-
-短影视"},
+{"url": "https://fs-im-kefu.7moor-fs1.com:443/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733486568088/%E8%8B%A6%E7%9F%AD%E5%BD%B1%E8%A7%86.json","name": "💕苦短影视"},
 {"url": "https://gitee.com/zhuaijiejie/zhuaijie/raw/master/ZJ.json","name": "💕小鹿影视"},
 {"url": "https://tv.菜妮丝.top","name": "💕菜妮丝"},
 {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json","name": "💕业余打发"},
@@ -102,9 +109,7 @@ token=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwOi8vd3d3LmZpc2gyMDE4LmlwLWRkbnMuY29tL
 {"url": "https://tvbox.catvod.com/catvod.json","name": "Catvod"},
 {"url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json","name": "❤️短剧频道"},
 {"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer","name": "少儿"},
-{"name": "少年影视","url": "https://notabug.org/v8/cj/raw/master/%E5%B0%91%E5%B9%B4%E5%85%8D%E8%B4%B9%E6%8E%A5%E5%8F%A3%E7%A6%81%E6%AD
-
-%A2%E8%B4%A9%E5%8%96.json"},
+{"name": "少年影视","url": "https://notabug.org/v8/cj/raw/master/%E5%B0%91%E5%B9%B4%E5%85%8D%E8%B4%B9%E6%8E%A5%E5%8F%A3%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8%96.json"},
 {"url": "https://6446.kstore.vip/fmys.json","name": "🌺驸马影视"},
 {"url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json","name": "🌺小苹果"},
 {"url": "http://74.120.175.78/JK/XYQTVBox/dj.json","name": "💕短剧集合"},
