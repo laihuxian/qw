@@ -223,7 +223,7 @@
             "key": "欧乐影院",
             "name": "🌹┃欧乐┃影院",
             "type": 4,
-            "api": "https://py.doube.eu.org/spider?site=OleVod",
+            "api": "https://ys.mohuajz.eu.org/天天开心/api.json",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
