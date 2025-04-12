@@ -74,13 +74,13 @@
 
     "sites": [
          {
-            "key": "讴歌影视",
-            "name": "🌹┃欧歌┃影视",
-            "type": 4,
-            "api": "https://xn--qeeq-rp5imh.v.nxog.top/apitv.php?id=1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "key": "豆瓣",
+            "name": "点【主页】切换线路",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "ext": "http://fmys.top/lib/douban.json"
         },
         {
             "key": "网盘配置",
@@ -155,16 +155,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
-            "key": "py_三号动漫",
-            "name": "3️⃣┃三号┃动漫",
-            "type": 3,
-            "api": "http://fmys.top/py/sanhao.py",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 1
-        },
+        
         {
             "key": "戏曲",
             "name": "🅱️┃戏曲┃大全",
@@ -176,6 +167,15 @@
             "ext": {
                 "json": "http://fmys.top/lib/xiqu.json"
             }
+        },
+{
+            "key": "讴歌影视",
+            "name": "🌹┃欧歌┃影视",
+            "type": 4,
+            "api": "https://xn--qeeq-rp5imh.v.nxog.top/apitv.php?id=1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "影视",
@@ -220,15 +220,6 @@
             }
         },
         {
-            "key": "湾湾频道",
-            "name": "🌀┃湾湾┃频道",
-            "type": 3,
-            "api": "csp_Ptt",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "欧乐影院",
             "name": "🌹┃欧乐┃影院",
             "type": 4,
@@ -268,36 +259,6 @@
             "ext": "http://fmys.top/lib/wcys.json"
         },
         {
-            "key": "py_apple",
-            "name": "🍎┃苹果┃影视",
-            "type": 3,
-            "api": "http://fmys.top/py/apple.py",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 1
-        },
-        {
-            "key": "py_娃娃",
-            "name": "🎊┃娃娃┃影视",
-            "type": 3,
-            "api": "http://fmys.top/py/wawa.py",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 1
-        },
-        {
-            "key": "木耳",
-            "name": "🎠┃木耳┃影视",
-            "type": 3,
-            "api": "csp_Hmer",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "timeout": 30
-        },
-        {
             "key": "荐片",
             "name": "⏳┃荐片┃影视",
             "type": 3,
@@ -308,36 +269,6 @@
             "ext": "http://fmys.top/lib/jp.js"
         },
         {
-            "key": "py_悠悠",
-            "name": "🪀┃悠悠┃影视",
-            "type": 3,
-            "api": "http://fmys.top/py/youyou.py",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 1
-        },
-        {
-            "key": "py_追剧",
-            "name": "☄️ ┃追剧┃影视",
-            "type": 3,
-            "api": "http://fmys.top/py/LREEOK.py",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 1
-        },
-        {
-            "key": "py_hitv",
-            "name": "☀️┃晴天┃影视",
-            "type": 3,
-            "api": "http://fmys.top/py/hitv.py",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 1
-        },
-        {
             "key": "玩偶哥哥",
             "name": "👽┃玩偶┃哥哥",
             "type": 3,
@@ -345,18 +276,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "闪电网盘",
-            "name": "⚡️┃闪电┃网盘",
-            "type": 3,
-            "api": "csp_Mogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "http://1.95.79.193"
-            }
         },
         {
             "key": "至臻网盘",
@@ -381,36 +300,6 @@
             "ext": {
                 "site": "https://mo.666291.xyz"
             }
-        },
-        {
-            "key": "蜡笔网盘",
-            "name": "🖍︎┃蜡笔┃网盘",
-            "type": 3,
-            "api": "csp_Mogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "site": "http://wogg.nxog.eu.org"
-            }
-        },
-        {
-            "key": "夸克盘社",
-            "name": "📀┃夸克┃盘社",
-            "type": 3,
-            "api": "csp_Kwps",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "电影云集",
-            "name": "🍫┃电影┃云集",
-            "type": 3,
-            "api": "csp_Dyyj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "云盘合集",
@@ -444,25 +333,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://fmys.top/lib/dyxs.json"
-        },
-        {
-            "key": "白嫖联盟",
-            "name": "🎐┃白嫖┃联盟",
-            "type": 3,
-            "api": "http://fmys.top/lib/drpy2.min.js",
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://fmys.top/lib/bplm.js"
-        },
-        {
-            "key": "爱看机器人",
-            "name": "🤖┃爱看┃影视",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "api": "http://fmys.top/lib/drpy2.min.js",
-            "ext": "http://fmys.top/lib/ikanbot.js"
         },
         {
             "key": "磁力熊[磁]",
@@ -527,26 +397,6 @@
             "ext": "http://fmys.top/lib/yxdm.js"
         },
         {
-            "key": "茉莉动漫",
-            "name": "🌸┃茉莉┃动漫",
-            "type": 3,
-            "api": "http://fmys.top/lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://fmys.top/lib/yhdm.js"
-        },
-        {
-            "key": "大米动漫",
-            "name": "🖼┃大米┃动漫",
-            "type": 3,
-            "api": "http://fmys.top/lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://fmys.top/lib/dmdm.js"
-        },
-        {
             "key": "奇米动漫",
             "name": "🍿┃奇米┃动漫",
             "type": 3,
@@ -555,22 +405,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "http://fmys.top/lib/qmdm.js"
-        },
-        {
-            "key": "巴士",
-            "name": "🚌┃巴士┃动漫",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "异界动漫",
-            "name": "👻┃异界┃动漫",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "短剧库",
@@ -591,30 +425,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 10
-        },
-        {
-            "key": "Qlso",
-            "name": "🔎┃奇奇┃乐搜",
-            "type": 3,
-            "api": "csp_Qlso",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "TianYiSo",
-            "name": "🔎┃天翼┃搜索",
-            "type": 3,
-            "api": "csp_TianYiSo",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "小纸条",
-            "name": "🔎┃阿里┃纸条",
-            "type": 3,
-            "api": "csp_XiaoZhiTiao",
-            "searchable": 1,
-            "changeable": 0
         },
         {
             "key": "易搜",
@@ -788,28 +598,6 @@
             "filterable": 0,
             "ext": {
                 "json": "http://fmys.top/lib/bili.json"
-            }
-        },
-        {
-            "key": "酷奇MV",
-            "name": "🎸┃酷奇┃MV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "http://fmys.top/lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": {
-                "主页url": "https://www.kuqimv.com",
-                "直接播放": "1",
-                "短视频": "1",
-                "分类": "华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10",
-                "分类url": "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z",
-                "数组": "<li>&&</li>",
-                "标题": "title=\"&&\"",
-                "副标题": "target=\"play\">&&<",
-                "搜索模式": "1",
-                "搜索url": "https://www.kuqimv.com/search.php?key={wd}"
             }
         },
         {
