@@ -3,7 +3,7 @@
     "spider": "http://fmys.top/lib/fm.jar;md5;f3dca7d84b5733964c22b049ae84dfe0",
     "logo": "http://fmys.top/images/logo.png",
     "wallpaper": "http://fmys.top/img.php",
-    "warningText": "❤旺客影视❤",
+    "warningText": "❤旺客影仓❤",
     "lives": [
           {
             "name": "老头乐",
@@ -13,6 +13,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
    ],
+"sites": [
 
 {"urls": [
 { "url": "https://8919.kstore.space/isz/isz.json","name": "❤️自用接口"},
