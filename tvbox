@@ -80,7 +80,7 @@
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
-            "ext": "http://box.iqinu.com/","name"
+            "ext": "http://box.iqinu.com/",
         },
         {
             "key": "网盘配置",
