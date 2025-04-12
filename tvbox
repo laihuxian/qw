@@ -73,14 +73,14 @@
     ],
 
     "sites": [
-        {
-            "key": "讴歌接口",
-            "name": "点【主页】切换线路",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0,
-            "changeable": 1,
-            "ext": "https://xn--qeeq-rp5imh.v.nxog.top/apitv.php?id=1"
+         {
+            "key": "讴歌影视",
+            "name": "🌹┃欧歌┃影视",
+            "type": 4,
+            "api": "https://xn--qeeq-rp5imh.v.nxog.top/apitv.php?id=1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "网盘配置",
