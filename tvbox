@@ -155,16 +155,28 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
-            "key": "戏曲",
+ {"key": "戏曲",
             "name": "🅱️┃戏曲┃大全",
             "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {"json": "http://fmys.top/lib/xiqu.json" }},
-  {"key": "讴歌接口","name": "🅱️┃讴歌┃接口","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": {"json": "https://xn--qeeq-rp5imh.v.nxog.top/apitv.php?id=1" }},
+            "api": "csp_Mogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "http://fmys.top/lib/xiqu.json"
+            }
+        },
+        {"key": "讴歌接口",
+            "name": "🅱️┃讴歌┃接口",
+            "type": 3,
+            "api": "csp_Mogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://xn--qeeq-rp5imh.v.nxog.top/apitv.php?id=1"
+            }
+        },
         {
             "key": "影视",
             "name": "💂┃驸马┃影视",
